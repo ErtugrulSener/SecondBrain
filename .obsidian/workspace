@@ -1,29 +1,33 @@
 {
   "main": {
-    "id": "60ebc9dc6fb0c1eb",
+    "id": "4f66891cccc4e1fc",
     "type": "split",
     "children": [
       {
-        "id": "8566c7360d2ec301",
+        "id": "667305d247a5dc65",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Sprachen/Arabisch/dunkles-und-helles-lam.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f4f0e55cb1cfda69",
+    "id": "8911337cdf8dc0b8",
     "type": "split",
     "children": [
       {
-        "id": "7f4e2f19478a1c32",
+        "id": "7f0c2874051e1d01",
         "type": "tabs",
         "children": [
           {
-            "id": "e1f2dfce40dd7dab",
+            "id": "4a6ccfcfe90749a7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +35,7 @@
             }
           },
           {
-            "id": "acee012c6bfa0d21",
+            "id": "f6fa5edbfbab42bc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -46,7 +50,7 @@
             }
           },
           {
-            "id": "169d0b9476681879",
+            "id": "7437be998ca24fa6",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -60,19 +64,20 @@
     "width": 300
   },
   "right": {
-    "id": "d575342ff42164d4",
+    "id": "80f2fb75cc69f2ce",
     "type": "split",
     "children": [
       {
-        "id": "493f1c2b3fa24609",
+        "id": "7d8875447dab2376",
         "type": "tabs",
         "children": [
           {
-            "id": "bcffa7c753aa983e",
+            "id": "4c4c74702a18c45f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sprachen/Arabisch/dunkles-und-helles-lam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,18 +89,19 @@
             }
           },
           {
-            "id": "6a82a88816b1c658",
+            "id": "80f07c34145bd3f5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sprachen/Arabisch/dunkles-und-helles-lam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "23e9e0c35da6158b",
+            "id": "f6683d5252829757",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -106,11 +112,13 @@
             }
           },
           {
-            "id": "04735aed34c47b58",
+            "id": "09e8d4d0441b2db1",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sprachen/Arabisch/dunkles-und-helles-lam.md"
+              }
             }
           }
         ]
@@ -120,8 +128,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e1f2dfce40dd7dab",
+  "active": "667305d247a5dc65",
   "lastOpenFiles": [
-    "2022-10-08.md"
+    "Sprachen/Arabisch/stille-buchstaben.md",
+    "Sprachen/Arabisch/ta-marbuta.md",
+    "Sprachen/Arabisch/ta-maftuha.md",
+    "Java/Benchmarking/JMH.md"
   ]
 }
