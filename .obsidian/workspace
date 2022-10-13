@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sprachen/Arabisch/dunkles-und-helles-ra.md",
+            "file": "Sprachen/Arabisch/med-kasr.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sprachen/Arabisch/dunkles-und-helles-ra.md",
+                "file": "Sprachen/Arabisch/med-kasr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sprachen/Arabisch/dunkles-und-helles-ra.md",
+                "file": "Sprachen/Arabisch/med-kasr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sprachen/Arabisch/dunkles-und-helles-ra.md"
+                "file": "Sprachen/Arabisch/med-kasr.md"
               }
             }
           }
@@ -130,12 +130,14 @@
   },
   "active": "78d64cfa51bcaa6a",
   "lastOpenFiles": [
-    "Pasted image 20221013074814.png.md",
-    "Sprachen/Arabisch/dunkles-und-helles-ra.md",
     "Sprachen/Arabisch/dunkles-und-helles-lam.md",
+    "Sprachen/Arabisch/dunkles-und-helles-ra.md",
+    "Sprachen/Arabisch/med-kasr.md",
+    "Sprachen/Arabisch/pausenzeichen.md",
     "Sprachen/Arabisch/ta-marbuta.md",
     "Sprachen/Arabisch/ta-maftuha.md",
     "Sprachen/Arabisch/stille-buchstaben.md",
+    "Pasted image 20221013074814.png.md",
     "Java/Benchmarking/JMH.md"
   ]
 }

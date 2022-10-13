@@ -2,7 +2,7 @@
 
 ## Regel Nr. 1) Wenn die Harakat vor dem Lam ein Fatha oder Damma trägt, dann wird das Lam **dunkel** ausgsprochen.
 
-## Regel Nr. 2) Bei einer Kasra wird es **hell* ausgesprochen.
+## Regel Nr. 2) Bei einer Kasra wird es **hell** ausgesprochen.
 
 | Form | Aussprache | Erklärung |
 | --- | --- | --- |
