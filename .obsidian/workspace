@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "667305d247a5dc65",
+        "id": "78d64cfa51bcaa6a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sprachen/Arabisch/dunkles-und-helles-lam.md",
+            "file": "Sprachen/Arabisch/dunkles-und-helles-ra.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sprachen/Arabisch/dunkles-und-helles-lam.md",
+                "file": "Sprachen/Arabisch/dunkles-und-helles-ra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sprachen/Arabisch/dunkles-und-helles-lam.md",
+                "file": "Sprachen/Arabisch/dunkles-und-helles-ra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sprachen/Arabisch/dunkles-und-helles-lam.md"
+                "file": "Sprachen/Arabisch/dunkles-und-helles-ra.md"
               }
             }
           }
@@ -128,11 +128,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "667305d247a5dc65",
+  "active": "78d64cfa51bcaa6a",
   "lastOpenFiles": [
-    "Sprachen/Arabisch/stille-buchstaben.md",
+    "Pasted image 20221013074814.png.md",
+    "Sprachen/Arabisch/dunkles-und-helles-ra.md",
+    "Sprachen/Arabisch/dunkles-und-helles-lam.md",
     "Sprachen/Arabisch/ta-marbuta.md",
     "Sprachen/Arabisch/ta-maftuha.md",
+    "Sprachen/Arabisch/stille-buchstaben.md",
     "Java/Benchmarking/JMH.md"
   ]
 }
