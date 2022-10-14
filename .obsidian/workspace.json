@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sprachen/Arabisch/madd-buchstaben/madd-lazim.md",
+                "file": "Sprachen/Arabisch/pausenzeichen.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sprachen/Arabisch/madd-buchstaben/madd-lazim.md",
+                "file": "Sprachen/Arabisch/pausenzeichen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sprachen/Arabisch/madd-buchstaben/madd-lazim.md",
+                "file": "Sprachen/Arabisch/pausenzeichen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sprachen/Arabisch/madd-buchstaben/madd-lazim.md"
+                "file": "Sprachen/Arabisch/pausenzeichen.md"
               }
             }
           }
@@ -157,11 +157,11 @@
   },
   "active": "e18de9f6f41c23ef",
   "lastOpenFiles": [
+    "Sprachen/Arabisch/madd-buchstaben/madd-lazim.md",
     "Sprachen/Arabisch/madd-buchstaben/madd-munfasil.md",
     "Sprachen/Arabisch/madd-buchstaben/arten-des-madd.md",
     "Sprachen/Arabisch/madd-kasr.md",
     "Sprachen/Arabisch/madd-buchstaben/madd-mutasil.md",
-    "Sprachen/Arabisch/madd-buchstaben/madd-lazim.md",
     "Sprachen/Arabisch/dunkles-und-helles-lam.md",
     "Sprachen/Arabisch/stille-buchstaben.md",
     "Sprachen/Arabisch/dunkles-und-helles-ra.md",
