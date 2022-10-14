@@ -2,7 +2,7 @@
 
 | Form | Aussprache | Erklärung |
 | --- | --- | --- |
-| <span style="font-size: 22pt">ﻣﺪ</span> | med | Langlesen! |
+| <span style="font-size: 22pt">ﻣﺪ</span> | Madd | Langlesen! |
 | <span style="font-size: 22pt">ﻗﺼﺮ</span> | kasr | Kurzlesen! |
 
 
