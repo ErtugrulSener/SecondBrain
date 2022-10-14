@@ -1,4 +1,11 @@
 {
   "promptDelete": false,
-  "livePreview": false
+  "livePreview": false,
+  "alwaysUpdateLinks": true,
+  "rightToLeft": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "de",
+    "en-GB"
+  ]
 }

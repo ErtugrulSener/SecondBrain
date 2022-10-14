@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "4f66891cccc4e1fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "669cfe5055ee7806",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58fb4eba104d9f55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sprachen/Arabisch/dunkles-und-helles-lam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8911337cdf8dc0b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f0c2874051e1d01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a6ccfcfe90749a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6fa5edbfbab42bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7437be998ca24fa6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "80f2fb75cc69f2ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d8875447dab2376",
+        "type": "tabs",
+        "dimension": 38.55769230769231,
+        "children": [
+          {
+            "id": "4c4c74702a18c45f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sprachen/Arabisch/dunkles-und-helles-lam.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80f07c34145bd3f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sprachen/Arabisch/dunkles-und-helles-lam.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f6683d5252829757",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "09e8d4d0441b2db1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sprachen/Arabisch/dunkles-und-helles-lam.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "713c99cd4135767c",
+        "type": "tabs",
+        "dimension": 61.44230769230769,
+        "children": [
+          {
+            "id": "9d5638be2e375f98",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "58fb4eba104d9f55",
+  "lastOpenFiles": [
+    "Sprachen/Arabisch/dunkles-und-helles-ra.md",
+    "Sprachen/Arabisch/pausenzeichen.md",
+    "Sprachen/Arabisch/stille-buchstaben.md",
+    "Sprachen/Arabisch/ta-maftuha.md",
+    "Sprachen/Arabisch/ta-marbuta.md",
+    "Java/Benchmarking/JMH.md",
+    "Sprachen/Arabisch/dunkles-und-helles-lam.md",
+    "Sprachen/Arabisch/med-kasr.md",
+    "Untitled.md",
+    "Images/Arabic/dunkles_ra_2.png"
+  ]
+}
