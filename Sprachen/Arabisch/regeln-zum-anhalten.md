@@ -19,5 +19,11 @@ wird gesprochen als "Hamimaa" statt "Hamiman".
 
 # Regel Nr. 3) Wenn wir am Ende des Wortes ein [[ta-marbuta]] vorfinden, sprechen wir ein Ha.
 
-# Weitere Regeln zum Anhalten definieren die [[pausenzeichen]]
+## Weitere Regeln zum Anhalten definieren die [[pausenzeichen]]
+
+# Referenzen
+[Video](https://www.youtube.com/watch?v=xCqsgAbqSzs)
+
+
+
 

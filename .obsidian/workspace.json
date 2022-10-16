@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sprachen/Arabisch/yarmaloon-buchstaben.md",
+                "file": "Sprachen/Arabisch/madd-kasr.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,10 +48,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#rule-of-idgaam",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sprachen/Arabisch/yarmaloon-buchstaben.md",
+                "file": "Sprachen/Arabisch/madd-kasr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sprachen/Arabisch/yarmaloon-buchstaben.md",
+                "file": "Sprachen/Arabisch/madd-kasr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sprachen/Arabisch/yarmaloon-buchstaben.md"
+                "file": "Sprachen/Arabisch/madd-kasr.md"
               }
             }
           }
@@ -158,13 +157,13 @@
   },
   "active": "e18de9f6f41c23ef",
   "lastOpenFiles": [
-    "Sprachen/Arabisch/sukuniertes-mim-oder-nun.md",
+    "Sprachen/Arabisch/regeln-zum-anhalten.md",
     "Sprachen/Arabisch/yarmaloon-buchstaben.md",
+    "Sprachen/Arabisch/sukuniertes-mim-oder-nun.md",
     "Sprachen/Arabisch/ta-marbuta.md",
     "Sprachen/Arabisch/madd-kasr.md",
     "Sprachen/Arabisch/stille-buchstaben.md",
     "Sprachen/Arabisch/ta-maftuha.md",
-    "Sprachen/Arabisch/regeln-zum-anhalten.md",
     "Sprachen/Arabisch/pausenzeichen.md",
     "Sprachen/Arabisch/dunkles-und-helles-lam.md",
     "Sprachen/Arabisch/dunkles-und-helles-ra.md"
