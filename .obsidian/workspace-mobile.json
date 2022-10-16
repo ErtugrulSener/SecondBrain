@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "4f66891cccc4e1fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "830c3e14f5e9544b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78d64cfa51bcaa6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sprachen/Arabisch/pausenzeichen.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f29311978b8ba8b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9b273cc9209fac13",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "85aa17095bc25d54",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "33644f8b34fd6782",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "0ac10434e9b202a3",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a5ba4e2debc7f73d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ef5d57affc324c3c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Sprachen/Arabisch/pausenzeichen.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8187f81c675a6fe5",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Sprachen/Arabisch/pausenzeichen.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "19e908da5aeb9292",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Sprachen/Arabisch/pausenzeichen.md"
+          }
+        }
+      },
+      {
+        "id": "da571c4c24d151db",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "78d64cfa51bcaa6a",
+  "lastOpenFiles": [
+    "Sprachen/Arabisch/madd-buchstaben/madd-lazim.md",
+    "Sprachen/Arabisch/madd-buchstaben/arten-des-madd.md",
+    "Sprachen/Arabisch/madd-buchstaben/madd-mutasil.md",
+    "Sprachen/Arabisch/madd-buchstaben/madd-munfasil.md",
+    "Sprachen/Arabisch/dunkles-und-helles-lam.md",
+    "Sprachen/Arabisch/dunkles-und-helles-ra.md",
+    "Sprachen/Arabisch/med-kasr.md",
+    "Sprachen/Arabisch/pausenzeichen.md",
+    "Sprachen/Arabisch/ta-marbuta.md",
+    "Sprachen/Arabisch/ta-maftuha.md"
+  ]
+}
