@@ -1,12 +1,4 @@
 {
-  "editor:toggle-source": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "S"
-    }
-  ],
   "workspace:split-vertical": [
     {
       "modifiers": [
@@ -22,6 +14,14 @@
         "Shift"
       ],
       "key": "P"
+    }
+  ],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
     }
   ]
 }

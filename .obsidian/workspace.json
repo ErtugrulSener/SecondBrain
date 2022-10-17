@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9e68fefbf677589d",
+        "id": "a6910205b26fafe6",
         "type": "tabs",
         "children": [
           {
-            "id": "1e9fe0869deda826",
+            "id": "764a914960a9db2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch/regeln-zum-hamza.md",
-                "mode": "source",
+                "file": "Synapsen/Sprachen/Arabisch/noon-qutni.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6fba5f9ee07c305c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c4682cf57eb290d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Synapsen/Sprachen/Arabisch/noon-qutni.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -86,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch/regeln-zum-hamza.md",
+                "file": "Synapsen/Sprachen/Arabisch/noon-qutni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch/regeln-zum-hamza.md",
+                "file": "Synapsen/Sprachen/Arabisch/noon-qutni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch/regeln-zum-hamza.md"
+                "file": "Synapsen/Sprachen/Arabisch/noon-qutni.md"
               }
             }
           },
@@ -164,17 +182,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1e9fe0869deda826",
+  "active": "764a914960a9db2e",
   "lastOpenFiles": [
-    "Synapsen/Sprachen/Arabisch/yarmaloon-buchstaben.md",
-    "Synapsen/Sprachen/Arabisch/regeln-zum-hamza.md",
-    "Synapsen/Sprachen/Arabisch/ta-marbuta.md",
     "Synapsen/Sprachen/Arabisch/madd-kasr.md",
+    "Synapsen/Sprachen/Arabisch/noon-qutni.md",
     "Synapsen/Sprachen/Arabisch/dunkles-und-helles-lam.md",
+    "Synapsen/Sprachen/Arabisch/yarmaloon-buchstaben.md",
+    "Synapsen/Sprachen/Arabisch/dunkles-und-helles-ra.md",
+    "Synapsen/Sprachen/Arabisch/sukuniertes-mim-oder-nun.md",
+    "Synapsen/Sprachen/Arabisch/regeln-zum-hamza.md",
     "Synapsen/Sprachen/Arabisch/pausenzeichen.md",
-    "Flashcards/Sprachen/Arabisch/pausezeichen.md",
-    "Synapsen/Sprachen/Arabisch/regeln-zum-anhalten.md",
-    "Synapsen/Sprachen/Arabisch/madd-buchstaben/madd-lazim.md",
-    "Synapsen/Sprachen/Arabisch/madd-buchstaben/arten-des-madd.md"
+    "Synapsen/Sprachen/Arabisch/ta-marbuta.md",
+    "Flashcards/Sprachen/Arabisch/pausezeichen.md"
   ]
 }
