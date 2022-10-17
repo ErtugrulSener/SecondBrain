@@ -13,13 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch/anhalteregeln/regeln-zum-anhalten.md",
+                "file": "Flashcards/Sprachen/Arabisch/pausezeichen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -48,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#rule-of-iqlaab",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch/anhalteregeln/regeln-zum-anhalten.md",
+                "file": "Flashcards/Sprachen/Arabisch/pausezeichen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch/anhalteregeln/regeln-zum-anhalten.md",
+                "file": "Flashcards/Sprachen/Arabisch/pausezeichen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,16 +127,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch/anhalteregeln/regeln-zum-anhalten.md"
+                "file": "Flashcards/Sprachen/Arabisch/pausezeichen.md"
               }
-            }
-          },
-          {
-            "id": "bc24d42c0f36e9c8",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
             }
           },
           {
@@ -145,9 +138,25 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "62c534be1236020e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c937d1be6fce869f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "713c99cd4135767c",
@@ -166,17 +175,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 382.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "764a914960a9db2e",
+  "active": "4a6ccfcfe90749a7",
   "lastOpenFiles": [
+    "Synapsen/Sprachen/Arabisch/anhalteregeln/regeln-zum-anhalten.md",
     "Synapsen/Sprachen/Arabisch/ta-marbuta.md",
     "Synapsen/Sprachen/Arabisch/ta-maftuha.md",
     "Synapsen/Sprachen/Arabisch/sukuniertes-mim-oder-nun.md",
-    "Synapsen/Sprachen/Arabisch/anhalteregeln/regeln-zum-anhalten.md",
     "Synapsen/Sprachen/Arabisch/anhalteregeln/pausenzeichen.md",
     "Synapsen/Sprachen/Arabisch/stille-buchstaben.md",
     "Synapsen/Sprachen/Arabisch/regeln-zum-hamza.md",
