@@ -10,7 +10,7 @@
   "workspace:split-vertical": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "X"
     }
