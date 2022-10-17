@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch/sukuniertes-mim-oder-nun.md",
+                "file": "Synapsen/Sprachen/Arabisch/ta-marbuta.md",
                 "mode": "preview",
                 "source": true
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch/sukuniertes-mim-oder-nun.md",
+                "file": "Synapsen/Sprachen/Arabisch/ta-marbuta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch/sukuniertes-mim-oder-nun.md",
+                "file": "Synapsen/Sprachen/Arabisch/ta-marbuta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch/sukuniertes-mim-oder-nun.md"
+                "file": "Synapsen/Sprachen/Arabisch/ta-marbuta.md"
               }
             }
           },
@@ -184,15 +184,15 @@
   },
   "active": "764a914960a9db2e",
   "lastOpenFiles": [
-    "Synapsen/Sprachen/Arabisch/stille-buchstaben.md",
-    "Synapsen/Sprachen/Arabisch/regeln-zum-anhalten.md",
-    "Synapsen/Sprachen/Arabisch/regeln-zum-hamza.md",
-    "Synapsen/Sprachen/Arabisch/sukuniertes-mim-oder-nun.md",
-    "Synapsen/Sprachen/Arabisch/noon-qutni.md",
-    "Synapsen/Sprachen/Arabisch/pausenzeichen.md",
     "Synapsen/Sprachen/Arabisch/ta-maftuha.md",
     "Synapsen/Sprachen/Arabisch/ta-marbuta.md",
-    "Synapsen/Sprachen/Arabisch/yarmaloon-buchstaben.md",
+    "Synapsen/Sprachen/Arabisch/anhalteregeln/regeln-zum-anhalten.md",
+    "Synapsen/Sprachen/Arabisch/anhalteregeln/pausenzeichen.md",
+    "Synapsen/Sprachen/Arabisch/sukuniertes-mim-oder-nun.md",
+    "Synapsen/Sprachen/Arabisch/stille-buchstaben.md",
+    "Synapsen/Sprachen/Arabisch/regeln-zum-hamza.md",
+    "Synapsen/Sprachen/Arabisch/dunkles-und-helles-lam.md",
+    "Synapsen/Sprachen/Arabisch/dunkles-und-helles-ra.md",
     "Synapsen/Sprachen/Arabisch/madd-kasr.md"
   ]
 }
