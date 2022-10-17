@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "194f560b0166c5b5",
+        "id": "9e68fefbf677589d",
         "type": "tabs",
         "children": [
           {
-            "id": "e18de9f6f41c23ef",
+            "id": "1e9fe0869deda826",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sprachen/Arabisch/madd-kasr.md",
+                "file": "Synapsen/Sprachen/Arabisch/pausenzeichen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da3446060f0904c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flashcards/Sprachen/Arabisch/pausezeichen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sprachen/Arabisch/madd-kasr.md",
+                "file": "Flashcards/Sprachen/Arabisch/pausezeichen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sprachen/Arabisch/madd-kasr.md",
+                "file": "Flashcards/Sprachen/Arabisch/pausezeichen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,12 +139,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sprachen/Arabisch/madd-kasr.md"
+                "file": "Flashcards/Sprachen/Arabisch/pausezeichen.md"
               }
+            }
+          },
+          {
+            "id": "bc24d42c0f36e9c8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "713c99cd4135767c",
@@ -150,22 +171,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e18de9f6f41c23ef",
+  "active": "da3446060f0904c1",
   "lastOpenFiles": [
-    "Sprachen/Arabisch/regeln-zum-anhalten.md",
-    "Sprachen/Arabisch/yarmaloon-buchstaben.md",
-    "Sprachen/Arabisch/sukuniertes-mim-oder-nun.md",
-    "Sprachen/Arabisch/ta-marbuta.md",
-    "Sprachen/Arabisch/madd-kasr.md",
-    "Sprachen/Arabisch/stille-buchstaben.md",
-    "Sprachen/Arabisch/ta-maftuha.md",
-    "Sprachen/Arabisch/pausenzeichen.md",
-    "Sprachen/Arabisch/dunkles-und-helles-lam.md",
-    "Sprachen/Arabisch/dunkles-und-helles-ra.md"
+    "Synapsen/Sprachen/Arabisch/pausenzeichen.md",
+    "Flashcards/Sprachen/Arabisch/pausezeichen.md",
+    "Synapsen/Sprachen/Arabisch/regeln-zum-anhalten.md",
+    "Synapsen/Sprachen/Arabisch/yarmaloon-buchstaben.md",
+    "Synapsen/Sprachen/Arabisch/madd-buchstaben/madd-lazim.md",
+    "Synapsen/Sprachen/Arabisch/madd-buchstaben/arten-des-madd.md",
+    "Synapsen/Sprachen/Arabisch/madd-buchstaben/madd-mutasil.md",
+    "Synapsen/Sprachen/Arabisch/madd-buchstaben/madd-munfasil.md",
+    "Synapsen/Sprachen/Arabisch/dunkles-und-helles-lam.md",
+    "Synapsen/Sprachen/Arabisch/madd-kasr.md"
   ]
 }
