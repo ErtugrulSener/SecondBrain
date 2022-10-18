@@ -4,36 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e2332a8cccc7fbac",
+        "id": "da8a56a556460492",
         "type": "tabs",
         "children": [
           {
-            "id": "00aa0a80dcac3ea9",
+            "id": "66854df9ad8761ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Synapsen/Sprachen/Arabisch/sukuniertes-mim-oder-nun.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "d8fc68013ed6a97f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6917c72890391ba4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Synapsen/Sprachen/Arabisch/sukuniertes-mim-oder-nun.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -189,17 +171,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "00aa0a80dcac3ea9",
+  "active": "66854df9ad8761ee",
   "lastOpenFiles": [
-    "Synapsen/Sprachen/Arabisch/dunkles-und-helles-lam.md",
-    "Synapsen/Sprachen/Arabisch/madd-buchstaben/arten-des-madd.md",
-    "Synapsen/Sprachen/Arabisch/terminologie.md",
-    "Synapsen/Sprachen/Arabisch/sukuniertes-mim-oder-nun.md",
-    "Synapsen/Sprachen/Arabisch/yarmaloon-buchstaben.md",
-    "Synapsen/Sprachen/Arabisch/ta-marbuta.md",
-    "Synapsen/Sprachen/Arabisch/anhalteregeln/pausenzeichen.md",
+    "Synapsen/Sprachen/Arabisch/regeln-zum-hamza.md",
     "Synapsen/Sprachen/Arabisch/stille-buchstaben.md",
-    "Synapsen/Sprachen/Arabisch/madd-buchstaben/madd-lazim.md",
-    "Synapsen/Sprachen/Arabisch/dunkles-und-helles-ra.md"
+    "Synapsen/Sprachen/Arabisch/dunkles-und-helles-ra.md",
+    "Synapsen/Sprachen/Arabisch/dunkles-und-helles-lam.md",
+    "Images/Arabic/dunkles_ra_2.png",
+    "Synapsen/Sprachen/Arabisch/sukuniertes-mim-oder-nun.md",
+    "Synapsen/Sprachen/Arabisch/madd-kasr.md",
+    "Synapsen/Sprachen/Arabisch/noon-qutni.md",
+    "Synapsen/Sprachen/Arabisch/ta-marbuta.md",
+    "Synapsen/Sprachen/Arabisch/terminologie.md"
   ]
 }
