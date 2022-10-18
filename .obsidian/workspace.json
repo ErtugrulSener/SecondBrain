@@ -8,26 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d7c991f00bfbfd2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Synapsen/Sprachen/Arabisch/madd-buchstaben/madd-lazim.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fcb9f4ca7d8b7d7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Synapsen/Sprachen/Arabisch/anhalteregeln/pausenzeichen.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch/madd-buchstaben/madd-lazim.md",
+                "file": "Synapsen/Sprachen/Arabisch/anhalteregeln/pausenzeichen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch/madd-buchstaben/madd-lazim.md",
+                "file": "Synapsen/Sprachen/Arabisch/anhalteregeln/pausenzeichen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch/madd-buchstaben/madd-lazim.md"
+                "file": "Synapsen/Sprachen/Arabisch/anhalteregeln/pausenzeichen.md"
               }
             }
           },
@@ -183,17 +171,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d7c991f00bfbfd2d",
+  "active": "fcb9f4ca7d8b7d7a",
   "lastOpenFiles": [
+    "Synapsen/Sprachen/Arabisch/sukuniertes-mim-oder-nun.md",
+    "Synapsen/Sprachen/Arabisch/stille-buchstaben.md",
+    "Synapsen/Sprachen/Arabisch/yarmaloon-buchstaben.md",
+    "Synapsen/Sprachen/Arabisch/madd-buchstaben/arten-des-madd.md",
+    "Synapsen/Sprachen/Arabisch/madd-buchstaben/madd-lazim.md",
     "Synapsen/Sprachen/Arabisch/dunkles-und-helles-lam.md",
     "Synapsen/Sprachen/Arabisch/dunkles-und-helles-ra.md",
     "Synapsen/Sprachen/Arabisch/noon-qutni.md",
-    "Synapsen/Sprachen/Arabisch/stille-buchstaben.md",
-    "Synapsen/Sprachen/Arabisch/sukuniertes-mim-oder-nun.md",
-    "Synapsen/Sprachen/Arabisch/yarmaloon-buchstaben.md",
     "Flashcards/Sprachen/Arabisch/anhalteregeln/pausezeichen.md",
-    "Synapsen/Sprachen/Arabisch/anhalteregeln/pausenzeichen.md",
-    "test.md",
-    "Synapsen/Sprachen/Arabisch/anhalteregeln/regeln-zum-anhalten.md"
+    "Synapsen/Sprachen/Arabisch/anhalteregeln/pausenzeichen.md"
   ]
 }

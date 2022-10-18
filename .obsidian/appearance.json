@@ -1,9 +1,9 @@
 {
-  "baseFontSize": 13,
+  "baseFontSize": 16,
   "accentColor": "",
   "theme": "obsidian",
-  "interfaceFontFamily": "Inter",
-  "textFontFamily": "Inter",
-  "monospaceFontFamily": "Inter",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
   "showViewHeader": true
 }
