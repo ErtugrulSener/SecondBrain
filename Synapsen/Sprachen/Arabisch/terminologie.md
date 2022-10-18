@@ -1,4 +1,3 @@
-
 | Wort       | Bedeutung                            |
 | ---------- | ------------------------------------ |
 | Aya        | Ein Vers einer Surah im Koran                                     |
@@ -9,4 +8,7 @@
 | Tafsir     | Kommentar zum Koran als Beistellwerk |
 | Ta'wil     | Die Interpretation des Korans        |
 
+
+# Referenzen
+[Video](https://youtu.be/t6gErOYFfvA)
 
