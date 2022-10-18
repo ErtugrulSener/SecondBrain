@@ -8,6 +8,6 @@
 | <span style="font-size: 22pt">وْ</span> | Waw |
 | <span style="font-size: 22pt">ىْ</span> | Ya |
 
-
+# Sonderregel zum Alif) Wenn man stoppt, dann wird das Alif gelesen, ergo wenn man ein [[pausenzeichen]] vorfindet oder am Ende einer Aya.
 
 
