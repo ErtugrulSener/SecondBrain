@@ -1,5 +1,9 @@
 {
   "baseFontSize": 13,
   "accentColor": "",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "Inter",
+  "showViewHeader": true
 }

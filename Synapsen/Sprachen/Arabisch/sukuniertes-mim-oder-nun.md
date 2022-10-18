@@ -11,7 +11,7 @@ gesprochen "hunnnnaa"
 # Regel Nr. 3) Kommt nach einem Nun mit Sukun ein Ba, so spricht man ein Mim stattdessen und hält es etwas.
 
 <span style="font-size: 22pt">هُنْ بَا</span>
-gesprochen "hunnnnbaa"
+gesprochen "hummbaa"
 
 #rule-of-iqlaab
 

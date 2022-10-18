@@ -7,5 +7,12 @@
   "spellcheckLanguages": [
     "de",
     "en-GB"
-  ]
+  ],
+  "attachmentFolderPath": "./Images",
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "Templates"
+  ],
+  "showLineNumber": false,
+  "showInlineTitle": false
 }
