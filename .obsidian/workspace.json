@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8376e6e413b25c1c",
+        "id": "4816794a14b29ebb",
         "type": "tabs",
         "children": [
           {
-            "id": "f0263ca391bb50ab",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Arabic/rules-of-ikhfa.png"
-              }
-            }
-          },
-          {
-            "id": "48be9bd6965fe0f1",
+            "id": "8b34cd81beb20abd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,17 +172,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f6fa5edbfbab42bc",
+  "active": "8b34cd81beb20abd",
   "lastOpenFiles": [
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/yarmaloon-buchstaben.md",
-    "Images/Arabic/rules-of-ikhfa.png",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/nun-quitni.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/regel-des-ikhfa.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/sukuniertes-mim-oder-nun.md",
     "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
+    "Images/Arabic/rules-of-ikhfa.png",
+    "Flashcards/Sprachen/Arabisch/anhalteregeln/pausezeichen.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/regel-des-ikhfa.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/yarmaloon-buchstaben.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/nun-quitni.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/sukuniertes-mim-oder-nun.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/regeln-zum-hamza.md",
     "Synapsen/Sprachen/Arabisch (Koran)/regeln-zum-enden/ta-maftuha.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zum-enden/ta-marbuta.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/arten-des-madd.md"
+    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zum-enden/ta-marbuta.md"
   ]
 }
