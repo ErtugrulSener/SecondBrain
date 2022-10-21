@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/spezielle-symbole.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/spezielle-symbole.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/spezielle-symbole.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/spezielle-symbole.md"
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md"
               }
             }
           },
@@ -174,9 +174,9 @@
   },
   "active": "ba4fc0904d218e12",
   "lastOpenFiles": [
+    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/spezielle-symbole.md",
     "Images/Arabisch/rule-of-tashed.png",
     "Images/Arabisch/rule-of-ishmaah.png",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/spezielle-symbole.md",
     "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/al-qalqalah.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/regel-des-ikhfa.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/nun-quitni.md",

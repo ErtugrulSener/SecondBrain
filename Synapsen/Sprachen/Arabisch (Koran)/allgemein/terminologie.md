@@ -6,6 +6,7 @@
 | Muhkam     | Klarer Vers (Unabhängig)             |
 | Mutashabil | Abhängiger Vers                      |
 | Tafsir     | Kommentar zum Koran als Beistellwerk |
+| Tajweed     | Jeden Buchstaben des Korans so aussprechen, wie es dem Propheten überliefert wurde. |
 | Ta'wil     | Die Interpretation des Korans        |
 
 
