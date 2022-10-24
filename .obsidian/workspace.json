@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/regeln-zum-enden/ta-marbuta.md",
                 "mode": "preview",
                 "source": true
               }
@@ -23,13 +23,16 @@
             "id": "0f27549098a1c6c6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Arabisch (Koran)/arten-des-tanwin.png"
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/regeln-zum-anhalten.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/regeln-zum-anhalten.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/regeln-zum-anhalten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md"
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/regeln-zum-anhalten.md"
               }
             }
           },
@@ -182,17 +185,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ba4fc0904d218e12",
+  "active": "0f27549098a1c6c6",
   "lastOpenFiles": [
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/yarmaloon-buchstaben.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zum-enden/ta-marbuta.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/regeln-zum-anhalten.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/regeln-zum-hamza.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/stille-buchstaben.md",
     "Images/Arabisch (Koran)/arten-des-tanwin.png",
-    "Images/Arabisch (Koran)/Pasted image 20221021152628.png",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/al-qalqalah.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
-    "Flashcards/Sprachen/Arabisch/anhalteregeln/pausezeichen.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/spezielle-symbole.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
-    "Images/Arabisch (Koran)/rule-of-tashed.png"
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/yarmaloon-buchstaben.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/sukuniertes-mim-oder-nun.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/spezielle-idgham-regeln.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/regel-des-ikhfa.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/al-qalqalah.md"
   ]
 }
