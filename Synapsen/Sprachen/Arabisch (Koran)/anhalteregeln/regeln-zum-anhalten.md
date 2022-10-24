@@ -17,11 +17,16 @@ wird beides gesprochen als "Hamim" statt "Hamimun" / "Hamimin".
 
 wird gesprochen als "Hamimaa" statt "Hamiman".
 
-# Spezialfall Ta-Marbuta
-# [[ta-marbuta#Regel Nr. 1) Wenn wir ein Ta Marbuta haben und es am Ende eines Wortes steht - Dann sprechen wir beim Lesen ein "Ha".]]
-## Achtung - Auch wenn das Wort / die Aya mit einer Fathatain endet, sprechen wir in diesem Spezialfall NUR das Ha. Wir verlängern es nicht wie bei jedem anderen Buchstaben.
+> 
+> 
 
-## Weitere Regeln zum Anhalten definieren die [[pausenzeichen]]
+```ad-note
+title: Spezialfall [[ta-marbuta]]
+
+Auch wenn das Wort / die Aya mit einer Fathatain endet, sprechen wir in diesem Spezialfall NUR das Ha. Wir verlängern es nicht wie bei jedem anderen Buchstaben.
+```
+
+> ## Weitere Regeln zum Anhalten definieren die [[pausenzeichen]]
 
 # Referenzen
 [Video](https://www.youtube.com/watch?v=xCqsgAbqSzs)

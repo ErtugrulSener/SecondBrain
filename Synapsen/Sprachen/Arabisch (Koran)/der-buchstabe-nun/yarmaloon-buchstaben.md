@@ -26,7 +26,9 @@ Beispiel mit einem Mim:
 
 gesprochen "yäkufämmän" (Man achte auf das doppelte Mim nach dem Fa-Fathatein)
 
-# Achtung: Diese Regeln finden NUR statt, wenn das Nun Sakin und der Yarmaloon-Buchstabe in verschiedenen Worten vorkommen. Im selben Wort, wird das Nun nicht gemerged sondern wie gewöhnlich gelesen.
+```ad-note
+Diese Regeln finden NUR statt, wenn das Nun Sakin und der Yarmaloon-Buchstabe in verschiedenen Worten vorkommen. Im selben Wort, wird das Nun nicht gemerged sondern wie gewöhnlich gelesen.
+```
 
 # Referenzen
 [Video](https://youtu.be/l8iy-LMdAzY)

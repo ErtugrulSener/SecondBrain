@@ -11,8 +11,12 @@
             "id": "51e3b85bc75aac08",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/regeln-zum-anhalten.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "achtung",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/regeln-zum-anhalten.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/regeln-zum-anhalten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/regeln-zum-anhalten.md"
+              }
             }
           },
           {
@@ -159,23 +167,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5,
-    "collapsed": true
+    "width": 382.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
   "active": "f6fa5edbfbab42bc",
   "lastOpenFiles": [
+    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zum-enden/ta-marbuta.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/regeln-zum-anhalten.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/yarmaloon-buchstaben.md",
     "Images/Arabisch (Koran)/rules-of-idgham-with-a-similar-mahraj.png",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/nun-quitni.md",
     "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/spezielle-idgham-regeln.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/yarmaloon-buchstaben.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/regeln-zum-hamza.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zum-enden/ta-marbuta.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/regeln-zum-anhalten.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/stille-buchstaben.md"
   ]
 }
