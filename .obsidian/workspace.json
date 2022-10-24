@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -164,7 +165,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "51e3b85bc75aac08",
+  "active": "f6fa5edbfbab42bc",
   "lastOpenFiles": [
     "Images/Arabisch (Koran)/rules-of-idgham-with-a-similar-mahraj.png",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/nun-quitni.md",
