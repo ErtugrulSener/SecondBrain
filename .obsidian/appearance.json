@@ -1,9 +1,10 @@
 {
-  "baseFontSize": 17,
+  "baseFontSize": 18,
   "accentColor": "",
   "theme": "obsidian",
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "monospaceFontFamily": "",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "cssTheme": "Things"
 }
