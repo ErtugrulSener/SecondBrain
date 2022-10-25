@@ -1,9 +1,9 @@
 [
   "better-word-count",
-  "calendar",
   "simple-embeds",
   "obsidian-spaced-repetition",
   "table-editor-obsidian",
   "obsidian-git",
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "obsidian-better-codeblock"
 ]
