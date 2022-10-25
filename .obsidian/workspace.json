@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8bffbf3c5a32bc91",
+        "id": "6c8686c567232bd6",
         "type": "tabs",
         "children": [
           {
-            "id": "88e4b28fe29f6aea",
+            "id": "ce3237708ee4073f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Synapsen/Java/Build Tools/Gradle/settings-file.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Synapsen/Java/Build Tools/Gradle/settings-file.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Synapsen/Java/Build Tools/Gradle/settings-file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Synapsen/Java/Build Tools/Gradle/settings-file.md"
+              }
             }
           },
           {
@@ -155,17 +163,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "88e4b28fe29f6aea",
+  "active": "4a6ccfcfe90749a7",
   "lastOpenFiles": [
+    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-kasr.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md",
+    "Templates/arabischer_text.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/regeln-zum-hamza.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/idghaam - spezielle-idghaam-regeln.md",
     "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
     "Synapsen/Java/Build Tools/Gradle/settings-file.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/al-qalqalah.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/lin-buchstaben.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/spezielle-symbole.md"
+    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/al-qalqalah.md"
   ]
 }
