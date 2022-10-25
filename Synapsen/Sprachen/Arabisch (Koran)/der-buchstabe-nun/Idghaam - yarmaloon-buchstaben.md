@@ -1,7 +1,7 @@
-# Die Regel von Idgaam
-## Idgaam heißt so viel wie "Verschmelzen" oder "Mischen" und genau das passiert hier mit dem Nun Sakin und dem Yarmaloon Buchstaben.
+# Die Regel von Idghaam
+## Idghaam heißt so viel wie "Verschmelzen" oder "Mischen" und genau das passiert hier mit dem Nun Sakin und dem Yarmaloon Buchstaben.
 
-Die Yarmaloon Buchstaben heißen so, weil sie aus den Buchstaben Ya, Ra, Mim, Lam, Vaw und Nun bestehen oder nebeneinander gelesen im Arabischen:
+Die Yarmaloon Buchstaben heißen so, weil sie aus den Buchstaben Ya, Ra, Mim, Lam, Waw und Nun bestehen oder nebeneinander gelesen im Arabischen:
 <span style="font-size: 22pt">ي ر م ل و ن</span>
 
 gesprochen "Yarmaloon"
@@ -33,4 +33,4 @@ Diese Regeln finden NUR statt, wenn das Nun Sakin und der Yarmaloon-Buchstabe in
 # Referenzen
 [Video](https://youtu.be/l8iy-LMdAzY)
 
-#rule-of-idgaam
+#rule-of-Idghaam

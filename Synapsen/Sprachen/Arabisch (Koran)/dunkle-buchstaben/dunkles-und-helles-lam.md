@@ -6,9 +6,9 @@
 
 | Form | Aussprache | Erklärung |
 | --- | --- | --- |
-| <span style="font-size: 22pt">وَاُللَّهِ</span> | vallahi | Der Buchstabe vor dem Lam (das vaw) trägt eine Fatha (Regel 1). Das lam wird dunkel ausgesprochen. |
-| <span style="font-size: 22pt">وُاُللَّهِ</span> | vullahi | Der Buchstabe vor dem Lam (das vaw) trägt eine Dammah (Regel 1). Das lam wird dunkel ausgesprochen. |
-| <span style="font-size: 22pt">وِاُللَّهِ</span> | villähi | Der Buchstabe vor dem Lam (das vaw) trägt eine Kesra (Regel 2). Das lam wird dunkel ausgesprochen. |
+| <span style="font-size: 22pt">وَاُللَّهِ</span> | vallahi | Der Buchstabe vor dem Lam (das waw) trägt eine Fatha (Regel 1). Das lam wird dunkel ausgesprochen. |
+| <span style="font-size: 22pt">وُاُللَّهِ</span> | vullahi | Der Buchstabe vor dem Lam (das waw) trägt eine Dammah (Regel 1). Das lam wird dunkel ausgesprochen. |
+| <span style="font-size: 22pt">وِاُللَّهِ</span> | villähi | Der Buchstabe vor dem Lam (das waw) trägt eine Kesra (Regel 2). Das lam wird dunkel ausgesprochen. |
 
 
 
