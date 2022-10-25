@@ -17,9 +17,6 @@ wird beides gesprochen als "Hamim" statt "Hamimun" / "Hamimin".
 
 wird gesprochen als "Hamimaa" statt "Hamiman".
 
-> 
-> 
-
 ```ad-note
 title: Spezialfall [[ta-marbuta]]
 

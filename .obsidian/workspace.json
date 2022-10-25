@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/regeln-zum-anhalten.md",
-                "mode": "source",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/nun-quitni.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "achtung",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/regeln-zum-anhalten.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/nun-quitni.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/regeln-zum-anhalten.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/nun-quitni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/regeln-zum-anhalten.md"
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/nun-quitni.md"
               }
             }
           },
@@ -172,17 +171,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f6fa5edbfbab42bc",
+  "active": "51e3b85bc75aac08",
   "lastOpenFiles": [
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zum-enden/ta-marbuta.md",
     "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/regeln-zum-anhalten.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zum-enden/ta-marbuta.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/yarmaloon-buchstaben.md",
     "Images/Arabisch (Koran)/rules-of-idgham-with-a-similar-mahraj.png",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/nun-quitni.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/spezielle-idgham-regeln.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/regeln-zum-hamza.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/stille-buchstaben.md"
+    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md"
   ]
 }
