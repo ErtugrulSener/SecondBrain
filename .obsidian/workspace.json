@@ -4,39 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "8cace1670d18dc73",
+        "id": "c92477c43d86b14a",
         "type": "tabs",
         "children": [
           {
-            "id": "51e3b85bc75aac08",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Arabisch (Koran)/rules-of-ikhfa.png"
-              }
-            }
-          },
-          {
-            "id": "f4e158075797855a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Synapsen/Java/Build Tools/Gradle/settings-file.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c3d8204707337f87",
+            "id": "c670f6a5969e600b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f38d1388ce762959",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ishar - verdeutlichung.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synapsen/Java/Build Tools/Gradle/settings-file.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ishar - verdeutlichung.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synapsen/Java/Build Tools/Gradle/settings-file.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ishar - verdeutlichung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synapsen/Java/Build Tools/Gradle/settings-file.md"
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ishar - verdeutlichung.md"
               }
             }
           },
@@ -186,17 +176,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f4e158075797855a",
+  "active": "f38d1388ce762959",
   "lastOpenFiles": [
-    "Synapsen/Java/Build Tools/Gradle/settings-file.md",
-    "Images/Arabisch (Koran)/rules-of-ikhfa.png",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - regel-des-ikhfa.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/iqlaab - sukuniertes-mim-oder-nun.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/idghaam - spezielle-idghaam-regeln.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/nun-quitni.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/regeln-zum-anhalten.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md"
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ishar - verdeutlichung.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/iqlaab - sukuniertes-mim-oder-nun.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/idghaam - spezielle-idghaam-regeln.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/spezielle-symbole.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/lin-buchstaben.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/al-qalqalah.md"
   ]
 }

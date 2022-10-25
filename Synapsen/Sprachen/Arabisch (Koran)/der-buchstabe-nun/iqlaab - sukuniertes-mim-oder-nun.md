@@ -1,3 +1,5 @@
+# Regel des Iqlaab (Umwandlung)
+
 # Regel Nr. 1) Trifft ein sukuniertes Mim auf ein Ba, so spricht man das Mim auch 2 Harakat lang.
 
 <span style="font-size: 22pt">هُم بَا</span>
