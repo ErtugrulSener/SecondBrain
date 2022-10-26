@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "830c3e14f5e9544b",
+        "id": "dd552c9f19fd7361",
         "type": "tabs",
         "children": [
           {
-            "id": "78d64cfa51bcaa6a",
+            "id": "eb16f2ec3fcea492",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
-                "mode": "source",
-                "source": false
+                "file": "Kanbanboard.md"
               }
             }
           }
@@ -85,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
+            "file": "Kanbanboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
+            "file": "Kanbanboard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,16 +112,8 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md"
+            "file": "Kanbanboard.md"
           }
-        }
-      },
-      {
-        "id": "da571c4c24d151db",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
         }
       },
       {
@@ -137,20 +127,17 @@
     ],
     "currentTab": 0
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "78d64cfa51bcaa6a",
+  "active": "eb16f2ec3fcea492",
   "lastOpenFiles": [
+    "Templates/arabischer_text.md",
+    "Templates/ab.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
     "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
     "Synapsen/Sprachen/Arabisch/regeln-zur-besonderen-aussprache/al-qalqalah.md",
     "Sprachen/Arabisch/madd-buchstaben/madd-lazim.md",
     "Sprachen/Arabisch/madd-buchstaben/arten-des-madd.md",
     "Sprachen/Arabisch/madd-buchstaben/madd-mutasil.md",
     "Sprachen/Arabisch/madd-buchstaben/madd-munfasil.md",
-    "Sprachen/Arabisch/dunkles-und-helles-lam.md",
-    "Sprachen/Arabisch/dunkles-und-helles-ra.md",
-    "Sprachen/Arabisch/med-kasr.md",
-    "Sprachen/Arabisch/pausenzeichen.md"
+    "Sprachen/Arabisch/dunkles-und-helles-lam.md"
   ]
 }
