@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synapsen/Java/Build Tools/Gradle/settings-file.md",
-                "mode": "source",
+                "file": "Flashcards/Sprachen/Arabisch (Koran)/anhalteregeln/pausezeichen.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synapsen/Java/Build Tools/Gradle/settings-file.md",
+                "file": "Flashcards/Sprachen/Arabisch (Koran)/anhalteregeln/pausezeichen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synapsen/Java/Build Tools/Gradle/settings-file.md",
+                "file": "Flashcards/Sprachen/Arabisch (Koran)/anhalteregeln/pausezeichen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synapsen/Java/Build Tools/Gradle/settings-file.md"
+                "file": "Flashcards/Sprachen/Arabisch (Koran)/anhalteregeln/pausezeichen.md"
               }
             }
           },
@@ -163,17 +163,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4a6ccfcfe90749a7",
+  "active": "ce3237708ee4073f",
   "lastOpenFiles": [
+    "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
+    "Synapsen/Java/Build Tools/Gradle/settings-file.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-kasr.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md",
     "Templates/arabischer_text.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/regeln-zum-hamza.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/idghaam - spezielle-idghaam-regeln.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
-    "Synapsen/Java/Build Tools/Gradle/settings-file.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/al-qalqalah.md"
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/idghaam - spezielle-idghaam-regeln.md"
   ]
 }
