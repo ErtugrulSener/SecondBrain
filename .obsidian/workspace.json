@@ -16,48 +16,6 @@
                 "file": "Kanbanboard.md"
               }
             }
-          },
-          {
-            "id": "95ec3105d7ee98df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "223289e5bd409f1d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fb2f38da6fb546d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c9c785369a67177e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/iqlaab - sukuniertes-mim-oder-nun.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ]
       }
@@ -125,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md",
+                "file": "Kanbanboard.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md",
+                "file": "Kanbanboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md"
+                "file": "Kanbanboard.md"
               }
             }
           },
@@ -203,17 +161,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fb2f38da6fb546d3",
+  "active": "3831525a81fc852b",
   "lastOpenFiles": [
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/iqlaab - sukuniertes-mim-oder-nun.md",
-    "Kanbanboard.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/spezielle-symbole.md",
-    "Privates-Kanbanboard.md",
-    "Flashcards/Sprachen/Arabisch (Koran)/anhalteregeln/pausezeichen.md",
     "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
-    "Synapsen/Java/Build Tools/Gradle/settings-file.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-kasr.md"
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md",
+    "Kanbanboard.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/nun-quitni.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/iqlaab - sukuniertes-mim-oder-nun.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/idghaam - spezielle-idghaam-regeln.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ishar - verdeutlichung.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/spezielle-symbole.md",
+    "Privates-Kanbanboard.md"
   ]
 }
