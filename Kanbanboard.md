@@ -19,7 +19,7 @@ kanban-plugin: basic
 - [ ] ##### PRIVAT |  StudySmarter Karteikarten für [[pausenzeichen|Pausezeichen]] erstellen und Space Repitition einrichten<br><br>Ziel: Ein Tool haben um die Pausezeichen auf lange Sicht auswendig zu lernen
 
 
-## Abgeschlossen (2)
+## Abgeschlossen
 
 - [x] ##### PRIVAT | Regeln zum Nun Quitni [[nun-quitni]]<br><br>Ziel: Seite 63 - 68 lesen und dabei besonders die Nun Quitni Regeln beachten
 - [x] ##### PRIVAT | Regeln des Ishar (Buchstaben aus dem Hals) [[ishar - verdeutlichung]]<br><br>Ziel: Seite 63 - 68 lesen und dabei besonders die Ishar-Regel beachten
