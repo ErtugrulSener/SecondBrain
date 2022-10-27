@@ -1,3 +1,4 @@
 {
-  "new-card-insertion-method": "prepend"
+  "new-card-insertion-method": "prepend",
+  "show-checkboxes": true
 }

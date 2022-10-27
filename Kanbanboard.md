@@ -11,16 +11,18 @@ kanban-plugin: basic
 
 ## Warteschlange (2)
 
-- [ ] ##### PRIVAT | Regeln des Ishar (Buchstaben aus dem Hals) [[ishar - verdeutlichung]]<br><br>Ziel: Seite 63 - 68 lesen und dabei besonders die Ishar
-- [ ] ##### PRIVAT | Regeln zum Nun Quitni [[nun-quitni]]<br><br>Ziel: Seite 63 - 68 lesen und dabei besonders die Nun Quitni Regeln beachten
+- [ ] ##### PRIVAT | Regeln zu den [[pausenzeichen|Pausezeichen]]<br><br>Ziel: Seite 69 - 75 lesen und dabei besonders die Pausezeichen beachten
 
 
 ## In Arbeit (2)
 
+- [ ] ##### PRIVAT |  StudySmarter Karteikarten für [[pausenzeichen|Pausezeichen]] erstellen und Space Repitition einrichten<br><br>Ziel: Ein Tool haben um die Pausezeichen auf lange Sicht auswendig zu lernen
 
 
 ## Abgeschlossen (2)
 
+- [x] ##### PRIVAT | Regeln zum Nun Quitni [[nun-quitni]]<br><br>Ziel: Seite 63 - 68 lesen und dabei besonders die Nun Quitni Regeln beachten
+- [x] ##### PRIVAT | Regeln des Ishar (Buchstaben aus dem Hals) [[ishar - verdeutlichung]]<br><br>Ziel: Seite 63 - 68 lesen und dabei besonders die Ishar-Regel beachten
 - [x] ##### PRIVAT | Regeln des Iqlaab (Mim + Ba) [[Idghaam - yarmaloon-buchstaben]]<br>Ziel: Seite 55 - 61 lesen und dabei besonders die Iqlaab-Regel beachten
 - [x] ##### PRIVAT | Regeln des Idghaam (Yarmaloon-Buchstaben) vertiefen [[iqlaab - sukuniertes-mim-oder-nun]]<br><br>Ziel: Seite 55 - 61 lesen und dabei besonders die Idghaam-Regel beachten
 
