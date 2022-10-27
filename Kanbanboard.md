@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## Motivation und Ziele
 
+- [ ] ##### PRIVAT | Kaputten Fernseher im Wohnzimmer ersetzen<br><br>Ziele:<br>- [ ] Fernseher vermessen<br>- [ ] Reviews ansehen<br>- [ ] Passende Marke raussuchen
 - [ ] ##### PRIVAT | Koran lesen lernen<br><br>Fortschritt:<br>-  Koran Seite: 69<br><br>Ziele:<br>- [ ]  Tajweed-Regeln lernen und anwenden können<br>- [ ] In gemäßigtem Tempo den Koran lesen<br><br>Motivation:<br>1) Spiriuelle Weiterentwicklung<br>2) Beweis für Disziplin<br>3) Mehr Sprachverständnis für zukünftige arabische Projekte ^g27i5a
 
 
@@ -16,6 +17,7 @@ kanban-plugin: basic
 
 ## In Arbeit (2)
 
+- [ ] ##### PRIVAT | F4 Taste von der Tastatur reparieren<br>* Neue Taste ist bestellt, warte auf Ankunft
 
 
 ## Abgeschlossen
