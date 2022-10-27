@@ -21,10 +21,8 @@
             "id": "bbd561039f302594",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanbanboard.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
