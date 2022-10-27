@@ -23,8 +23,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/regeln-zum-hamza.md",
-                "mode": "source",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/regeln-zum-hamza.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/regeln-zum-hamza.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/regeln-zum-hamza.md"
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md"
               }
             }
           },
@@ -171,17 +171,17 @@
     "direction": "horizontal",
     "width": 382.5
   },
-  "active": "4a6ccfcfe90749a7",
+  "active": "bbd561039f302594",
   "lastOpenFiles": [
     "Kanbanboard.md",
+    "Flashcards/Sprachen/Arabisch (Koran)/anhalteregeln/pausezeichen.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/regeln-zum-hamza.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ishar - verdeutlichung.md",
     "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
     "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/regeln-zum-anhalten.md",
     "Templates/ab.md",
     "Templates/Kanbanboard.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/nun-quitni.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/iqlaab - sukuniertes-mim-oder-nun.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/idghaam - spezielle-idghaam-regeln.md"
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/nun-quitni.md"
   ]
 }
