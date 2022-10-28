@@ -18,6 +18,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "22c8a2a7ccd40cec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa9ee028cc2e4b65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
