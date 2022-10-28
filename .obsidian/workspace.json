@@ -16,17 +16,8 @@
                 "file": "Kanbanboard.md"
               }
             }
-          },
-          {
-            "id": "bbd561039f302594",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +158,7 @@
     "direction": "horizontal",
     "width": 382.5
   },
-  "active": "bbd561039f302594",
+  "active": "70ef6dba194ee5df",
   "lastOpenFiles": [
     "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
     "Kanbanboard.md",
