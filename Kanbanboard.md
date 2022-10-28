@@ -7,7 +7,7 @@ kanban-plugin: basic
 ## Motivation und Ziele
 
 - [ ] ##### PRIVAT | Kaputten Fernseher im Wohnzimmer ersetzen<br><br>Ziele:<br>- [ ] Fernseher vermessen<br>- [ ] Reviews ansehen<br>- [ ] Passende Marke raussuchen
-- [ ] ##### PRIVAT | Koran lesen lernen<br><br>Fortschritt:<br>-  Koran Seite: 76<br><br>Ziele:<br>- [ ]  Tajweed-Regeln lernen und anwenden können<br>- [ ] In gemäßigtem Tempo den Koran lesen<br><br>Motivation:<br>1) Spiriuelle Weiterentwicklung<br>2) Beweis für Disziplin<br>3) Mehr Sprachverständnis für zukünftige arabische Projekte ^g27i5a
+- [ ] ##### PRIVAT | Koran lesen lernen<br><br>Fortschritt:<br>-  Koran Seite: 77<br><br>Ziele:<br>- [ ]  Tajweed-Regeln lernen und anwenden können<br>- [ ] In gemäßigtem Tempo den Koran lesen<br><br>Motivation:<br>1) Spiriuelle Weiterentwicklung<br>2) Beweis für Disziplin<br>3) Mehr Sprachverständnis für zukünftige arabische Projekte ^g27i5a
 
 
 ## Warteschlange (2)
@@ -23,6 +23,7 @@ kanban-plugin: basic
 ## Abgeschlossen
 
 **Complete**
+- [x] ##### PRIVAT | Regeln zu den [[pausenzeichen|Pausezeichen]]<br><br>Ziel: Seite 71 - 75 lesen und dabei besonders die Pausezeichen beachten
 - [x] ##### PRIVAT |  StudySmarter Karteikarten für [[pausenzeichen|Pausezeichen]] erstellen und Space Repitition einrichten<br><br>Ziel: Ein Tool haben um die Pausezeichen auf lange Sicht auswendig zu lernen @{2022-10-27}
 - [x] ##### PRIVAT | Regeln zum Nun Quitni [[nun-quitni]]<br><br>Ziel: Seite 63 - 68 lesen und dabei besonders die Nun Quitni Regeln beachten @{2022-10-26}
 - [x] ##### PRIVAT | Regeln des Ishar (Buchstaben aus dem Hals) [[ishar - verdeutlichung]]<br><br>Ziel: Seite 63 - 68 lesen und dabei besonders die Ishar-Regel beachten @{2022-10-26}
