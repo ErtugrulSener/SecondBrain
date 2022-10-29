@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3f80e1ab73aab0eb",
+        "id": "be57bd01a611b48c",
         "type": "tabs",
         "children": [
           {
-            "id": "95aa4699d430010b",
+            "id": "80e02d5735354075",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Synapsen/Java/Build Tools/Gradle/tasks.md",
-                "mode": "preview",
-                "source": true
+                "file": "Kanbanboard.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synapsen/Java/Build Tools/Gradle/tasks.md",
+                "file": "Kanbanboard.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synapsen/Java/Build Tools/Gradle/tasks.md",
+                "file": "Kanbanboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synapsen/Java/Build Tools/Gradle/tasks.md"
+                "file": "Kanbanboard.md"
               }
             }
           },
@@ -144,14 +142,6 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "c937d1be6fce869f",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
           }
         ],
         "currentTab": 3
@@ -160,14 +150,14 @@
     "direction": "horizontal",
     "width": 380.5
   },
-  "active": "09e8d4d0441b2db1",
+  "active": "80e02d5735354075",
   "lastOpenFiles": [
     "Synapsen/Java/Build Tools/Gradle/settings.gradle.md",
-    "Synapsen/Java/Build Tools/Gradle/plugins.md",
-    "Synapsen/Java/Build Tools/Gradle/build.gradle.md",
     "Synapsen/Java/Build Tools/Gradle/tasks.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
+    "Synapsen/Java/Build Tools/Gradle/build.gradle.md",
     "Kanbanboard.md",
+    "Synapsen/Java/Build Tools/Gradle/plugins.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
     "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/idghaam - spezielle-idghaam-regeln.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md",

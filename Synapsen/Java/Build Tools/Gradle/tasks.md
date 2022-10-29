@@ -220,3 +220,18 @@ properties - Displays the properties of root project 'cleanprojeect'.
 resolvableConfigurations - Displays the configurations that can be resolved in root project 'cleanprojeect'.
 tasks - Displays the tasks runnable from root project 'cleanprojeect'.
 ```
+
+# Woher kommen die Tasks, die nicht standartmäßig mitgeliefert werden?
+Sie sind Konfigurationen aus den [[plugins]], die wir spezifizieren im [[build.gradle]] Skript.
+
+# Die Zwei Arten von Tasks
+## Lifecycle Tasks
+## Actionable Tasks
+
+# Unvollständige Liste der wichtigsten Plugins
+
+| Name         | Beschreibung                                                                                                                             |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| base         | Dieses Plugin stammt von Core Gradle und bringt Tasks wie "assemble" und "build".                                                        |
+| java-library | Plugin für eine java library, bringt tasks mit denen man Source Code kompilieren kann (compileJava) oder eine jar Datei erstellen (jar). |
+| application  | Plugin für eine Applikation, braucht zu den Dingen aus dem java-library Plugin nun noch eine Mainklasse, die ausgeführt werden soll. Bringt tasks um die Software auszuführen wie "run".                                                                                                                                        |
