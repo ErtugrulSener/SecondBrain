@@ -12,7 +12,7 @@ kanban-plugin: basic
 
 ## Warteschlange (2)
 
-- [ ] ##### PRIVAT | Regeln zu den [[pausenzeichen|Pausezeichen]]<br><br>Ziel: Seite 77 - 81 lesen und dabei besonders die Pausezeichen beachten
+- [ ] ##### PRIVAT | [[arten-des-tanwin|Arten des Tanwin]]<br><br>Ziel: Seite 82 - 87 lesen und dabei besonders die Tanwin beobachten<br><br>- [ ] Die 3 Tanwinarten voneinander unterscheiden können
 
 
 ## In Arbeit (2)
@@ -23,6 +23,7 @@ kanban-plugin: basic
 ## Abgeschlossen
 
 **Complete**
+- [x] @{2022-10-29}<br><br>##### PRIVAT | Regeln zu den [[pausenzeichen|Pausezeichen]]<br><br>Ziel: Seite 77 - 81 lesen und dabei besonders die Pausezeichen beachten
 - [x] @{2022-10-29}<br>##### PRIVAT | Understanding Gradle - Tasks<br><br>Ziel: Grundsätzliches Verstädnis zu Gradle Tasks
 - [x] @{2022-10-29}<br>##### PRIVAT | Understanding Gradle - Plugins<br><br>Ziel: Beantwortung der Fragen<br><br>- [x] Was sind Plugins?<br>- [x] Welche Arten von Plugins gibt es?<br>- [x] Wie erstelle ich ein Plugin?
 - [x] @{2022-10-29}<br>##### PRIVAT | Understanding Gradle - The Build Files<br><br>Ziel: Grundlagen zum sicheren Umgang mit Gradle Build Files

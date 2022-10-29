@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md"
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md"
               }
             }
           },
@@ -162,15 +162,15 @@
   },
   "active": "80e02d5735354075",
   "lastOpenFiles": [
-    "Kanbanboard.md",
-    "Templates/arabischer_text.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zum-enden/ta-maftuha.md",
-    "Synapsen/Java/Build Tools/Gradle/settings.gradle.md",
-    "Synapsen/Java/Build Tools/Gradle/tasks.md",
-    "Synapsen/Java/Build Tools/Gradle/build.gradle.md",
-    "Synapsen/Java/Build Tools/Gradle/plugins.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/lin-buchstaben.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/spezielle-symbole.md",
     "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/idghaam - spezielle-idghaam-regeln.md"
+    "Kanbanboard.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/al-qalqalah.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ishar - verdeutlichung.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/iqlaab - sukuniertes-mim-oder-nun.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md"
   ]
 }
