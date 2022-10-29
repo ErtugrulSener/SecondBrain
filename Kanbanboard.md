@@ -12,7 +12,7 @@ kanban-plugin: basic
 
 ## Warteschlange (2)
 
-- [ ] ##### PRIVAT | Regeln zu den [[pausenzeichen|Pausezeichen]]<br><br>Ziel: Seite 76 - 81 lesen und dabei besonders die Pausezeichen beachten
+- [ ] ##### PRIVAT | Regeln zu den [[pausenzeichen|Pausezeichen]]<br><br>Ziel: Seite 77 - 81 lesen und dabei besonders die Pausezeichen beachten
 
 
 ## In Arbeit (2)
