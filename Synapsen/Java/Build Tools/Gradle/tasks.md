@@ -10,6 +10,14 @@ Unter anderem wird man dort folgende Dinge finden:
 
 ---
 
+## init / wrapper
+Relativ selbst erklärend.
+
+*Init* - Startet ein Prozess um ein neues Gradle Projekt zu erstellen (Ähnlich wie bei start.spring.io)
+*Wrapper* - Generiert die Gradle Wrapper Dateien
+
+---
+
 ## buildEnvironment
 Zeigt alle Buildscript-Dependencies im gradle.build Skript des aktuellen Projektes (Bzw. Subprojektes) in folgender Form:
 
@@ -126,6 +134,8 @@ testRuntimeOnly - Runtime only dependencies for source set 'test'. (n)
 \--- org.junit.jupiter:junit-jupiter-engine:5.8.1 (n)
 ```
 
+---
+
 ## dependencyInsight
 Gibt dir spezifische Einblicke in eine bestimmte Dependency. Der Befehl könnte zum Beispiel so aussehen:
 
@@ -162,4 +172,51 @@ title: Output
      | Architecture:       amd64
      | Is JDK:             true
      | Detected by:        IntelliJ IDEA
+```
+
+---
+
+## projects
+Zeigt alle Subprojekte des Rootprojektes an.
+
+---
+
+## properties
+Zeigt alle properties für das Rootprojekt an. Dies sind größtenteils Properties, die Gradle oder ein inkludiertes Plugin für einen gesetzt haben. Wichtige und nützliche darunter sind z.B:
+
+| Name       | Bedeutung                                                      | Beispielwert                                              |
+| ---------- | -------------------------------------------------------------- | --------------------------------------------------------- |
+| buildDir   | Pfad für den 'build' Ordner, liegt neben der [[build.gradle]]. | C:\Users\Lead\Desktop\Ertu-Git\cleanprojeect\build        |
+| buildFile  | Pfad zur [[build.gradle]] Datei                                | C:\Users\Lead\Desktop\Ertu-Git\cleanprojeect\build.gradle |
+| projectDir | Pfad zum Rootprojekt                                           | C:\Users\Lead\Desktop\Ertu-Git\cleanprojeect              |
+| name       | Name des Rootprojektes                                         | cleanproject                                              |
+| group      | Spezifizierte Group für die Artefakte                          | org.mygroup                                                         |
+| version    | Spezifizierte Version für die Artefakte                        | 1.0-SNAPHOT                                                          |
+
+---
+
+## tasks
+Zeigt eine Liste mit allen vorhandenen Gradle Tasks. Untenstehend alle, die standartmäßig von Gradle mitgelifert werden:
+
+```ad-note
+collapse: true
+title: Output
+
+Build Setup tasks
+-----------------
+init - Initializes a new Gradle build.
+wrapper - Generates Gradle wrapper files.
+
+Help tasks
+----------
+buildEnvironment - Displays all buildscript dependencies declared in root project 'cleanprojeect'.
+dependencies - Displays all dependencies declared in root project 'cleanprojeect'.
+dependencyInsight - Displays the insight into a specific dependency in root project 'cleanprojeect'.
+help - Displays a help message.
+javaToolchains - Displays the detected java toolchains.
+outgoingVariants - Displays the outgoing variants of root project 'cleanprojeect'.
+projects - Displays the sub-projects of root project 'cleanprojeect'.
+properties - Displays the properties of root project 'cleanprojeect'.
+resolvableConfigurations - Displays the configurations that can be resolved in root project 'cleanprojeect'.
+tasks - Displays the tasks runnable from root project 'cleanprojeect'.
 ```

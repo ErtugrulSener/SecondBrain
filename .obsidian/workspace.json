@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "086a39e76f55cc2a",
+        "id": "3f80e1ab73aab0eb",
         "type": "tabs",
         "children": [
           {
-            "id": "70ef6dba194ee5df",
+            "id": "95aa4699d430010b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Synapsen/Java/Build Tools/Gradle/tasks.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -154,23 +154,23 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 380.5
   },
-  "active": "70ef6dba194ee5df",
+  "active": "09e8d4d0441b2db1",
   "lastOpenFiles": [
+    "Synapsen/Java/Build Tools/Gradle/settings.gradle.md",
+    "Synapsen/Java/Build Tools/Gradle/plugins.md",
     "Synapsen/Java/Build Tools/Gradle/build.gradle.md",
     "Synapsen/Java/Build Tools/Gradle/tasks.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
     "Kanbanboard.md",
-    "Synapsen/Java/Build Tools/Gradle/plugins.md",
-    "Synapsen/Java/Build Tools/Gradle/settings.gradle.md",
     "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/idghaam - spezielle-idghaam-regeln.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/spezielle-symbole.md",
-    "Pasted image 20221021152628.png.md"
+    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/spezielle-symbole.md"
   ]
 }
