@@ -23,7 +23,7 @@ kanban-plugin: basic
 ## Abgeschlossen
 
 **Complete**
-- [x] @{2022-10-29}<br>##### PRIVAT | Understanding Gradle - Plugins<br><br>Ziel: Beantwortung der Fragen<br><br>- [x] Was sind Plugins?<br>- [x] Welche drei Arten von Plugins gibt es?<br>- [x] Wie erstelle ich ein Plugin?
+- [x] @{2022-10-29}<br>##### PRIVAT | Understanding Gradle - Plugins<br><br>Ziel: Beantwortung der Fragen<br><br>- [x] Was sind Plugins?<br>- [x] Welche Arten von Plugins gibt es?<br>- [x] Wie erstelle ich ein Plugin?
 - [x] @{2022-10-29}<br>##### PRIVAT | Understanding Gradle - The Build Files<br><br>Ziel: Grundlagen zum sicheren Umgang mit Gradle Build Files
 - [x] @{2022-10-28}<br><br>##### PRIVAT | Regeln zu den [[pausenzeichen|Pausezeichen]]<br><br>Ziel: Seite 71 - 75 lesen und dabei besonders die Pausezeichen beachten
 - [x] ##### PRIVAT |  StudySmarter Karteikarten für [[pausenzeichen|Pausezeichen]] erstellen und Space Repitition einrichten<br><br>Ziel: Ein Tool haben um die Pausezeichen auf lange Sicht auswendig zu lernen @{2022-10-27}
