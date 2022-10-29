@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synapsen/Java/Build Tools/Gradle/build.gradle.md",
+                "file": "Synapsen/Java/Build Tools/Gradle/tasks.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synapsen/Java/Build Tools/Gradle/build.gradle.md",
+                "file": "Synapsen/Java/Build Tools/Gradle/tasks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synapsen/Java/Build Tools/Gradle/build.gradle.md",
+                "file": "Synapsen/Java/Build Tools/Gradle/tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synapsen/Java/Build Tools/Gradle/build.gradle.md"
+                "file": "Synapsen/Java/Build Tools/Gradle/tasks.md"
               }
             }
           },
@@ -162,15 +162,15 @@
   },
   "active": "70ef6dba194ee5df",
   "lastOpenFiles": [
+    "Synapsen/Java/Build Tools/Gradle/build.gradle.md",
+    "Synapsen/Java/Build Tools/Gradle/tasks.md",
+    "Kanbanboard.md",
     "Synapsen/Java/Build Tools/Gradle/plugins.md",
     "Synapsen/Java/Build Tools/Gradle/settings.gradle.md",
-    "Kanbanboard.md",
     "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/idghaam - spezielle-idghaam-regeln.md",
-    "Synapsen/Java/Build Tools/Gradle/build.gradle.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md",
     "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/spezielle-symbole.md",
-    "Pasted image 20221021152628.png.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/lin-buchstaben.md"
+    "Pasted image 20221021152628.png.md"
   ]
 }

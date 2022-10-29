@@ -12,6 +12,7 @@ kanban-plugin: basic
 
 ## Warteschlange (2)
 
+- [ ] @{2022-10-29}<br>##### PRIVAT | Understanding Gradle - Tasks<br><br>Ziel: Grundsätzliches Verstädnis zu Gradle Tasks
 - [ ] ##### PRIVAT | Regeln zu den [[pausenzeichen|Pausezeichen]]<br><br>Ziel: Seite 76 - 81 lesen und dabei besonders die Pausezeichen beachten
 
 
