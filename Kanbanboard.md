@@ -17,12 +17,12 @@ kanban-plugin: basic
 
 ## In Arbeit (2)
 
-- [ ] ##### PRIVAT | F4 Taste von der Tastatur reparieren<br>* Neue Taste ist bestellt, warte auf Ankunft
 
 
 ## Abgeschlossen
 
 **Complete**
+- [x] @{2022-10-29}<br><br>##### PRIVAT | F4 Taste von der Tastatur reparieren<br>* Neue Taste ist bestellt, warte auf Ankunft
 - [x] @{2022-10-29}<br><br>##### PRIVAT | Regeln zu den [[pausenzeichen|Pausezeichen]]<br><br>Ziel: Seite 77 - 81 lesen und dabei besonders die Pausezeichen beachten
 - [x] @{2022-10-29}<br>##### PRIVAT | Understanding Gradle - Tasks<br><br>Ziel: Grundsätzliches Verstädnis zu Gradle Tasks
 - [x] @{2022-10-29}<br>##### PRIVAT | Understanding Gradle - Plugins<br><br>Ziel: Beantwortung der Fragen<br><br>- [x] Was sind Plugins?<br>- [x] Welche Arten von Plugins gibt es?<br>- [x] Wie erstelle ich ein Plugin?
