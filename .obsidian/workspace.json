@@ -16,29 +16,8 @@
                 "file": "Kanbanboard.md"
               }
             }
-          },
-          {
-            "id": "b8e277152018090f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Synapsen/Java/Build Tools/Gradle/plugins.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7fa2c2714d8cfcc4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synapsen/Java/Build Tools/Gradle/plugins.md",
+                "file": "Kanbanboard.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synapsen/Java/Build Tools/Gradle/plugins.md",
+                "file": "Kanbanboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synapsen/Java/Build Tools/Gradle/plugins.md"
+                "file": "Kanbanboard.md"
               }
             }
           },
@@ -179,14 +158,14 @@
     "direction": "horizontal",
     "width": 382.5
   },
-  "active": "b8e277152018090f",
+  "active": "70ef6dba194ee5df",
   "lastOpenFiles": [
+    "Synapsen/Java/Build Tools/Gradle/plugins.md",
     "Kanbanboard.md",
+    "Synapsen/Java/Build Tools/Gradle/settings.gradle.md",
     "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/idghaam - spezielle-idghaam-regeln.md",
-    "Synapsen/Java/Build Tools/Gradle/plugins.md",
-    "Synapsen/Java/Build Tools/Gradle/build.gradle - build-file.md",
-    "Synapsen/Java/Build Tools/Gradle/settings.gradle - settings-file.md",
+    "Synapsen/Java/Build Tools/Gradle/build.gradle.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md",
     "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/spezielle-symbole.md",
     "Pasted image 20221021152628.png.md",
