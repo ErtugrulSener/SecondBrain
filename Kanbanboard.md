@@ -12,6 +12,7 @@ kanban-plugin: basic
 
 ## Warteschlange (2)
 
+- [ ] @{2022-10-29}<br>##### PRIVAT | Understanding Gradle - Plugins<br><br>Ziel: Beantwortung der Fragen<br><br>- [ ] Was sind Plugins?<br>- [ ] Welche drei Arten von Plugins gibt es?<br>- [ ] Wie erstelle ich ein Plugin?
 - [ ] ##### PRIVAT | Regeln zu den [[pausenzeichen|Pausezeichen]]<br><br>Ziel: Seite 76 - 81 lesen und dabei besonders die Pausezeichen beachten
 
 
@@ -23,7 +24,8 @@ kanban-plugin: basic
 ## Abgeschlossen
 
 **Complete**
-- [x] ##### PRIVAT | Regeln zu den [[pausenzeichen|Pausezeichen]]<br><br>Ziel: Seite 71 - 75 lesen und dabei besonders die Pausezeichen beachten
+- [x] @{2022-10-29}<br>##### PRIVAT | Understanding Gradle - The Build Files<br><br>Ziel: Grundlagen zum sicheren Umgang mit Gradle Build Files
+- [x] @{2022-10-28}<br><br>##### PRIVAT | Regeln zu den [[pausenzeichen|Pausezeichen]]<br><br>Ziel: Seite 71 - 75 lesen und dabei besonders die Pausezeichen beachten
 - [x] ##### PRIVAT |  StudySmarter Karteikarten für [[pausenzeichen|Pausezeichen]] erstellen und Space Repitition einrichten<br><br>Ziel: Ein Tool haben um die Pausezeichen auf lange Sicht auswendig zu lernen @{2022-10-27}
 - [x] ##### PRIVAT | Regeln zum Nun Quitni [[nun-quitni]]<br><br>Ziel: Seite 63 - 68 lesen und dabei besonders die Nun Quitni Regeln beachten @{2022-10-26}
 - [x] ##### PRIVAT | Regeln des Ishar (Buchstaben aus dem Hals) [[ishar - verdeutlichung]]<br><br>Ziel: Seite 63 - 68 lesen und dabei besonders die Ishar-Regel beachten @{2022-10-26}
