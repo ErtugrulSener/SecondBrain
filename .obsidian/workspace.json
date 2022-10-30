@@ -11,8 +11,10 @@
             "id": "36b90e37c10e84ad",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "Kanbanboard.md"
+              }
             }
           }
         ]
