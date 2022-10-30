@@ -11,6 +11,22 @@
             "id": "80e02d5735354075",
             "type": "leaf",
             "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanbanboard.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8f1dcd3bd5e2a794",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f10804f95825a39",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md",
@@ -160,13 +176,13 @@
     "direction": "horizontal",
     "width": 380.5
   },
-  "active": "80e02d5735354075",
+  "active": "2f10804f95825a39",
   "lastOpenFiles": [
+    "Kanbanboard.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md",
     "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/lin-buchstaben.md",
     "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/spezielle-symbole.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
-    "Kanbanboard.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md",
     "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/al-qalqalah.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ishar - verdeutlichung.md",
