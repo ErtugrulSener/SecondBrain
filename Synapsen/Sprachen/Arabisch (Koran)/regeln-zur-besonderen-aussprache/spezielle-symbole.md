@@ -17,7 +17,6 @@ Man verrundet seine beiden Lippen während man dieses Wort liest.
 gesprochen "magrehaa"
 
 # Regel von Sakt
-![[Pasted image 20221021152628.png]]
 gesprochen "gadinaa haasaa"
 
 Man stoppt kurz das Gelesene und liest weiter, ohne einen weiteren Atemzug zu nehmen. Wenn man an der Stelle sowieso stoppt, dann wird diese Regel nicht angewandt, nur beim Weiterlesen.

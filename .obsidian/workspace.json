@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "be57bd01a611b48c",
+        "id": "bce5a8e782f2897b",
         "type": "tabs",
         "children": [
           {
-            "id": "80e02d5735354075",
+            "id": "36b90e37c10e84ad",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanbanboard.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -158,17 +156,17 @@
     "direction": "horizontal",
     "width": 380.5
   },
-  "active": "80e02d5735354075",
+  "active": "36b90e37c10e84ad",
   "lastOpenFiles": [
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/spezielle-symbole.md",
+    "Pasted image 20221021152628.png.md",
     "Kanbanboard.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md",
     "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
     "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/lin-buchstaben.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/spezielle-symbole.md",
     "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/al-qalqalah.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ishar - verdeutlichung.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/iqlaab - sukuniertes-mim-oder-nun.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md"
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/iqlaab - sukuniertes-mim-oder-nun.md"
   ]
 }
