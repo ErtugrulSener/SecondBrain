@@ -8,7 +8,6 @@ kanban-plugin: basic
 
 - [ ] ##### PRIVAT | Kaputten Fernseher im Wohnzimmer ersetzen<br><br>Ziele:<br>- [ ] Fernseher vermessen<br>- [ ] Reviews ansehen<br>- [ ] Passende Marke raussuchen
 - [ ] ##### PRIVAT | Koran lesen lernen<br><br>Fortschritt:<br>-  Koran Seite: 83<br><br>Ziele:<br>- [ ]  Tajweed-Regeln lernen und anwenden können<br>- [ ] In gemäßigtem Tempo den Koran lesen<br><br>Motivation:<br>1) Spiriuelle Weiterentwicklung<br>2) Beweis für Disziplin<br>3) Mehr Sprachverständnis für zukünftige arabische Projekte ^g27i5a
-- [ ] ##### PRIVAT | Understanding Gradle - Task Input and Output<br><br>Ziel: Grundsätzliches Verständnis zu Task Input and Output
 
 
 ## Warteschlange (2)
@@ -17,7 +16,6 @@ kanban-plugin: basic
 
 ## In Arbeit (2)
 
-- [ ] ##### PRIVAT | Understanding Gradle - Lifecycle Tasks<br><br>Ziel: Grundsätzliches Verständnis zu Lifcecycle Tasks
 
 
 ## Abgeschlossen
