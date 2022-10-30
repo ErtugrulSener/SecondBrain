@@ -225,8 +225,8 @@ tasks - Displays the tasks runnable from root project 'cleanprojeect'.
 Sie sind Konfigurationen aus den [[plugins]], die wir spezifizieren im [[build.gradle]] Skript.
 
 # Die Zwei Arten von Tasks
-## Lifecycle Tasks
-## Actionable Tasks
+## [[lifecycle-tasks|Lifecycle Tasks]]
+## [[actionable-tasks|Actionable Tasks]]
 
 # Unvollständige Liste der wichtigsten Plugins
 
