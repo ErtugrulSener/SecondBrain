@@ -12,11 +12,13 @@ kanban-plugin: basic
 
 ## Warteschlange (2)
 
+- [ ] ##### PRIVAT | Understanding Gradle - Task Input and Output<br><br>Ziel: Grundsätzliches Verständnis zu Task Input and Output
 - [ ] ##### PRIVAT | [[arten-des-tanwin|Arten des Tanwin]]<br><br>Ziel: Seite 85 - 87 lesen und dabei besonders die Tanwin beobachten<br><br>- [ ] Die 3 Tanwinarten voneinander unterscheiden können
 
 
 ## In Arbeit (2)
 
+- [ ] ##### PRIVAT | Understanding Gradle - Lifecycle Tasks<br><br>Ziel: Grundsätzliches Verständnis zu Lifcecycle Tasks
 
 
 ## Abgeschlossen
