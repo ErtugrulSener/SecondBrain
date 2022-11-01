@@ -1,3 +1,4 @@
+
 # Madd-Mutasil (Das verbundene Madd im selben Wort)
 
 ## Das Madd-Mutasil ist ein besonderes Madd, welches 4 Harakat lang gelesen wird, statt wie bei einem Madd Buchstaben üblich 2. Es gibt aber auch hier Ausnahmen und Sonderregeln.
