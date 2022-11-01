@@ -11,24 +11,30 @@
             "id": "4a68292f30809cc9",
             "type": "leaf",
             "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanbanboard.md"
+              }
+            }
+          },
+          {
+            "id": "8a2f698306b28baa",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Synapsen/Java/Build Tools/Gradle/tasks.md",
-                "mode": "source",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/hamzatul-wasl.md",
+                "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "7650ae33494c1518",
+            "id": "89267d84e475838a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -98,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/hamzatul-wasl.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/hamzatul-wasl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md"
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/hamzatul-wasl.md"
               }
             }
           },
@@ -173,17 +179,17 @@
     "direction": "horizontal",
     "width": 380.5
   },
-  "active": "7650ae33494c1518",
+  "active": "4a6ccfcfe90749a7",
   "lastOpenFiles": [
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ishar - verdeutlichung.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/iqlaab - sukuniertes-mim-oder-nun.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/nun-quitni.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/idghaam - spezielle-idghaam-regeln.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/hamza-qat'.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/hamzatul-wasl.md",
     "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/spezielle-symbole.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/lin-buchstaben.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/al-qalqalah.md"
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/Hamzah-wasl.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/stille-buchstaben.md",
+    "Kanbanboard.md",
+    "Synapsen/Java/Build Tools/Gradle/tasks.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ishar - verdeutlichung.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md"
   ]
 }
