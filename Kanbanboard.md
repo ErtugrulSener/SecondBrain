@@ -16,6 +16,7 @@ kanban-plugin: basic
 
 ## In Arbeit (2)
 
+- [ ] ##### PRIVAT | [[arten-des-tanwin|Arten des Tanwin]]<br><br>Ziel: Seite 88 - 93 lesen und dabei besonders die Tanwin beobachten<br><br>- [ ] Die 3 Tanwinarten voneinander unterscheiden können
 - [ ] @{2022-10-31}<br><br>##### PRIVAT | Die 3 Madd<br><br>Ziel: Seite 88 - 93 lesen und dabei besonders die drei Madds beachten<br><br>- [ ] Die 3 Madds unterscheiden können<br>- [ ] Die Terminologie für die Madds kennen ([[madd-lazim]], [[madd-munfasil]], [[madd-mutasil]]))
 
 
