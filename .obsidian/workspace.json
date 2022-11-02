@@ -11,9 +11,11 @@
             "id": "4a68292f30809cc9",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanbanboard.md"
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanbanboard.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanbanboard.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanbanboard.md"
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md"
               }
             }
           },
@@ -160,15 +162,15 @@
   },
   "active": "4a68292f30809cc9",
   "lastOpenFiles": [
-    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-mutasil.md",
-    "Kanbanboard.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/regeln-zum-anhalten.md",
+    "Synapsen/Java/Benchmarking/JMH.md",
+    "Templates/arabischer_text.md",
     "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-mutasil.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-munfasil.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md",
+    "Kanbanboard.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/hamza-qat'.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/hamzatul-wasl.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/spezielle-symbole.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/Hamzah-wasl.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/stille-buchstaben.md"
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/hamzatul-wasl.md"
   ]
 }
