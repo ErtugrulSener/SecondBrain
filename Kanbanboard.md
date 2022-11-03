@@ -7,23 +7,23 @@ kanban-plugin: basic
 ## Motivation und Ziele
 
 - [ ] ##### PRIVAT | Kaputten Fernseher im Wohnzimmer ersetzen<br><br>Ziele:<br>- [ ] Fernseher vermessen<br>- [ ] Reviews ansehen<br>- [ ] Passende Marke raussuchen
-- [ ] ##### PRIVAT | Koran lesen lernen<br><br>Fortschritt:<br>-  Koran Seite: 93<br><br>Ziele:<br>- [ ]  Tajweed-Regeln lernen und anwenden können<br>- [ ] In gemäßigtem Tempo den Koran lesen<br><br>Motivation:<br>1) Spiriuelle Weiterentwicklung<br>2) Beweis für Disziplin<br>3) Mehr Sprachverständnis für zukünftige arabische Projekte ^g27i5a
+- [ ] ##### PRIVAT | Koran lesen lernen<br><br>Fortschritt:<br>-  Koran Seite: 99<br><br>Ziele:<br>- [ ]  Tajweed-Regeln lernen und anwenden können<br>- [ ] In gemäßigtem Tempo den Koran lesen<br><br>Motivation:<br>1) Spiriuelle Weiterentwicklung<br>2) Beweis für Disziplin<br>3) Mehr Sprachverständnis für zukünftige arabische Projekte ^g27i5a
 
 
 ## Warteschlange (2)
 
-- [ ] @{2022-10-31}<br><br>##### PRIVAT | Die 3 Madd<br><br>Ziel: Seite 93 - 98 lesen und dabei besonders die drei Madds beachten<br><br>- [ ] Die 3 Madds unterscheiden können<br>- [ ] Die Terminologie für die Madds kennen ([[madd-lazim]], [[madd-munfasil]], [[madd-mutasil]]))
+- [ ] @{2022-10-31}<br><br>##### PRIVAT | Die 3 Madd<br><br>Ziel: Seite XX - XX lesen und dabei besonders die drei Madds beachten<br><br>- [ ] Die 3 Madds unterscheiden können<br>- [ ] Die Terminologie für die Madds kennen ([[madd-lazim]], [[madd-munfasil]], [[madd-mutasil]]))
 
 
 ## In Arbeit (2)
 
-- [ ] ##### PRIVAT | Videos zu den [[arten-des-tanwin|Arten des Tanwin]] erneut ansehen um Wissenslücken zu schließen
-- [ ] ##### PRIVAT | [[arten-des-tanwin|Arten des Tanwin]]<br><br>Ziel: Seite 93 - 98 lesen und dabei besonders die Tanwin beobachten<br><br>- [ ] Die 3 Tanwinarten voneinander unterscheiden können
 
 
 ## Abgeschlossen
 
 **Complete**
+- [x] @{2022-11-02}<br><br>##### PRIVAT | [[arten-des-tanwin|Arten des Tanwin]]<br><br>Ziel: Seite 95 - 98 lesen und dabei besonders die Tanwin beobachten<br><br>- [x] Die 3 Tanwinarten voneinander unterscheiden können
+- [x] ##### PRIVAT | Videos zu den [[arten-des-tanwin|Arten des Tanwin]] erneut ansehen um Wissenslücken zu schließen
 - [x] @{2022-10-30}<br><br>##### PRIVAT | [[arten-des-tanwin|Arten des Tanwin]]<br><br>Ziel: Seite 85 - 87 lesen und dabei besonders die Tanwin beobachten<br><br>- [x] Die 3 Tanwinarten voneinander unterscheiden können
 - [x] ##### PRIVAT | [[arten-des-tanwin|Arten des Tanwin]]<br><br>Ziel: Seite 82 - 84 lesen und dabei besonders die Tanwin beobachten<br><br>- [x] Die 3 Tanwinarten voneinander unterscheiden können
 - [x] @{2022-10-29}<br><br>##### PRIVAT | F4 Taste von der Tastatur reparieren<br>* Neue Taste ist bestellt, warte auf Ankunft
