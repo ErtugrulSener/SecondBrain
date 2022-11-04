@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7b9ed6ab3ec8dd7f",
+        "id": "4903b96ffb2d2883",
         "type": "tabs",
         "children": [
           {
-            "id": "9b8a1153b32bd67d",
+            "id": "4fe9bf589128a596",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-munfasil.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-munfasil.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-munfasil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-munfasil.md"
+              }
             }
           },
           {
@@ -152,17 +160,17 @@
     "direction": "horizontal",
     "width": 380.5
   },
-  "active": "9157ba03e67a3fe2",
+  "active": "4fe9bf589128a596",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/iqlaab - umwandlung.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/übersichtsbild.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ishar - verdeutlichung.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ghunna - sukuniertes-mim-oder-nun.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/idghaam - spezielle-idghaam-regeln.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-mutasil.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-kasr.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md",
     "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/spezielle-symbole.md",
-    "Kanbanboard.md"
+    "Synapsen/Java/Benchmarking/JMH.md",
+    "Kanbanboard.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-munfasil.md",
+    "conflict-files-obsidian-git.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/iqlaab - umwandlung.md"
   ]
 }

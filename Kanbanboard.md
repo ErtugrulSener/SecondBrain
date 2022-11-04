@@ -12,7 +12,7 @@ kanban-plugin: basic
 
 ## Warteschlange (2)
 
-- [ ] @{2022-10-31}<br><br>##### PRIVAT | Die 3 Madd<br><br>Ziel: Seite XX - XX lesen und dabei besonders die drei Madds beachten<br><br>- [ ] Die 3 Madds unterscheiden können<br>- [ ] Die Terminologie für die Madds kennen ([[madd-lazim]], [[madd-munfasil]], [[madd-mutasil]]))
+- [ ] @{2022-10-31}<br><br>##### PRIVAT | Die 3 Madd<br><br>Ziel: Seite 99 - 105 lesen und dabei besonders die drei Madds beachten<br><br>- [ ] Die 3 Madds unterscheiden können<br>- [ ] Die Terminologie für die Madds kennen ([[madd-lazim]], [[madd-munfasil]], [[madd-mutasil]]))
 
 
 ## In Arbeit (2)
