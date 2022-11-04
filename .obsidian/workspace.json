@@ -11,9 +11,11 @@
             "id": "4fe9bf589128a596",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanbanboard.md"
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ghunna - sukuniertes-mim-oder-nun.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -63,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanbanboard.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ghunna - sukuniertes-mim-oder-nun.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanbanboard.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ghunna - sukuniertes-mim-oder-nun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanbanboard.md"
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ghunna - sukuniertes-mim-oder-nun.md"
               }
             }
           },
@@ -159,17 +160,17 @@
     "direction": "horizontal",
     "width": 380.5
   },
-  "active": "f6fa5edbfbab42bc",
+  "active": "4fe9bf589128a596",
   "lastOpenFiles": [
-    "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/idghaam - spezielle-idghaam-regeln.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/übersichtsbild.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/nun-quitni.md",
     "Kanbanboard.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-munfasil.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-mutasil.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-kasr.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/spezielle-symbole.md",
-    "Synapsen/Java/Benchmarking/JMH.md",
-    "conflict-files-obsidian-git.md"
+    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-kasr.md"
   ]
 }
