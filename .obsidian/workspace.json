@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "584f40fc583afce3",
+        "id": "7b9ed6ab3ec8dd7f",
         "type": "tabs",
         "children": [
           {
-            "id": "88048f8e109a39c5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "65e20ef6fa324f01",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "70d8f6751d334d33",
+            "id": "9b8a1153b32bd67d",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
