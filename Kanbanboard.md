@@ -16,7 +16,7 @@ kanban-plugin: basic
 
 ## In Arbeit (2)
 
-- [ ] @{2022-11-05}<br><br>##### PRIVAT | Weitere Videos schauen und Obsidian Notes erstellen<br><br>Ergebnis:<br>1)<br>2)<br>3)
+- [ ] @{2022-11-05}<br><br>##### PRIVAT | Weitere Videos schauen und Obsidian Notes erstellen<br><br>Ergebnis:<br>1) Die Sukuun-Methode<br>2)<br>3)
 
 
 ## Abgeschlossen
