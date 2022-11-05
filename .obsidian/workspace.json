@@ -11,9 +11,11 @@
             "id": "4fe9bf589128a596",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanbanboard.md"
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/hamzatul-wasl.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanbanboard.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/hamzatul-wasl.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanbanboard.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/hamzatul-wasl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanbanboard.md"
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/hamzatul-wasl.md"
               }
             }
           },
@@ -160,8 +162,8 @@
   },
   "active": "4fe9bf589128a596",
   "lastOpenFiles": [
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ghunna - sukuniertes-mim-oder-nun.md",
     "Kanbanboard.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ghunna - sukuniertes-mim-oder-nun.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/idghaam - spezielle-idghaam-regeln.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/übersichtsbild.md",

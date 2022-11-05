@@ -7,7 +7,7 @@ kanban-plugin: basic
 ## Motivation und Ziele
 
 - [ ] ##### PRIVAT | Kaputten Fernseher im Wohnzimmer ersetzen<br><br>Ziele:<br>- [ ] Fernseher vermessen<br>- [ ] Reviews ansehen<br>- [ ] Passende Marke raussuchen
-- [ ] ##### PRIVAT | Koran lesen lernen<br><br>Fortschritt:<br>-  Koran Seite: 102<br><br>Ziele:<br>- [ ]  Tajweed-Regeln lernen und anwenden können<br>- [ ] In gemäßigtem Tempo den Koran lesen<br><br>Motivation:<br>1) Spiriuelle Weiterentwicklung<br>2) Beweis für Disziplin<br>3) Mehr Sprachverständnis für zukünftige arabische Projekte ^g27i5a
+- [ ] ##### PRIVAT | Koran lesen lernen<br><br>Fortschritt:<br>-  Koran Seite: 105<br><br>Ziele:<br>- [ ]  Tajweed-Regeln lernen und anwenden können<br>- [ ] In gemäßigtem Tempo den Koran lesen<br><br>Motivation:<br>1) Spiriuelle Weiterentwicklung<br>2) Beweis für Disziplin<br>3) Mehr Sprachverständnis für zukünftige arabische Projekte ^g27i5a
 
 
 ## Warteschlange (2)
@@ -16,12 +16,13 @@ kanban-plugin: basic
 
 ## In Arbeit (2)
 
-- [ ] @{2022-11-04}<br><br>##### PRIVAT | Nun auf Nun und Mim auf Mim<br><br>Ziel: Seite 102 - 105 lesen und dabei besonders auf die Buchstaben Mim und Nun achten, die aufeinandertreffen<br><br>Siehe auch hier [[ghunna - sukuniertes-mim-oder-nun]]
+- [ ] @{2022-11-05}<br><br>##### PRIVAT | Weitere Videos schauen und Obsidian Notes erstellen<br><br>Ergebnis:<br>1)<br>2)<br>3)
 
 
 ## Abgeschlossen
 
 **Complete**
+- [x] @{2022-11-04}<br><br>##### PRIVAT | Nun auf Nun und Mim auf Mim<br><br>Ziel: Seite 102 - 105 lesen und dabei besonders auf die Buchstaben Mim und Nun achten, die aufeinandertreffen<br><br>Siehe auch hier [[ghunna - sukuniertes-mim-oder-nun]]
 - [x] @{2022-10-31}<br><br>##### PRIVAT | Die 3 Madd<br><br>Ziel: Seite 99 - 100 lesen und dabei besonders die drei Madds beachten<br><br>- [x] Die 3 Madds unterscheiden können<br>- [x] Die Terminologie für die Madds kennen ([[madd-lazim]], [[madd-munfasil]], [[madd-mutasil]]))
 - [x] @{2022-11-02}<br><br>##### PRIVAT | [[arten-des-tanwin|Arten des Tanwin]]<br><br>Ziel: Seite 95 - 98 lesen und dabei besonders die Tanwin beobachten<br><br>- [x] Die 3 Tanwinarten voneinander unterscheiden können
 - [x] ##### PRIVAT | Videos zu den [[arten-des-tanwin|Arten des Tanwin]] erneut ansehen um Wissenslücken zu schließen
