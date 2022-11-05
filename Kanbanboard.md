@@ -7,12 +7,11 @@ kanban-plugin: basic
 ## Motivation und Ziele
 
 - [ ] ##### PRIVAT | Kaputten Fernseher im Wohnzimmer ersetzen<br><br>Ziele:<br>- [ ] Fernseher vermessen<br>- [ ] Reviews ansehen<br>- [ ] Passende Marke raussuchen
-- [ ] ##### PRIVAT | Koran lesen lernen<br><br>Fortschritt:<br>-  Koran Seite: 105<br><br>Ziele:<br>- [ ]  Tajweed-Regeln lernen und anwenden können<br>- [ ] In gemäßigtem Tempo den Koran lesen<br><br>Motivation:<br>1) Spiriuelle Weiterentwicklung<br>2) Beweis für Disziplin<br>3) Mehr Sprachverständnis für zukünftige arabische Projekte ^g27i5a
+- [ ] ##### PRIVAT | Koran lesen lernen<br><br>Fortschritt:<br>-  Koran Seite: 109<br><br>Ziele:<br>- [ ]  Tajweed-Regeln lernen und anwenden können<br>- [ ] In gemäßigtem Tempo den Koran lesen<br><br>Motivation:<br>1) Spiriuelle Weiterentwicklung<br>2) Beweis für Disziplin<br>3) Mehr Sprachverständnis für zukünftige arabische Projekte ^g27i5a
 
 
 ## Warteschlange (2)
 
-- [ ] ##### PRIVAT | Regeln der Aussprache des Buchstaben Ra üben<br><br>Ziel: Seite 105-110 lesen und Regeln beachten
 
 
 ## In Arbeit (2)
@@ -23,6 +22,7 @@ kanban-plugin: basic
 ## Abgeschlossen
 
 **Complete**
+- [x] ##### PRIVAT | Regeln der Aussprache des Buchstaben Ra üben<br><br>Ziel: Seite 106-108 lesen und Regeln beachten + Benennen können
 - [x] @{2022-11-05}<br><br>##### PRIVAT | Weitere Videos schauen und Obsidian Notes erstellen<br><br>Ergebnis:<br>- Sukuun-Methode
 - [x] @{2022-11-04}<br><br>##### PRIVAT | Nun auf Nun und Mim auf Mim<br><br>Ziel: Seite 102 - 105 lesen und dabei besonders auf die Buchstaben Mim und Nun achten, die aufeinandertreffen<br><br>Siehe auch hier [[ghunna - sukuniertes-mim-oder-nun]]
 - [x] @{2022-10-31}<br><br>##### PRIVAT | Die 3 Madd<br><br>Ziel: Seite 99 - 100 lesen und dabei besonders die drei Madds beachten<br><br>- [x] Die 3 Madds unterscheiden können<br>- [x] Die Terminologie für die Madds kennen ([[madd-lazim]], [[madd-munfasil]], [[madd-mutasil]]))
