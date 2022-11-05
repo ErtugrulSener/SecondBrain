@@ -7,7 +7,7 @@ kanban-plugin: basic
 ## Motivation und Ziele
 
 - [ ] ##### PRIVAT | Kaputten Fernseher im Wohnzimmer ersetzen<br><br>Ziele:<br>- [ ] Fernseher vermessen<br>- [ ] Reviews ansehen<br>- [ ] Passende Marke raussuchen
-- [ ] ##### PRIVAT | Koran lesen lernen<br><br>Fortschritt:<br>-  Koran Seite: 111<br><br>Ziele:<br>- [ ]  Tajweed-Regeln lernen und anwenden können<br>- [ ] In gemäßigtem Tempo den Koran lesen<br><br>Motivation:<br>1) Spiriuelle Weiterentwicklung<br>2) Beweis für Disziplin<br>3) Mehr Sprachverständnis für zukünftige arabische Projekte ^g27i5a
+- [ ] ##### PRIVAT | Koran lesen lernen<br><br>Fortschritt:<br>-  Koran Seite: 113<br><br>Ziele:<br>- [ ]  Tajweed-Regeln lernen und anwenden können<br>- [x] In gemäßigtem Tempo den Koran lesen<br><br>Motivation:<br>1) Spiriuelle Weiterentwicklung<br>2) Beweis für Disziplin<br>3) Mehr Sprachverständnis für zukünftige arabische Projekte ^g27i5a
 
 
 ## Warteschlange (2)
@@ -16,7 +16,7 @@ kanban-plugin: basic
 
 ## In Arbeit (2)
 
-- [ ] @{2022-11-05}<br><br>##### PRIVAT | Weitere Videos schauen und Obsidian Notes erstellen<br><br>Ergebnis:<br>- ..
+- [ ] @{2022-11-05}<br><br>##### PRIVAT | Weitere Videos schauen und Obsidian Notes erstellen<br><br>Ergebnis:<br>- [[huruf-mukattah]]<br>- [[lange-wörter]]<br>- Ergänzung [[terminologie]]
 
 
 ## Abgeschlossen
