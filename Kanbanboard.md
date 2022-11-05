@@ -16,6 +16,7 @@ kanban-plugin: basic
 
 ## In Arbeit (2)
 
+- [ ] @{2022-11-04}<br><br>##### PRIVAT | Nun auf Nun und Mim auf Mim<br><br>Ziel: Seite 102 - 105 lesen und dabei besonders auf die Buchstaben Mim und Nun achten, die aufeinandertreffen<br><br>Siehe auch hier [[ghunna - sukuniertes-mim-oder-nun]]
 
 
 ## Abgeschlossen
