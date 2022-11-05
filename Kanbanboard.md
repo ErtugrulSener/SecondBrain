@@ -16,12 +16,12 @@ kanban-plugin: basic
 
 ## In Arbeit (2)
 
-- [ ] @{2022-11-05}<br><br>##### PRIVAT | Weitere Videos schauen und Obsidian Notes erstellen<br><br>Ergebnis:<br>- [[huruf-mukattah]]<br>- [[lange-wörter]]<br>- Ergänzung [[terminologie]]
 
 
 ## Abgeschlossen
 
 **Complete**
+- [x] @{2022-11-05}<br><br>##### PRIVAT | Weitere Videos schauen und Obsidian Notes erstellen<br><br>Ergebnis:<br>- [[huruf-mukattah]]<br>- [[lange-wörter]]<br>- Ergänzung [[terminologie]]
 - [x] ##### PRIVAT | Regeln der Aussprache des Buchstaben Ra üben<br><br>Ziel: Seite 106-108 lesen und Regeln beachten + Benennen können
 - [x] @{2022-11-05}<br><br>##### PRIVAT | Weitere Videos schauen und Obsidian Notes erstellen<br><br>Ergebnis:<br>- Sukuun-Methode
 - [x] @{2022-11-04}<br><br>##### PRIVAT | Nun auf Nun und Mim auf Mim<br><br>Ziel: Seite 102 - 105 lesen und dabei besonders auf die Buchstaben Mim und Nun achten, die aufeinandertreffen<br><br>Siehe auch hier [[ghunna - sukuniertes-mim-oder-nun]]
