@@ -12,11 +12,12 @@ kanban-plugin: basic
 
 ## Warteschlange (2)
 
+- [ ] ##### PRIVAT | Regeln der Aussprache des Buchstaben Ra üben<br><br>Ziel: Seite 105-110 lesen und Regeln beachten
 
 
 ## In Arbeit (2)
 
-- [ ] @{2022-11-05}<br><br>##### PRIVAT | Weitere Videos schauen und Obsidian Notes erstellen<br><br>Ergebnis:<br>- dsa
+- [ ] @{2022-11-05}<br><br>##### PRIVAT | Weitere Videos schauen und Obsidian Notes erstellen<br><br>Ergebnis:<br>- ..
 
 
 ## Abgeschlossen
