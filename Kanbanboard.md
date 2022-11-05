@@ -16,12 +16,13 @@ kanban-plugin: basic
 
 ## In Arbeit (2)
 
-- [ ] @{2022-11-05}<br><br>##### PRIVAT | Weitere Videos schauen und Obsidian Notes erstellen<br><br>Ergebnis:<br>1) Die Sukuun-Methode<br>2)<br>3)
+- [ ] @{2022-11-05}<br><br>##### PRIVAT | Weitere Videos schauen und Obsidian Notes erstellen<br><br>Ergebnis:<br>- dsa
 
 
 ## Abgeschlossen
 
 **Complete**
+- [x] @{2022-11-05}<br><br>##### PRIVAT | Weitere Videos schauen und Obsidian Notes erstellen<br><br>Ergebnis:<br>- Sukuun-Methode
 - [x] @{2022-11-04}<br><br>##### PRIVAT | Nun auf Nun und Mim auf Mim<br><br>Ziel: Seite 102 - 105 lesen und dabei besonders auf die Buchstaben Mim und Nun achten, die aufeinandertreffen<br><br>Siehe auch hier [[ghunna - sukuniertes-mim-oder-nun]]
 - [x] @{2022-10-31}<br><br>##### PRIVAT | Die 3 Madd<br><br>Ziel: Seite 99 - 100 lesen und dabei besonders die drei Madds beachten<br><br>- [x] Die 3 Madds unterscheiden können<br>- [x] Die Terminologie für die Madds kennen ([[madd-lazim]], [[madd-munfasil]], [[madd-mutasil]]))
 - [x] @{2022-11-02}<br><br>##### PRIVAT | [[arten-des-tanwin|Arten des Tanwin]]<br><br>Ziel: Seite 95 - 98 lesen und dabei besonders die Tanwin beobachten<br><br>- [x] Die 3 Tanwinarten voneinander unterscheiden können
