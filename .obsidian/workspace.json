@@ -35,9 +35,11 @@
             "id": "71ad1baab7219503",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanbanboard.md"
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-munfasil.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanbanboard.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-munfasil.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanbanboard.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-munfasil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanbanboard.md"
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-munfasil.md"
               }
             }
           },
@@ -185,15 +187,15 @@
   },
   "active": "71ad1baab7219503",
   "lastOpenFiles": [
-    "Synapsen/Sprachen/Arabisch (Koran)/allgemein/lange-wörter.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-mutasil.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md",
     "Kanbanboard.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/allgemein/lange-wörter.md",
     "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
     "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/huruf-mukattah.md",
     "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/satzanfänge-mit-galu.md",
     "Synapsen/Sprachen/Arabisch (Koran)/dunkle-buchstaben/dunkles-und-helles-ra.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ghunna - sukuniertes-mim-oder-nun.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/al-qalqalah.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/hamzatul-wasl.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/idghaam - spezielle-idghaam-regeln.md"
+    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/al-qalqalah.md"
   ]
 }

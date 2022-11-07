@@ -5,3 +5,8 @@
 z.B: bei den beiden Worten "Kalla inahä"
 
 <span style="font-size: 22pt">كَلَّآ اِّنًَهَا</span>
+gesprochen "kalaaaa innahaa"
+
+```ad-note
+Diese Art von Madd ist optional, man kann ihn für 2 oder 4 Harakat lesen. Beides ist gülltig.
+```
