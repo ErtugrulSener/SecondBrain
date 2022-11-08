@@ -13,6 +13,6 @@
   "userIgnoreFilters": [
     "Templates"
   ],
-  "showLineNumber": false,
+  "showLineNumber": true,
   "showInlineTitle": false
 }

@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "73dadace25f522bd",
+        "id": "741dfce175fa915b",
         "type": "tabs",
         "children": [
           {
-            "id": "17d5a34111d1b4f5",
+            "id": "e781aa1e9422551a",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanbanboard.md"
+              }
+            }
+          },
+          {
+            "id": "d32780735c60c48c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md",
-                "mode": "source",
+                "file": "Synapsen/Java/Benchmarking/Untitled.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md",
+                "file": "Synapsen/Java/Benchmarking/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md",
+                "file": "Synapsen/Java/Benchmarking/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md"
+                "file": "Synapsen/Java/Benchmarking/Untitled.md"
               }
             }
           },
@@ -160,17 +171,17 @@
     "direction": "horizontal",
     "width": 380.5
   },
-  "active": "17d5a34111d1b4f5",
+  "active": "d32780735c60c48c",
   "lastOpenFiles": [
+    "Kanbanboard.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zum-enden/ta-maftuha.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/huruf-mukattah.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-mutasil.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-munfasil.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-silah.md",
-    "Kanbanboard.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ghunna - sukuniertes-mim-oder-nun.md",
     "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/al-qalqalah.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/hamza-qat'.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/hamzatul-wasl.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/huruf-mukattah.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/idghaam - spezielle-idghaam-regeln.md"
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/hamza-qat'.md"
   ]
 }
