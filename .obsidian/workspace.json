@@ -11,9 +11,11 @@
             "id": "e781aa1e9422551a",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanbanboard.md"
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-silah.md",
+                "mode": "preview",
+                "source": true
               }
             }
           },
@@ -23,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synapsen/Java/Benchmarking/Untitled.md",
-                "mode": "preview",
+                "file": "Synapsen/Java/Build Tools/Gradle/build.gradle.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synapsen/Java/Benchmarking/Untitled.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-silah.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synapsen/Java/Benchmarking/Untitled.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-silah.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synapsen/Java/Benchmarking/Untitled.md"
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-silah.md"
               }
             }
           },
@@ -171,17 +172,17 @@
     "direction": "horizontal",
     "width": 380.5
   },
-  "active": "d32780735c60c48c",
+  "active": "e781aa1e9422551a",
   "lastOpenFiles": [
+    "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/regeln-zum-anhalten.md",
     "Kanbanboard.md",
+    "Synapsen/Java/Build Tools/Gradle/build.gradle.md",
+    "Synapsen/Java/Build Tools/Gradle/actionable-tasks.md",
     "Synapsen/Sprachen/Arabisch (Koran)/regeln-zum-enden/ta-maftuha.md",
     "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/huruf-mukattah.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-mutasil.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-munfasil.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-silah.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ghunna - sukuniertes-mim-oder-nun.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/al-qalqalah.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-hamza/hamza-qat'.md"
+    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-silah.md"
   ]
 }

@@ -6,6 +6,6 @@
   "obsidian-git",
   "obsidian-admonition",
   "obsidian-kanban",
-  "execute-code",
-  "obsidian-better-codeblock"
+  "obsidian-better-codeblock",
+  "obsidian-linter"
 ]
