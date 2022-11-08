@@ -7,7 +7,7 @@ kanban-plugin: basic
 ## Motivation und Ziele
 
 - [ ] ##### PRIVAT | Kaputten Fernseher im Wohnzimmer ersetzen<br><br>Ziele:<br>- [ ] Fernseher vermessen<br>- [ ] Reviews ansehen<br>- [ ] Passende Marke raussuchen
-- [ ] ##### PRIVAT | Koran lesen lernen<br><br>Fortschritt:<br>-  Koran Seite: 116<br><br>Ziele:<br>- [ ]  Tajweed-Regeln lernen und anwenden können<br>- [x] In gemäßigtem Tempo den Koran lesen<br><br>Motivation:<br>1) Spiriuelle Weiterentwicklung<br>2) Beweis für Disziplin<br>3) Mehr Sprachverständnis für zukünftige arabische Projekte ^g27i5a
+- [ ] ##### PRIVAT | Koran lesen lernen<br><br>Fortschritt:<br>-  Koran Seite: 117<br><br>Ziele:<br>- [ ]  Tajweed-Regeln lernen und anwenden können<br>- [x] In gemäßigtem Tempo den Koran lesen<br><br>Motivation:<br>1) Spiriuelle Weiterentwicklung<br>2) Beweis für Disziplin<br>3) Mehr Sprachverständnis für zukünftige arabische Projekte ^g27i5a
 
 
 ## Warteschlange (2)
@@ -21,6 +21,7 @@ kanban-plugin: basic
 ## Abgeschlossen
 
 **Complete**
+- [x] @{2022-11-08}<br><br>##### PRIVAT | Regeln zu [[madd-silah|Madd Silah]] lernen und eine Note erstellen
 - [x] @{2022-11-06}<br><br>##### PRIVAT | Regeln der Aussprache des Buchstaben Ra üben<br><br>Ziel: Seite 113-115 lesen und Regeln beachten + Benennen können
 - [x] @{2022-11-05}<br><br>##### PRIVAT | Weitere Videos schauen und Obsidian Notes erstellen<br><br>Ergebnis:<br>- [[huruf-mukattah]]<br>- [[lange-wörter]]<br>- Ergänzung [[terminologie]]
 - [x] @{2022-11-05}<br><br>##### PRIVAT | Regeln der Aussprache des Buchstaben Ra üben<br><br>Ziel: Seite 106-108 lesen und Regeln beachten + Benennen können
