@@ -11,11 +11,9 @@
             "id": "e781aa1e9422551a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md",
-                "mode": "source",
-                "source": true
+                "file": "Kanbanboard.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md",
+                "file": "Kanbanboard.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md",
+                "file": "Kanbanboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md"
+                "file": "Kanbanboard.md"
               }
             }
           },
@@ -162,6 +160,8 @@
   },
   "active": "e781aa1e9422551a",
   "lastOpenFiles": [
+    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/lin-buchstaben.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md",
     "Kanbanboard.md",
     "Synapsen/Java/Build Tools/Gradle/build.gradle.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-silah.md",
@@ -169,8 +169,6 @@
     "Synapsen/Java/Build Tools/Gradle/actionable-tasks.md",
     "Synapsen/Sprachen/Arabisch (Koran)/regeln-zum-enden/ta-maftuha.md",
     "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/huruf-mukattah.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-mutasil.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-munfasil.md"
+    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-mutasil.md"
   ]
 }
