@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "741dfce175fa915b",
+        "id": "1ea48fd610acdf91",
         "type": "tabs",
         "children": [
           {
-            "id": "e781aa1e9422551a",
+            "id": "4bafe20408466137",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanbanboard.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -46,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "# Regel Nr. ",
+                "query": "<=",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanbanboard.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanbanboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kanbanboard.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,15 +153,15 @@
     "direction": "horizontal",
     "width": 380.5
   },
-  "active": "e781aa1e9422551a",
+  "active": "4bafe20408466137",
   "lastOpenFiles": [
+    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/lin-buchstaben.md",
+    "Kanbanboard.md",
     "Templates/arabischer_text.md",
     "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/satzanfänge-mit-galu.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ishar - verdeutlichung.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/nun-quitni.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/übersichtsbild.md",
-    "Kanbanboard.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/lin-buchstaben.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md",
     "Synapsen/Java/Build Tools/Gradle/build.gradle.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-silah.md"
