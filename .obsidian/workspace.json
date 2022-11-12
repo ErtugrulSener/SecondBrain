@@ -23,9 +23,23 @@
             "id": "bd20e65ec44a08d1",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanbanboard.md"
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-al-lin.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "da358dfbc96e142a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-al-aared-lil-sukun - temporäres-madd.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -96,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanbanboard.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-al-lin.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanbanboard.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-al-lin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanbanboard.md"
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-al-lin.md"
               }
             }
           },
@@ -173,15 +187,15 @@
   },
   "active": "bd20e65ec44a08d1",
   "lastOpenFiles": [
+    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-al-aared-lil-sukun - temporäres-madd.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/satzanfänge-mit-galu.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-al-lin.md",
+    "Kanbanboard.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ishar - verdeutlichung.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/iqlaab - umwandlung.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/idghaam - spezielle-idghaam-regeln.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ghunna - sukuniertes-mim-oder-nun.md",
-    "Images/Arabisch (Koran)/rules-of-ikhfa.png",
-    "Images/Arabisch (Koran)/rules-of-idghaam-with-a-similar-mahraj.png",
-    "Kanbanboard.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/temporäres-madd.md"
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ghunna - sukuniertes-mim-oder-nun.md"
   ]
 }
