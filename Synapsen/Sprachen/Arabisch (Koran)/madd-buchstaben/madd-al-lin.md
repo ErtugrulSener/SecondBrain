@@ -7,3 +7,6 @@ Schaubild dazu:
 ## Regel Nr. 1) Der Buchstabe vor dem Vorletzten (welches Sukun ist), trägt ein Fatha.
 
 ## Regel Nr. 2) Das Madd-al-lin darf nicht mehr Harakat gelesen werden, als das Madd-al-aared-lil-sukun. Es ist sogar empfohlen, dass man sie immer mit gleicher Länge liest, z.B: 2 Harakat.
+
+# Referenzen
+[Video](https://youtu.be/1IPzpRRFVOs)

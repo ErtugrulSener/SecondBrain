@@ -11,3 +11,6 @@ Dies gillt für eine Rezitation, also z.B: für die Seite die man liest oder die
 ```
 
 Fast die selben Regeln gelten bei der Regel: [[madd-al-lin]]
+
+# Referenzen
+[Video](https://youtu.be/j1eHcChXYC8)
