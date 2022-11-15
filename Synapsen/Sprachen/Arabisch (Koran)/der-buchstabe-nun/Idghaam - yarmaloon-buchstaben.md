@@ -33,4 +33,6 @@ Diese Regeln finden NUR statt, wenn das Nun Sakin und der Yarmaloon-Buchstabe in
 # Referenzen
 [Video](https://youtu.be/l8iy-LMdAzY)
 
+[Video](https://youtu.be/BADF9CJUY-4)
+
 #rule-of-Idghaam

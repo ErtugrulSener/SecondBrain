@@ -16,6 +16,7 @@ kanban-plugin: basic
 
 ## In Arbeit (2)
 
+- [ ] @{2022-11-06}<br><br>##### PRIVAT | Seite 134-136 lesen und die Regeln von [[ithar - verdeutlichung]] besonders beachten<br><br>Ziel: Besonders auf die [[arten-des-tanwin#Nr. 1: Das volle Tanwin]] und das "explizite" Nun Sakinah achten
 
 
 ## Abgeschlossen
