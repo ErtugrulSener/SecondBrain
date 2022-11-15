@@ -5,6 +5,7 @@
   "table-editor-obsidian",
   "obsidian-git",
   "obsidian-admonition",
+  "obsidian-kanban",
   "obsidian-better-codeblock",
-  "obsidian-kanban"
+  "obsidian-linter"
 ]

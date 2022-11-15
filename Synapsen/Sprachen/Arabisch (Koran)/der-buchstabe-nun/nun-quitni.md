@@ -1,4 +1,6 @@
-# Regel Nr. 1) Wenn auf ein Nun Sakin (auch möglich durch ein Fathatein, Kasratein oder ein Dammatein) ein weiterer Sakin Buchstabe folgt, dann kriegt das Nun eine Kasra. [^1]
+# Nun Quitni
+
+## Regel Nr. 1) Wenn auf ein Nun Sakin (auch möglich durch ein Fathatein, Kasratein oder ein Dammatein) ein weiterer Sakin Buchstabe folgt, dann kriegt das Nun eine Kasra. [^1]
 
 <span style="font-size: 22pt">نُوحٌ ٱبۡنَهُۥ</span>
 gesprochen "nuhunibnähu"

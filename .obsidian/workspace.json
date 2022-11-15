@@ -13,13 +13,78 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework.md",
+                "file": "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/Allgemein.md",
                 "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "e9cfaf1c61c0999e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/Allgemein.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "02f44e4165417ca6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/Allgemein.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "33ad15a4df00062e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/DataFetcher.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a5355e32fb318d2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/Allgemein.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c6491afc1622aa56",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "251469d9b894b844",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -85,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +166,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +187,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,17 +221,17 @@
     "direction": "horizontal",
     "width": 380.5
   },
-  "active": "194298ed48c0f9d2",
+  "active": "4a6ccfcfe90749a7",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/Allgemein.md",
+    "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/DataFetcher.md",
+    "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/DGS-Framework 1.md",
+    "Images/DGS-Framework/intellij-integration.png",
     "Synapsen/Sprachen/Arabisch (Koran)/dunkle-buchstaben/dunkles-und-helles-ra.md",
     "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/satzanfänge-mit-galu.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-munfasil.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-mutasil.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md",
-    "Kanbanboard.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/allgemein/lange-wörter.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/huruf-mukattah.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ghunna - sukuniertes-mim-oder-nun.md"
+    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md"
   ]
 }

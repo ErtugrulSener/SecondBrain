@@ -6,7 +6,7 @@ Die Yarmaloon Buchstaben heißen so, weil sie aus den Buchstaben Ya, Ra, Mim, La
 
 gesprochen "Yarmaloon"
 
-# Regel Nr. 1) Wenn auf ein Nun Sakin (auch möglich durch ein Fathatein, Kasratein oder ein Dammatein) ein Yarmaloon-Buchstabe kommt, dann verbindet man die beiden Teile miteinander.
+## Regel Nr. 1) Wenn auf ein Nun Sakin (auch möglich durch ein Fathatein, Kasratein oder ein Dammatein) ein Yarmaloon-Buchstabe kommt, dann verbindet man die beiden Teile miteinander.
 
 <span style="font-size: 22pt">يَكُنْ لٌ</span>
 
@@ -18,7 +18,7 @@ oder
 
 gesprochen "yäkufäv" (Nun sakin im Fathatain wurde übersprungen)
 
-# Regel Nr. 2) Sollte Regel Nr. 1) zutreffen, dann wird bei allen Yarmoloon-Buchstaben außer dem Lam und dem Ra der Buchstabe mit 2 Harakat gelesen.
+## Regel Nr. 2) Sollte Regel Nr. 1) zutreffen, dann wird bei allen Yarmoloon-Buchstaben außer dem Lam und dem Ra der Buchstabe mit 2 Harakat gelesen.
 
 Beispiel mit einem Mim:
 

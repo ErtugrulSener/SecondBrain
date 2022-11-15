@@ -1,4 +1,6 @@
-# Regel Nr. 1) Wenn das letzte Wort einer Aya mit einem Kasra(tain) oder einer Damma(tain) endet, dann spricht man den letzten Buchstaben des Wortes, als hätte er ein Sukun.
+# Regeln zum Anhalten
+
+## Regel Nr. 1) Wenn das letzte Wort einer Aya mit einem Kasra(tain) oder einer Damma(tain) endet, dann spricht man den letzten Buchstaben des Wortes, als hätte er ein Sukun.
 
 <span style="font-size: 22pt">حَمِيمِ</span>
 <span style="font-size: 22pt">حَمِيمُ</span>
@@ -11,7 +13,7 @@ wird beides gesprochen als "Hamim" statt "Hamimu" / "Hamimi".
 wird beides gesprochen als "Hamim" statt "Hamimun" / "Hamimin".
 
 
-# Regel Nr. 2) Wenn der letzte Buchastabe ein Fathatain trägt, dann liest man den Buchstaben als Alif-Madd. (Buchstabe mit Fatha + 1 Elif danach)
+## Regel Nr. 2) Wenn der letzte Buchastabe ein Fathatain trägt, dann liest man den Buchstaben als Alif-Madd. (Buchstabe mit Fatha + 1 Elif danach)
 
 <span style="font-size: 22pt">حَمِيمً</span>
 
