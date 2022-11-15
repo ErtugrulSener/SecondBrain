@@ -35,11 +35,9 @@
             "id": "940a055367fceac8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Synapsen/Java/IDE's/IntelliJ IDEA/Nützliche Hotkeys.md",
-                "mode": "preview",
-                "source": true
+                "file": "Kanbanboard.md"
               }
             }
           },
@@ -122,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synapsen/Java/IDE's/IntelliJ IDEA/Nützliche Hotkeys.md",
+                "file": "Kanbanboard.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synapsen/Java/IDE's/IntelliJ IDEA/Nützliche Hotkeys.md",
+                "file": "Kanbanboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synapsen/Java/IDE's/IntelliJ IDEA/Nützliche Hotkeys.md"
+                "file": "Kanbanboard.md"
               }
             }
           },
@@ -199,6 +197,7 @@
   },
   "active": "940a055367fceac8",
   "lastOpenFiles": [
+    "Synapsen/Java/IDE's/IntelliJ IDEA/Nützliche Hotkeys.md",
     "Synapsen/Java/IDE's/IntelliJ.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ithar - verdeutlichung.md",
     "Kanbanboard.md",
@@ -207,7 +206,6 @@
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-munfasil.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-kasr.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-al-aared-lil-sukun - temporäres-madd.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-al-lin.md"
+    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-al-aared-lil-sukun - temporäres-madd.md"
   ]
 }
