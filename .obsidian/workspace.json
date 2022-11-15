@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "940a055367fceac8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Synapsen/Java/IDE's/IntelliJ IDEA/Nützliche Hotkeys.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "da358dfbc96e142a",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ithar - verdeutlichung.md",
+                "file": "Synapsen/Java/IDE's/IntelliJ IDEA/Nützliche Hotkeys.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ithar - verdeutlichung.md",
+                "file": "Synapsen/Java/IDE's/IntelliJ IDEA/Nützliche Hotkeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ithar - verdeutlichung.md"
+                "file": "Synapsen/Java/IDE's/IntelliJ IDEA/Nützliche Hotkeys.md"
               }
             }
           },
@@ -185,17 +197,17 @@
     "direction": "horizontal",
     "width": 380.5
   },
-  "active": "bd20e65ec44a08d1",
+  "active": "940a055367fceac8",
   "lastOpenFiles": [
-    "Kanbanboard.md",
+    "Synapsen/Java/IDE's/IntelliJ.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ithar - verdeutlichung.md",
+    "Kanbanboard.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-silah.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-mutasil.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-munfasil.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-kasr.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-al-aared-lil-sukun - temporäres-madd.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-al-lin.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ghunna - sukuniertes-mim-oder-nun.md"
+    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-al-lin.md"
   ]
 }
