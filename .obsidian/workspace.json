@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md",
+                "file": "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/DataFetcher.md",
                 "mode": "preview",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md",
+                "file": "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/DataFetcher.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md",
+                "file": "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/DataFetcher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md"
+                "file": "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/DataFetcher.md"
               }
             }
           },
@@ -199,15 +199,15 @@
   },
   "active": "940a055367fceac8",
   "lastOpenFiles": [
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md",
+    "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/Allgemein.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/dunkle-buchstaben/dunkles-und-helles-ra.md",
+    "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/DataFetcher.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md",
     "Kanbanboard.md",
     "Synapsen/Java/IDE's/IntelliJ IDEA/Nützliche Hotkeys.md",
     "Synapsen/Java/IDE's/IntelliJ.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ithar - verdeutlichung.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-silah.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-mutasil.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-munfasil.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md"
+    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-silah.md"
   ]
 }
