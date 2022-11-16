@@ -1,37 +1,3 @@
-# Ansprechpartner im Incident Fall
-| Rolle | Vollständiger Name | Rufnummer (Geschäftlich) | E-Mail                          | SF? | Know-How                                      |
-| ----- | ------------------ | ------------------------ | ------------------------------- | --- | --------------------------------------------- |
-| PO    | Arno Rogowsky      | +49 308 353 84 343       | arno.rogowsky@t-systems.com     | -   | #Serverentwicklung                            |
-| H     | Ertugrul Sener     | +49 170 766 15 00        | ertugrul.sener@t-systems.com    | -   | #Git, #Gitlab, #History-Rewrite #EditorConfig |
-| S     | Andreas Schampera  | +49 308 353 23 231       | andreas.schampera@t-systems.com | -   | #Git, #Gitlab, #Pipelines                     |
-| S     | Björn Walther      | +49 308 353 84 298       | bjoern.walther@t-systems.com    | -   | #ClearCase                                    |
-| S     | Manuel Bernhardt   | +49 170 764 69 29        | manuel.bernhard@t-systems.com   | -   | #Git, #Gitlab, #GPipelines, #Jira-Tooling     |
-| S     | Peter Esser        | +49 151 724 74 055       | peter.esser@t-systems.com       | -   |                                               |
-| S     | Hagen Magister     | +49 308 353 23 729       | hagen.magister@t-systems.com    | -   | #Terminmanagement                             |
-
-# Rollenkürzel
-| Kürzel | Rolle                 |
-| ------ | --------------------- |
-| PO     | Project Owner         |
-| H      | Hauptverantwortlicher |
-| S      | Stellvertreter        | 
-
-# Glossar
-| Wort | Bedeutung           |
-| ---- | ------------------- |
-| SF   | Sicherheitsfreigabe | 
-
-# Im Falle eines akuten Sicherheitsvorfalls
-1. Melde dich umgehend per Mail beim PO und dem Hauptverantwortlichen, die Daten entnehme dafür aus der Tabelle oben. Bitte setzte unsere Stellvertreter in CC für eine schnelle Bearbeitung. (Falls Hauptverantwortlicher im Urlaub, übernehmen die Stellvertreter.)
-
-2. Folgende Informationen werden (mindestens) benötigt:
-	- Welche Datei wurde eingecheckt?
-	- In welchem Branch wurde eingecheckt?
-	- Ist die Datei bereits im Main-Branch gelandet durch MR?
-	- Wer ist der Ansprechpartner für weitere Fragen?
-
-	Nutze bitte auch diese Fragen und antworte kurz darauf. Im Falle eines Sicherheitsvorfalls muss es schnell gehen, es ist nicht viel Zeit für tam tam.
-
 # Der Unterschied zwischen Autor und Commiter
 
 Der *Autor* der Commits steht im Commit selbst und kann leicht geändert werden (Wie untenstehend gezeigt).
