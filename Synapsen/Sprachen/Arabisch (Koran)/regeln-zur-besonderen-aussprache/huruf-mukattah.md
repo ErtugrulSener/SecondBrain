@@ -12,5 +12,7 @@ Wie viele Harakat wir lesen kommt auf den Buchstaben an und seine Transliteratio
 ![[Pasted image 20221105152026.png]]
 ```
 
+## Regel Nr. 2) In manchen Tareeq wird die Regel [[Idghaam - yarmaloon-buchstaben]] hier angewandt, wenn die Huruf Mukattah nicht bei der Aya Enden sondern weitergelesen werden. Der größte Teil wendet die Regel hier aber nicht an.
+
 [Video](https://youtu.be/6_gKg6PByOI)
 

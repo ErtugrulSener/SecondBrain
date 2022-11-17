@@ -11,9 +11,11 @@
             "id": "990aff48aeb64cfd",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanbanboard.md"
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/huruf-mukattah.md",
+                "mode": "preview",
+                "source": true
               }
             }
           },
@@ -29,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/Allgemein.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/huruf-mukattah.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/Allgemein.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/huruf-mukattah.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/Allgemein.md"
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/huruf-mukattah.md"
               }
             }
           },
@@ -171,17 +172,17 @@
     "direction": "horizontal",
     "width": 380.5
   },
-  "active": "4a6ccfcfe90749a7",
+  "active": "990aff48aeb64cfd",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/huruf-mukattah.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ghunna - sukuniertes-mim-oder-nun.md",
     "Kanbanboard.md",
+    "conflict-files-obsidian-git.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ithar - verdeutlichung.md",
     "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/übersichtsbild.md",
     "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/satzanfänge-mit-galu.md",
-    "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/DataFetcher.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-al-aared-lil-sukun - temporäres-madd.md",
-    "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/Allgemein.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/dunkle-buchstaben/dunkles-und-helles-ra.md"
+    "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/DataFetcher.md"
   ]
 }
