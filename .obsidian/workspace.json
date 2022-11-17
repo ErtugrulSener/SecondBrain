@@ -21,8 +21,12 @@
             "id": "e95fd276be3714fb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/Allgemein.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ],
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/Allgemein.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/Allgemein.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/Allgemein.md"
+              }
             }
           },
           {
@@ -163,7 +171,7 @@
     "direction": "horizontal",
     "width": 380.5
   },
-  "active": "e95fd276be3714fb",
+  "active": "4a6ccfcfe90749a7",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Kanbanboard.md",
