@@ -11,26 +11,15 @@
             "id": "990aff48aeb64cfd",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanbanboard.md"
-              }
-            }
-          },
-          {
-            "id": "e95fd276be3714fb",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/Allgemein.md",
-                "mode": "source",
+                "file": "Synapsen/VCS/Git/Rebasing.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/Allgemein.md",
+                "file": "Synapsen/VCS/Git/Rebasing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/Allgemein.md",
+                "file": "Synapsen/VCS/Git/Rebasing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/Allgemein.md"
+                "file": "Synapsen/VCS/Git/Rebasing.md"
               }
             }
           },
@@ -171,17 +160,17 @@
     "direction": "horizontal",
     "width": 380.5
   },
-  "active": "4a6ccfcfe90749a7",
+  "active": "990aff48aeb64cfd",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Kanbanboard.md",
+    "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/Allgemein.md",
+    "Images/Git/rebase_1.png",
+    "Images/Git/rebase_2.png",
+    "Synapsen/VCS/Git/Rebasing.md",
+    "conflict-files-obsidian-git.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ithar - verdeutlichung.md",
     "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/übersichtsbild.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/satzanfänge-mit-galu.md",
-    "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/DataFetcher.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-al-aared-lil-sukun - temporäres-madd.md",
-    "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/Allgemein.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/dunkle-buchstaben/dunkles-und-helles-ra.md"
+    "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/satzanfänge-mit-galu.md"
   ]
 }
