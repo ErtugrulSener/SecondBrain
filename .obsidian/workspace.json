@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synapsen/VCS/Git/Rebasing.md",
+                "file": "Synapsen/VCS/Git/History Rewrite.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synapsen/VCS/Git/Rebasing.md",
+                "file": "Synapsen/VCS/Git/History Rewrite.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synapsen/VCS/Git/Rebasing.md",
+                "file": "Synapsen/VCS/Git/History Rewrite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synapsen/VCS/Git/Rebasing.md"
+                "file": "Synapsen/VCS/Git/History Rewrite.md"
               }
             }
           },
@@ -162,11 +162,11 @@
   },
   "active": "990aff48aeb64cfd",
   "lastOpenFiles": [
+    "Synapsen/VCS/Git/Rebasing.md",
     "Kanbanboard.md",
     "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/Allgemein.md",
     "Images/Git/rebase_1.png",
     "Images/Git/rebase_2.png",
-    "Synapsen/VCS/Git/Rebasing.md",
     "conflict-files-obsidian-git.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ithar - verdeutlichung.md",
     "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md",
