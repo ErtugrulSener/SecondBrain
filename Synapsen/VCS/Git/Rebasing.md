@@ -36,5 +36,46 @@ $ git merge experiment
 
 ![[rebase_3.png]]
 
+# Interessante Anwendungsfälle für ein Rebase
+## Feature Branches von Feature Branches in main einpflegen
+
+Man kann den Rebase Befehl auch verwenden, um die Commits von einem Feature Branch eines Feature Branches in den Main-Branch zu übertragen. Ergo:
+
+main -> feature/X -> feature/Y
+
+Wir übertragen hierbei die Commits von feature/Y direkt in main bzw. erstellen intern Patches und spielen sie auf den HEAD aus dem main-Branch auf.
+
+Die Ausgangslage ist folgende:
+
+![[extended_rebase_1.png]]
+
+Wir haben einen Feature Branch server erstellt, einen Commit auf diesem gemacht und dann einen weiteren Feature Branch client aus diesem. Nun können wir das oben beschriebene folgendermaßen umsetzen:
+
+```Bash
+git rebase --onto master server client
+```
+
+```ad-note
+Der Befehl heißt so viel wie "Checke den client Branch aus, finde die Patches der gemeinsamen Vorgänger client und server heraus und wende sie erneut auf den Master an."
+```
+
+Jetzt muss der Master-Branch noch vorgespult werden.
+
+```Bash
+$ git checkout master
+$ git merge client
+```
+
+## Rebase ohne Branch vorher auszuchecken
+
+Struktur:
+git rebase \<Basis-Branch\> \<Themen-Branch\>
+
+```Bash
+git rebase master server
+```
+
+sprich "Rebase die Änderungen aus server in master"
+
 # Referenzen
 [Git Book](https://git-scm.com/book/de/v2)
