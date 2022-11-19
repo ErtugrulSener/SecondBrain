@@ -11,9 +11,11 @@
             "id": "9de64c3c685d57b4",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanbanboard.md"
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanbanboard.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanbanboard.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanbanboard.md"
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md"
               }
             }
           },
@@ -159,15 +161,15 @@
   },
   "active": "9de64c3c685d57b4",
   "lastOpenFiles": [
+    "Kanbanboard.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-al-aared-lil-sukun - temporäres-madd.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-al-lin.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-kasr.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-silah.md",
     "Synapsen/Java/Build Tools/Gradle/tasks.md",
     "Synapsen/Java/Build Tools/Gradle/settings.gradle.md",
     "Synapsen/Java/Build Tools/Gradle/plugins.md",
     "Synapsen/Java/Build Tools/Gradle/lifecycle-tasks.md",
-    "Synapsen/Java/Build Tools/Gradle/build.gradle.md",
-    "Synapsen/Java/Build Tools/Gradle/actionable-tasks.md",
-    "Synapsen/VCS/Git/History Rewrite.md",
-    "Kanbanboard.md",
-    "Templates/arabischer_text.md",
-    "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/Allgemein.md"
+    "Synapsen/Java/Build Tools/Gradle/build.gradle.md"
   ]
 }
