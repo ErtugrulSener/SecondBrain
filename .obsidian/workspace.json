@@ -11,8 +11,10 @@
             "id": "9de64c3c685d57b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "Kanbanboard.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kanbanboard.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Kanbanboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kanbanboard.md"
+              }
             }
           },
           {
@@ -153,15 +159,15 @@
   },
   "active": "9de64c3c685d57b4",
   "lastOpenFiles": [
-    "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/Allgemein.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md",
-    "Synapsen/Java/Spring Boot/Stereotypes.md",
-    "Synapsen/Java/Spring Boot/Spring Bean.md",
+    "Synapsen/Java/Build Tools/Gradle/tasks.md",
+    "Synapsen/Java/Build Tools/Gradle/settings.gradle.md",
+    "Synapsen/Java/Build Tools/Gradle/plugins.md",
+    "Synapsen/Java/Build Tools/Gradle/lifecycle-tasks.md",
+    "Synapsen/Java/Build Tools/Gradle/build.gradle.md",
+    "Synapsen/Java/Build Tools/Gradle/actionable-tasks.md",
+    "Synapsen/VCS/Git/History Rewrite.md",
     "Kanbanboard.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/huruf-mukattah.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ghunna - sukuniertes-mim-oder-nun.md",
-    "conflict-files-obsidian-git.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ithar - verdeutlichung.md"
+    "Templates/arabischer_text.md",
+    "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/Allgemein.md"
   ]
 }
