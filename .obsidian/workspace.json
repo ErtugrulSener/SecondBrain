@@ -23,14 +23,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synapsen/Java/Java Bean.md",
+                "file": "Synapsen/Java/Spring Boot/Stereotypes.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "08e57b6153ec4b88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Synapsen/Java/Spring Boot/Web MVC/Mapping.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synapsen/Java/Java Bean.md",
+                "file": "Synapsen/Java/Spring Boot/Web MVC/Mapping.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synapsen/Java/Java Bean.md",
+                "file": "Synapsen/Java/Spring Boot/Web MVC/Mapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synapsen/Java/Java Bean.md"
+                "file": "Synapsen/Java/Spring Boot/Web MVC/Mapping.md"
               }
             }
           },
@@ -170,17 +182,17 @@
     "direction": "horizontal",
     "width": 380.5
   },
-  "active": "88913d80874dd4f3",
+  "active": "08e57b6153ec4b88",
   "lastOpenFiles": [
-    "Synapsen/Java/POJO.md",
+    "Synapsen/Java/Spring Boot/Stereotypes.md",
+    "Synapsen/Java/Spring Boot/Spring Bean.md",
     "Synapsen/Java/Java Bean.md",
+    "Synapsen/Java/POJO.md",
     "Kanbanboard.md",
     "Templates/arabischer_text.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ithar - verdeutlichung.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/idghaam - spezielle-idghaam-regeln.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md",
-    "Synapsen/VCS/Git/History Rewrite.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/huruf-mukattah.md"
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md"
   ]
 }
