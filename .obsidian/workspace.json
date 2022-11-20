@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synapsen/VCS/Git/History Rewrite.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ithar - verdeutlichung.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synapsen/VCS/Git/History Rewrite.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ithar - verdeutlichung.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synapsen/VCS/Git/History Rewrite.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ithar - verdeutlichung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synapsen/VCS/Git/History Rewrite.md"
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ithar - verdeutlichung.md"
               }
             }
           },
@@ -161,15 +161,15 @@
   },
   "active": "9de64c3c685d57b4",
   "lastOpenFiles": [
+    "Kanbanboard.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/idghaam - spezielle-idghaam-regeln.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md",
+    "Synapsen/VCS/Git/History Rewrite.md",
     "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/huruf-mukattah.md",
     "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md",
     "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/al-qalqalah.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-al-lin.md",
-    "Kanbanboard.md",
-    "Templates/arabischer_text.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-al-aared-lil-sukun - temporäres-madd.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-kasr.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-silah.md"
+    "Templates/arabischer_text.md"
   ]
 }
