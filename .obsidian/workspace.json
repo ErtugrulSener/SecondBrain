@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a564f72ee1f6e4e2",
+        "id": "37d16176069547b5",
         "type": "tabs",
         "children": [
           {
-            "id": "990aff48aeb64cfd",
+            "id": "c3cf01f7d08a6e3c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Synapsen/VCS/Git/Rebasing.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synapsen/VCS/Git/Rebasing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synapsen/VCS/Git/Rebasing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Synapsen/VCS/Git/Rebasing.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,17 +152,17 @@
     "direction": "horizontal",
     "width": 380.5
   },
-  "active": "990aff48aeb64cfd",
+  "active": "c3cf01f7d08a6e3c",
   "lastOpenFiles": [
-    "Synapsen/VCS/Git/History Rewrite.md",
-    "Synapsen/VCS/Git/Rebasing.md",
     "Kanbanboard.md",
-    "Synapsen/Java/Spring Boot/GraphQL/DGS-Framework/Allgemein.md",
-    "Images/Git/rebase_1.png",
-    "Images/Git/rebase_2.png",
-    "conflict-files-obsidian-git.md",
+    "Synapsen/Java/Spring Boot/Stereotypes.md",
+    "Synapsen/Java/Spring Boot/Web MVC/Mapping.md",
+    "Synapsen/Java/Spring Boot/Spring Bean.md",
+    "Synapsen/Java/Java Bean.md",
+    "Synapsen/Java/POJO.md",
+    "Templates/arabischer_text.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ithar - verdeutlichung.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/übersichtsbild.md"
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/Idghaam - yarmaloon-buchstaben.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/idghaam - spezielle-idghaam-regeln.md"
   ]
 }
