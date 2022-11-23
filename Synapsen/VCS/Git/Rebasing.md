@@ -77,31 +77,5 @@ git rebase master server
 
 sprich "Rebase die Änderungen aus server in master"
 
-# Die Gefahren des Rebasings
-Die Hauptgefahr beim Rebasing ist, das man sich ungewollte Commits in die History holt, wo dann potenziell gefährliche Daten drinstehen, die der Entwickler dort nicht haben wollte. Folgend könnte das passieren:
-
-1) Wir klonen uns das Repository von einem zentralen Server und arbeiten daran. Die Commits C2 und C3 kommen in unserem lokalen Branch dazu.
-
-![[rebase_gefahr_1.png]]
-
-2) Jemand anderes erstellt einen Feature-Branch, macht da einen Commit 
-   C5 und merged diesen mit einem Merge-Commit mit dem Remote-Branch. 
-   
-```ad-note
-In der Git-Doku fehlt hier die Information, dass der master Branch bereits einen weiteren Commit C4 hat und somit ein Fast-Forward-Merge (durch verschieben des HEAD Pointers) nicht möglich ist.
-```
-   
-   Wir holen uns per 'git pull' die Änderungen in unseren lokalen Branch. Der Merge-Commit in unserem lokalen Branch C7 zeigt auf HEAD vom remote master Branch.
-
-![[rebase_gefahr_2.png]]
-
-3) Als nächstes entscheidet sich die Person, den Merge wieder rückgängig zu machen und doch per rebase seine Commits hinzuzufügen. Er führt einen force push aus und überschreibt den Verlauf auf dem Server. Wir holen uns die Änderungen in unseren lokalen Branch.
-
-![[rebase_gefahr_3.png]]
-
-4) Beachte, dass für uns der Merge-Commit C6 und der originale Commit C4 existieren und sich in unserem Branch befinden. Außerdem erhalten wir durch den Merge mit Master nun den Merge Commit C8. Die Changes C4 (originaler Commit auf master Branch) und C6 (Merge Commit) sind immer noch in unserem Verlauf. Wenn wir diesen force pushen haben wir genau den Fall, den wir vermeiden wollen.
-
-![[rebase_gefahr_4.png]]
-
 # Referenzen
 [Git Book](https://git-scm.com/book/de/v2)
