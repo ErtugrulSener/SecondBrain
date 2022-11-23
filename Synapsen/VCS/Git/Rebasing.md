@@ -77,5 +77,8 @@ git rebase master server
 
 sprich "Rebase die Änderungen aus server in master"
 
+# Die Gefahren des Rebasings
+
+
 # Referenzen
 [Git Book](https://git-scm.com/book/de/v2)
