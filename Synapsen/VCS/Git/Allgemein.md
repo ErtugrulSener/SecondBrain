@@ -1,7 +1,7 @@
 ## DAG
 Der "Directed Acyclic Graph" in GIT bezeichnet die Struktur, in der Git die Commits managed.
 
-- directed - Ein Commit zeigt auf den nächsten Commit und hat mindestens einen Parent.
+- directed - Ein Commit zeigt auf den nächsten Commit und hat mindestens einen Parent
 
 ```ad-note
 Ausgenommen von dieser Regel ist der initiale Commit (die Wurzel, die kein Parent hat) und Merge-Commits, die zwei Parents haben (eben aus den beiden Branches, die gemerged wurden).
