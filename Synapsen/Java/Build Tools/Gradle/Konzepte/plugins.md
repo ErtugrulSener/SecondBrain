@@ -71,3 +71,17 @@ plugins {
 
 ## Convention Plugins
 Plugins, die man selbst schreibt und die nur lokal existieren.
+
+# Unterschied zwischen den Plugins für Java
+- java:
+	- Build Konfigurationen für Source Code ([[SourceSets]])
+	- Tasks wie: "compileJava" und "test"
+- java-library
+	- Basis ist unter anderem "java" Plugin
+	- Fügt "api" als dependency Konfiguration hinzu
+- application
+	- Basis ist unter anderem java plugin
+	- Fügt tasks hinzu wie "run" oder "package"
+	- Fügt Build Konfigurationen hinzu um die Mainklasse zu spezifizieren
+
+Wir als Entwickler nutzen Entweder "java-library" oder "application", das "java" Plugin wird automatisch hinzugefügt als "transitive Dependency" von den beiden Plugins.
