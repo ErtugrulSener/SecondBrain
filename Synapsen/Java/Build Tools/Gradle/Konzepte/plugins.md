@@ -51,6 +51,16 @@ plugins {
 }
 ```
 
+Dazu gehören:
+- java
+- java-library
+- java-plattform
+- application
+- groovy
+- scala
+
+und viele mehr, siehe: [Gradle Core Plugins](https://docs.gradle.org/current/userguide/plugin_reference.html)
+
 ## Community Plugins
 Welche überlicherweise im Gradle Plugin Repository hochgeladen werden. Sie werden üblicherweise über ihre Id und eine Version deklariert.
 ```Kotlin

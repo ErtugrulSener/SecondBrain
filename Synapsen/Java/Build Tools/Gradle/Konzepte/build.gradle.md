@@ -1,6 +1,12 @@
 # Warum sollte man es nutzen?
 Die build.gradle Konfigurationen werden jeweils pro Subprojekt erstellt und beinhalten spezifische Informationen für ein Projekt.
 
+# Aufbau einer build.gradle Datei
+- Plugins (Zusätzliche Buildfunktionalitäten)
+- Build Metadaten (Informationen zu meinem Build)
+- Repositories (Wo sind meine Dependencies?)
+- Dependencies (Requirements um meinen Code zu bauen)
+
 # Welche 3 Dinge gehören in die build.gradle?
 - Plugins
 - Extensions (Einstellungen zur Kompilierung z.B: java.toolchain usw.)

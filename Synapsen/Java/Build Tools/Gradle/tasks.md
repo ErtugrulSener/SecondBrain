@@ -1,3 +1,6 @@
+# Der Gradle Task Graph
+Gradle Tasks wie "build" können von anderen Tasks wie "assemble" und "check" abhängen. Dadurch bildet sich ein Dependency Graph und eine Reihe von Tasks, die Gradle abarbeiten muss. Auch genannt: "Gradle Task Graph".
+
 # Welche Tasks bringt Gradle standartmäßig mit und wie sehe ich sie?
 
 Um alle Tasks von Gradle zu sehen hilft folgender Befehl:
