@@ -5,11 +5,11 @@ In Git gibt es grundsätzlich zwei Wege um Änderungen von einem Branch in einen
 
 Um Letzteres kümmern wir uns hier.
 
-![[rebase_1.png]]
+![[rebase-1.png]]
 
 Wenn wir uns ein Beispielfoto ansehen, wie ein Merge funktioniert, dann sehen wir das der Merge-Befehl einfach einen Drei-Wege-Merge zwischen den beiden letzten Zweig Snapshots C3 & C4 macht und dem letzten gemeinsamen Vorfahren der beiden C2. Dazu erstellt er einen neuen Commit C5.
 
-![[rebase_2.png]]
+![[rebase-2.png]]
 
 Eine Alternative dazu ist das Rebasing. Bei diesem wird der Patch der Änderungen in C4 auf die Spitze von C3 angewendet. Damit werden alle Änderungen in Branch A zu Branch B übernommen. Folgend würden die Befehle dann aussehen:
 
@@ -34,7 +34,7 @@ $ git checkout master
 $ git merge experiment
 ```
 
-![[rebase_3.png]]
+![[rebase-3.png]]
 
 # Interessante Anwendungsfälle für ein Rebase
 ## Feature Branches von Feature Branches in main einpflegen
@@ -47,7 +47,7 @@ Wir übertragen hierbei die Commits von feature/Y direkt in main bzw. erstellen 
 
 Die Ausgangslage ist folgende:
 
-![[extended_rebase_1.png]]
+![[extended-rebase-1.png]]
 
 Wir haben einen Feature Branch server erstellt, einen Commit auf diesem gemacht und dann einen weiteren Feature Branch client aus diesem. Nun können wir das oben beschriebene folgendermaßen umsetzen:
 

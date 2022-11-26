@@ -9,3 +9,16 @@ Die Datei wird mit versioniert.
 - Der Wrapper beinhält eine bestimmte Version von Gradle. Falls das nicht mit der Version vom systemweiten gradle zusammenpasst, lädt der Wrapper meine spezifische Version herunter.
 
 - Danach macht Gradle die restlichen magischen Schritte wie meine Dependencies runterzuladen usw. Zusammen sind diese beiden Konzepte ein "Fire and go" Befehl um ein Projekt zu bauen.
+
+# Welche Gradle Wrapper Version nutze ich?
+Dafür einfach unter "gradle/wrapper/gradle-wrapper.properties" nachschauen. Folgend sieht das aus:
+
+![[gradle-wrapper-properties.png]]
+
+# Distributionen
+- bin = binary only
+	- Kleiner in der Größe, gut für Buildmaschinen
+- all = binary + sources
+	- Gut für IDE's
+
+Die Gradle Distributionen werden gespeichert unter: *~/.gradle/wrapper/dists/*

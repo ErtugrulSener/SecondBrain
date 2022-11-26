@@ -10,7 +10,7 @@ Es gibt drei Hauptannotationen im Spring-Framework:
 
 # Architektur
 
-![[Stereotype_annotations.png]]
+![[stereotype-annotations.png]]
 
 Package für alle hier erwähnten Annotationen:
 org.springframework.stereotype
