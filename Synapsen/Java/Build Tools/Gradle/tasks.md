@@ -13,11 +13,18 @@ Unter anderem wird man dort folgende Dinge finden:
 
 ---
 
-## init / wrapper
-Relativ selbst erklärend.
+## init
+Startet ein Prozess um ein neues Gradle Projekt zu erstellen (Ähnlich wie bei start.spring.io)
 
-*Init* - Startet ein Prozess um ein neues Gradle Projekt zu erstellen (Ähnlich wie bei start.spring.io)
-*Wrapper* - Generiert die Gradle Wrapper Dateien
+## wrapper
+Generiert die Gradle Wrapper Dateien
+
+Um die Version zu setzen, kann man entweder die gradle-wrapper.properties unter:
+*./gradle/wrapper/gradle-wrapper.properties* selbst bearbeiten oder folgenden Befehl ausführen:
+
+```Bash
+gradle wrapper --gradle-version 7.5.1 --distribution-type all
+```
 
 ---
 

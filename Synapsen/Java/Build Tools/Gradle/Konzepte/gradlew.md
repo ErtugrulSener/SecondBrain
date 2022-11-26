@@ -1,3 +1,10 @@
+# Totschlagargument für den Gradle Wrapper
+"Was ist, wenn du mehrere Projekte auf dem System hast, die alle mit einer unterschiedlichen Gradle Version gebaut werden müssen, weil sonst ein anderes Build entsteht?"
+- Natürlich könnte man zu jedem Build ein Skript schreiben und vorher den PATH ändern bzw. den Pfad zu Gradle angeben.. bzw. GRADLE_HOME
+- Oder man muss jeden Befehl mit einem expliziten Pfad machen (/usr/bin/gradle6.5/...)
+
+Jetzt muss aber jeder Developer auch sich um diese Struktur auf seinem Rechner kümmern... Pfadkonflikte Hura!
+
 Der Gradle Wrapper (gradlew) wird jeweils als Batch (.bat) und Shell Datei ausgeliefert und heißt "gradlew".
 
 # VCS
