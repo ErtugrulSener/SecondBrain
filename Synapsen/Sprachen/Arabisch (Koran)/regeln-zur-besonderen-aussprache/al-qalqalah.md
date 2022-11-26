@@ -9,3 +9,18 @@
 z.B: das "Ba" wird gesprochen als "Abe", "Ube", "Ibe".
 
 ## Regel Nr. 2) Am Ende eines Wortes betont man dieses zusätzlich gesprochene "e" besonders.
+
+# Erklärung
+- Qalqalah steht für "stören", man lässt die Luft bei den 5 Buchstaben aus dem Mund und dabei kommt dieser "e" Sound zustande, der jedem Buchstaben angehangen ist.
+
+- Die Qalqalah Buchstaben gibt es, weil die 5 Buchstaben, die oben erwähnt wurden, sonst bei der Aussprache leicht verwechselt werden könnten. Man hört keinen Unterschied, wenn man dieses "herrauslassen der Luft" nicht macht.
+
+Zwischen...
+
+"Ab" und "Ad"
+"Äg" und "at"
+
+ist bei der Aussprache kein großer Unterschied zu erkennen.
+
+# Referenzen
+[Video](https://youtu.be/pTc77N87HuU)
