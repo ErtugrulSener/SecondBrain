@@ -1,6 +1,32 @@
 # Der Gradle Task Graph
 Gradle Tasks wie "build" können von anderen Tasks wie "assemble" und "check" abhängen. Dadurch bildet sich ein Dependency Graph und eine Reihe von Tasks, die Gradle abarbeiten muss. Auch genannt: "Gradle Task Graph".
 
+# Aufbau eines Tasks
+Ein Task besteht immer aus:
+
+Hier am Beispiel von "compileJava":
+- Input (z.B: Source Dateien, aber auch Build Konfigurationseinstellungen)
+- Action (z.B: Erzeugen von Class Dateien)
+- Output (z.B: Die Class Dateien, die später von der JVM interpretiert werden)
+
+# Outcome Labels
+Ein Task kann folgende Label tragen:
+- (no label) or EXECUTED (ist das Selbe)
+Der Task wurde erfolgreich ausgeführt.
+
+- FROM-CACHE
+- SKIPPED
+- Task wurde explizit übersprungen über die CLI.
+- Das ```onlyIf``` Prädikat hat false returned.
+
+- NO-SOURCE
+Es wurde kein Input gefunden, skip den Task.
+
+- UP-TO-DATE
+Incremental Build bzw. Caching von Gradle verhindert das doppelte ausführen des Tasks, weil keine Änderungen seit dem letzten Mal gemacht wurden. Der Output wäre der Selbe.
+
+siehe: [Docs](https://docs.gradle.org/current/userguide/more_about_tasks.html#sec:task_outcomes)
+
 # Welche Tasks bringt Gradle standartmäßig mit und wie sehe ich sie?
 
 Um alle Tasks von Gradle zu sehen hilft folgender Befehl:

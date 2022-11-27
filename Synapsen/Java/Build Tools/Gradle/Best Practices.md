@@ -35,3 +35,5 @@ plugins {
 	apply("application")
 }
 ```
+
+9) Für die Entwicklung empfehle ich den Flag "org.gradle.console" auf "verbose" zu setzen in der gradle.properties für mehr Konsolenoutput.
