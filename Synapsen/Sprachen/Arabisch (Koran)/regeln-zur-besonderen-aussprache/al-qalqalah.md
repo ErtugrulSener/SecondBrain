@@ -1,6 +1,7 @@
 # Al Qalqalah
 
 ## Regel Nr. 1) Im Arabischen gibt es 5 Buchstaben, die man Al-Qalqalah nennt. Sie kriegen ein gesprochenes "e" beim Lesen.
+Auch genannt: "Qalwalah Sura" (auf Deutsch: unerhebliche Störung)
 
 ## Diese 5 Buchstaben sind:
 
@@ -9,7 +10,7 @@
 z.B: das "Ba" wird gesprochen als "Abe", "Ube", "Ibe".
 
 ## Regel Nr. 2) Am Ende eines Wortes betont man dieses zusätzlich gesprochene "e" besonders.
-
+Auch genannt: "Qalqalah Kubra" (auf Deutsch: Wesentliche Störung)
 # Erklärung
 - Qalqalah steht für "stören", man lässt die Luft bei den 5 Buchstaben aus dem Mund und dabei kommt dieser "e" Sound zustande, der jedem Buchstaben angehangen ist.
 
