@@ -1,5 +1,11 @@
 # Al Qalqalah
 
+## Achtung
+Wenn zwei gleiche Buchstaben aufeinander treffen, dann wenden wir kein Qalqalah an! z.B: Dal in einem Wort auf Dal in einem Anderen.
+
+<span style="font-size: 22pt">وَقَد دَّخَلُو</span>
+gesprochen "Vagaddachaluu"
+
 ## Regel Nr. 1) Im Arabischen gibt es 5 Buchstaben, die man Al-Qalqalah nennt. Sie kriegen ein gesprochenes "e" beim Lesen.
 Auch genannt: "Qalwalah Sura" (auf Deutsch: unerhebliche Störung)
 
