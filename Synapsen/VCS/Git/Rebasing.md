@@ -1,4 +1,3 @@
-# Rebasing
 In Git gibt es grundsätzlich zwei Wege um Änderungen von einem Branch in einen Anderen zu integrieren, diese sind:
 - merge
 - rebase
