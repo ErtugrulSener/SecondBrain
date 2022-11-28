@@ -16,7 +16,7 @@ publishing {
 
 	repositories {
 		maven {
-			url = uri(layour.buildDirectory.dir("repo"))
+			url = uri(layout.buildDirectory.dir("repo"))
 		}
 	}
 }
