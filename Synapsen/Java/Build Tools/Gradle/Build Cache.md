@@ -30,7 +30,7 @@ Zusätzlich zum Local Cache gibt es nun noch einen Remote Cache. Wir schauen ers
 Große Firmen wie Microsoft und Google nutzen diese Technologie bereits für sich.
 Sie ist ein Local Cache, der Remote gespeichert und verteilt wird.
 
-# Sollten wir den Build Cache immer nutzen?
+# Sollten wir den Remote Build Cache immer nutzen?
 Nein, vor allem wenn das Herunterladen des Build Cache vom Remote länger dauert, als die Action gebraucht hätte. Beispiel:
 
 Meine Tests laufen in 3 Sekunden, den Build Cache für den test Task herunterzuladen braucht durch ein langsames Netz aber 12 Sekunden. Damit verlangsamt der Build Cache sogar das Development.
@@ -128,3 +128,70 @@ buildCache {
 
 ### Docker-Image für den Remote Cache Node
 [Link](https://hub.docker.com/r/gradle/build-cache-node/)
+
+# Caching Optionen in Tasks
+Das Caching ist für alle Built In Tasks aus [[Built-In Tasks]] bereits aktiv.
+
+## Caching Support für Custom Tasks aktivieren
+```Kotlin
+tasks.named("zipTestResult") {
+	outputs.cacheIf { true }
+	inputs.files(tasks.test)
+}
+```
+
+## Inputs und Outputs spezifizieren
+```Kotlin
+tasks.register<Exec>("helloFile") {
+	workingDir = layout.buildDirectory.asFile.get()
+	commandLine("bash", "-c", "person=`cat ../name.txt`; echo \"hello \$person\" > hello.txt")
+
+	outputs.cacheIf { true }
+
+	inputs.file(layout.projectDirectory.file("name.txt"))
+	.withPropertyName("helloInput")
+	.withPathSensitivity(PathSensitivity.RELATIVE)
+
+	outputs.file(layout.buildDirectory.file("hello.txt"))
+	.withPropertyName("helloOutput")
+}
+```
+
+## Input Properties spezifizieren um Caching zu beeinflussen
+```Kotlin
+tasks.register<Generate>("generate") {
+	inputs.property("hostName", InetAddress.getLocalHost().hostName)
+	inputs.property("hostAddress", InetAddress.getLocalHost().hostAddress)
+}
+```
+
+# Cache Misses
+## Nichtdeterministischer Input in Dependency vom Subprojekt
+Nichtdeterministischer Input lässt sich nicht so gut cachen, für das Caching kann man die Datei ignorieren.
+
+```Kotlin
+normalization {
+	runtimeClasspath {
+		metaInf {
+			ignoreAttribute("Implementation-Timestamp")
+		}
+	}
+}
+```
+
+# Troubleshooting Cache Misses
+● Task not caching properly?
+	○ Check cache key differences
+	○ Build scan or Gradle Enterprise insights
+● Possible issues:
+	○ Absolute paths instead of relative
+	○ Inputs contain timestamps
+	○ Collection input has non-deterministic ordering
+	○ Overlapping outputs
+	○ External inputs, eg. system properties
+	○ File encoding
+	○ Line endings
+	○ Symlinks
+	○ Java version
+		■ Default behavior only tracks major version
+		■ Recommend using toolchains
