@@ -43,7 +43,7 @@ Gradle hat über die Zeit immer mehr Cache Methoden eingefügt, genau in der Rei
 2) Sollte beim nächsten Mal der Hash des neuen Inputs genau dieser aus 1) sein, dann findet ein Cache Hit statt.
 3) Man erhält für diesen Task das Output Label "UP-TO-DATE". Siehe auch [[Synapsen/Java/Build Tools/Gradle/Tasks/Allgemein#Outcome Labels|Outcome Labels]]
 
-Die Limitierungen dieser Phase der Builds ist klar:
+Die Limitierungen dieser Phase der Builds sind klar:
 - Clean Build
 - Branches wechseln
 
@@ -52,9 +52,10 @@ Wir speichern ein Mapping von Inputs zu Outputs, wie beim inkementellen Build. D
 
 Gradle schaut zunächst in den Build Ordner und sieht, ob er den Output bereits im vorherigen Build hatte. Der Local Cache Support kommt also "on top" auf dem inkrementellen Build aus Phase 1.
 
-Nun zeige ich einige Wege, wie man den Local Build Cache aktiviert:
+### Local Cache aktivieren
+Nun zeige ich einige Wege, wie man den Local Build Cache aktiviert.
 
-### CLI
+### über CLI
 ```Bash
 ./gradlew.bat --build-cache
 
@@ -62,7 +63,7 @@ Nun zeige ich einige Wege, wie man den Local Build Cache aktiviert:
 ./gradlew.bat -i
 ```
 
-### gradle.properties
+### über gradle.properties
 ```properties
 org.gradle.caching=true
 
@@ -70,13 +71,60 @@ org.gradle.caching=true
 org.gradle.caching.debug=true
 ```
 
+### Ungenutzte Cache Entries löschen
+settings.gradle
+```Groovy
+buildCache {  
+    local {  
+        removeUnusedEntriesAfterDays = 30  
+    }  
+}
+```
+
 Wo befindet sich nun dieser Local Cache?
 (default) Unter: *~/.gradle/caches/build-cache-1*
 
-Die Limitierungen dieser Phase der Builds ist klar:
+Die Limitierungen dieser Phase der Builds sind klar:
 - Kann nur auf Output von lokalen Builds referenzieren
 - First Build
 - Sich often veränderndes großes Projekt (Wo man oft pullt)
 - Man kommt vom Urlaub zurück
 
 ## Phase 3: Remote Cache
+Der letzte Ort an dem die Cache Entries gesucht werden, ist der Remote Cache. Folgende kann man ihn aktivieren:
+
+```Kotlin
+buildCache {  
+    local {  
+        removeUnusedEntriesAfterDays = 30  
+    }  
+    remote<HttpBuildCache> {
+	    url = uri("https://enterprise-training.gradle.com/cache/")
+	    credentials {
+		    username = System.getenv("CACHE_USERNAME")
+		    password = System.getenv("CACHE_USERNAME")
+	    }
+	    isPush = true
+    }
+}
+```
+
+### Sharing Strategie
+Man könnte die Developer als "Consumer" betrachten, nur die CI Maschine pusht den Cache.
+
+```Kotlin
+val isCiServer = System.getenv().containsKey("CI")
+
+buildCache {
+	local {
+	...
+	}
+	remote<HttpBuildCache> {
+		...
+		isPush = isCiServer
+	}
+}
+```
+
+### Docker-Image für den Remote Cache Node
+[Link](https://hub.docker.com/r/gradle/build-cache-node/)
