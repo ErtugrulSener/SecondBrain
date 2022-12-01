@@ -2,7 +2,7 @@ Diese Buchstaben heißen so, weil man den gesamten Mundraum mit ihnen füllt bei
 
 <span style="font-size: 22pt">خ ص ض غ ط ظ ق </span>
 
-## Regel Nr. 1) Es gibt verschiedene Stufen dieser Buchstaben, die höchste Stufe ist wenn einer dieser Buchstaben ein Fatha hat oder auf ihn ein Elif folgt.
+## Regel Nr. 1) Es gibt verschiedene Stufen dieser Buchstaben, die höchste Stufe ist wenn einer dieser Buchstaben ein Fatha hat oder auf ihn ein Alif folgt.
 
 <span style="font-size: 22pt">خَا </span>
 gesprochen "Chaa"

@@ -13,7 +13,7 @@ wird beides gesprochen als "Hamim" statt "Hamimu" / "Hamimi".
 wird beides gesprochen als "Hamim" statt "Hamimun" / "Hamimin".
 
 
-## Regel Nr. 2) Wenn der letzte Buchastabe ein Fathatain trägt, dann liest man den Buchstaben als Alif-Madd. (Buchstabe mit Fatha + 1 Elif danach)
+## Regel Nr. 2) Wenn der letzte Buchastabe ein Fathatain trägt, dann liest man den Buchstaben als Alif-Madd. (Buchstabe mit Fatha + 1 Alif danach)
 
 <span style="font-size: 22pt">حَمِيمً</span>
 

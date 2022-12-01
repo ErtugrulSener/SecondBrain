@@ -7,7 +7,7 @@ Lange Wörter im arabischen sind problematisch, weil:
 Um ein langes Wort zu lesen, liest man alle Teile des Wortes bis zum Sukun. Man trennt also das Wort an diesen Stellen in Teilworte auf. Ein Sukun kann vorkommen als:
 1) Ein Buchstabe mit dem Sukunzeichen oder gar keinem Tashkeel.
 2) Eine Schaddah
-3) Ein Elif, Vaw oder Ya ohne Tashkeel
+3) Ein Alif, Vaw oder Ya ohne Tashkeel
 
 Siehe dazu folgende Grafik zum Wort "fasayakfiikahum":
 
