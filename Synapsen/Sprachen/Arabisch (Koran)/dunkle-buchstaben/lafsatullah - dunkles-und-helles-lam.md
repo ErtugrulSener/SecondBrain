@@ -10,6 +10,11 @@
 | <span style="font-size: 22pt">وُاُللَّهِ</span> | vullahi | Der Buchstabe vor dem Lam (das waw) trägt eine Dammah (Regel 1). Das lam wird dunkel ausgesprochen. |
 | <span style="font-size: 22pt">وِاُللَّهِ</span> | villähi | Der Buchstabe vor dem Lam (das waw) trägt eine Kesra (Regel 2). Das lam wird dunkel ausgesprochen. |
 
+## Regel Nr. 3) Wenn vor dem Lam ein Tanwin kommt, dann wird es auch hell ausgesprochen.
 
+<span style="font-size: 22pt">مًا اللَّهُ</span>
+gesprochen "manillähum"
+
+Diese Regel gibt es, durch die Anwendung der Regel [[nun-quitni]], wobei das Nun eine Kasra bekommt, wenn der nächste Buchstabe ein Sukun hat.
 
 ## Faustregel: "Ist das Zeichen oben, dann ist das Lam dunkel. Ist es unten, ist das Lam hell."
