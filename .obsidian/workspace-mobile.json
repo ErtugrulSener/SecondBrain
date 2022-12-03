@@ -11,8 +11,10 @@
             "id": "eb16f2ec3fcea492",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "Kanbanboard.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Kanbanboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Kanbanboard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +111,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Kanbanboard.md"
+          }
         }
       },
       {
@@ -123,6 +129,7 @@
   },
   "active": "eb16f2ec3fcea492",
   "lastOpenFiles": [
+    "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/regeln-zum-anhalten.md",
     "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md",
     "Kanbanboard.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md",
@@ -131,7 +138,6 @@
     "Templates/ab.md",
     "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
     "Synapsen/Sprachen/Arabisch/regeln-zur-besonderen-aussprache/al-qalqalah.md",
-    "Sprachen/Arabisch/madd-buchstaben/madd-lazim.md",
-    "Sprachen/Arabisch/madd-buchstaben/arten-des-madd.md"
+    "Sprachen/Arabisch/madd-buchstaben/madd-lazim.md"
   ]
 }
