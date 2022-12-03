@@ -81,5 +81,13 @@
       ],
       "key": "L"
     }
+  ],
+  "open-with-default-app:show": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
   ]
 }
