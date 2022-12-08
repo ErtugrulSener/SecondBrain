@@ -15,7 +15,7 @@ kanban-plugin: basic
 
 ## In Arbeit (2)
 
-- [ ] ##### PRIVAT | Koran bis zum Ende lesen<br><br>Fortschritt:<br>-  Koran Seite: 167<br><br>Motivation:<br>1. Anwenden der Tajweed Regeln fällt leichter<br>2. Bessere Lesegeschwindigkeit
+- [ ] ##### PRIVAT | Koran bis zum Ende lesen<br><br>Fortschritt:<br>-  Koran Seite: 169<br><br>Motivation:<br>1. Anwenden der Tajweed Regeln fällt leichter<br>2. Bessere Lesegeschwindigkeit
 
 
 ## Abgeschlossen
