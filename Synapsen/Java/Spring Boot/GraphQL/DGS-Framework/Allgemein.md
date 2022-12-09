@@ -3,7 +3,7 @@
 - Es war zunächst ein intern genutztes Framework von Netflix
 - Released wurde es in 2020
 
-# Vorteile DGS-Framework <-> GraphQL Java
+# Vorteile DGS-Framework \<-\> GraphQL Java
 1) Das DGS Framework ist einfacher in der Handhabung und für neuere Developer leichter zu verstehen (GraphQL-Java ist eher low level).
 3) Netflix nutzt das DGS-Framework intern (mit Ausnahme von etwa 3 Securitymodulen, die nicht open sourced wurden) selbst, das macht es vertrauenswürdiger.
 4) Das Framework ist super dokumentiert.

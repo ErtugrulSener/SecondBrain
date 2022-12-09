@@ -168,7 +168,7 @@ Für mehr Informationen, siehe: [Git Rebase - Docs](https://git-scm.com/docs/git
 ## 4. Einen beliebigen Commit ändern
 Beispiel aus: [StackOverflow](https://stackoverflow.com/questions/3042437/how-to-change-the-commit-author-for-a-single-commit)
 
-Use Case: Manchmal funktioniert ein "git rebase -i <commit_id>" nicht, das hat vor allem mit der Git History zutun. Auch ein "git commit --amend .." ist hier nicht hilfreich, da der Commit nicht der letzte in der History ist.
+Use Case: Manchmal funktioniert ein "git rebase -i \<commit_id\>" nicht, das hat vor allem mit der Git History zutun. Auch ein "git commit --amend .." ist hier nicht hilfreich, da der Commit nicht der letzte in der History ist.
 
 Commits und Erklärungen:
 
