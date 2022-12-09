@@ -6,8 +6,8 @@ Der *Commiter* ist Derjenige, der den Commit auf den Remote Branch pusht. Ermitt
 
 So könnte folgende Konstallation entstehen für ein Beispiel-Commit:
 
-- Commiter: Ertugrul Sener <ertugrul.sener@telekom.de>
-- Autor: Arno Rogowsky <arno.rogowsky@t-systems.com>
+- Commiter: Ertugrul Sener \<ertugrul.sener@telekom.de\>
+- Autor: Arno Rogowsky \<arno.rogowsky@t-systems.com\>
 
 Gitlab zeigt dann folgende Nachricht in der Ansicht:
 
