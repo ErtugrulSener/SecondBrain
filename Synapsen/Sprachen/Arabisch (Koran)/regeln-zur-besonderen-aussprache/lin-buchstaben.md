@@ -4,7 +4,7 @@
 Konkretes Beispiel mit dem Buchstaben بَ:
 
 
-بَى  <= و + بَ =\> Baw 
-بَو <= ى + بَ =\> Bay
+بَى  <\= و + بَ =\> Baw 
+بَو <\= ى + بَ =\> Bay
 
 

@@ -17,8 +17,6 @@
 | <span style="font-size: 22pt">ص</span>     | Saad     | Pause ist erlaubt, wenn der Atem nicht ausreicht                                                                                                                                                          |
 | <span style="font-size: 22pt">.: .:</span> | Muaneka  | Entweder beim ersten Zeichen oder beim zweiten Pause machen. Aber nicht bei beiden                                                                                                                        |
 
-^821941
-
 Das heißt nochmal einfacher ergibt sich folgende Tabelle:
 
 | Zeichen | Pause? |
