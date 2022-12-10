@@ -33,4 +33,4 @@
 - Wenn diese erfolgreich ist, dann verschieben wir den Software Status zu "Beta Testing"
 
 ## Ergebnis
-- Test Plan wird vorbereitet
+- Test Plan wird erstellt

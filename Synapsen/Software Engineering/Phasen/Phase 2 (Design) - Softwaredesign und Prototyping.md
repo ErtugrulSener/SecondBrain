@@ -1,4 +1,5 @@
 ## Gesichtspunkte
+- Das *"Wie"*
 - Client Ziele sind gelistet
 - Keine (bzw. weniger) Uneinstimmigkeiten zwischen Developern
 - Klarheit in dem Ziel (Design), Disskusionen sind aber immer noch möglich

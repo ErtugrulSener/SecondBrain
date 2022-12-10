@@ -1,4 +1,5 @@
 ## Gesichtspunkte
+- Das *"Warum"*
 - Bedarf für das Projekt wird diskutiert
 	- Starten wir von 0?
 - Kosten und Zeit einschätzen und definieren
