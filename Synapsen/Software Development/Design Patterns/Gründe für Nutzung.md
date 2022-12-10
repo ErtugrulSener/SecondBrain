@@ -1,4 +1,4 @@
-- Effizienz / Produktivität
+- Produktivität
 	- Getestete Lösung für Probleme
 	- Man kommt schneller zum Ziel
 - Einheitliche Sprache
