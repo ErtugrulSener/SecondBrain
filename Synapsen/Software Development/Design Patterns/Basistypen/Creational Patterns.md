@@ -1,3 +1,5 @@
+![[Die 3 Basistypen#Creational Patterns Creational]]
+
 ## Singleton
 Das Singleton ist eines der beliebtesten und meistgenutztesten Design Patterns in Programmen heutzutage.
 

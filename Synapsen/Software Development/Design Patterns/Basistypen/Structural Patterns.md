@@ -1,3 +1,5 @@
+![[Die 3 Basistypen#Structural Patterns Structural]]
+
 ## Facade
 ![[facade-pattern.png]]
 
