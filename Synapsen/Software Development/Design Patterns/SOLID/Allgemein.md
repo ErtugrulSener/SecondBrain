@@ -14,3 +14,11 @@ Eine Klasse sollte nie gezwungen sein, ein Interface zu implementieren das nicht
 
 # D - [[Dependency Inversion Principle]]
 High-Level-Modules sollten nicht abhängig von Low-Level-Modules sein.
+
+# Bedeutung dieser Prinzipien
+Was bringen uns diese Prinzipien nun auf High-Level Sicht?
+
+1) Erweiterbar - Es ist einfacher Änderungen vorzunehmen oder Neues hinzuzufügen.
+2) Refactoring - Code kann resukturiert werden, ohne die Funkionalität zu ändern.
+3) Debugging - Man findet Fehler schneller.
+4) Lesbarkeit - Die Logik des Codes ist leichter zu verstehen, vor allem fürs Onboarding.

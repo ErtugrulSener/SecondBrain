@@ -41,7 +41,7 @@ Gradle hat über die Zeit immer mehr Cache Methoden eingefügt, genau in der Rei
 ## Phase 1: Inkrementelle Builds
 1) Gradle cacht den Output von Tasks nach der Action sowie den dazugehörigen Input als Hash. Man mappt Hash -> Output.
 2) Sollte beim nächsten Mal der Hash des neuen Inputs genau dieser aus 1) sein, dann findet ein Cache Hit statt.
-3) Man erhält für diesen Task das Output Label "UP-TO-DATE". Siehe auch [[Synapsen/Java/Build Tools/Gradle/Tasks/Allgemein#Outcome Labels|Outcome Labels]]
+3) Man erhält für diesen Task das Output Label "UP-TO-DATE". Siehe auch [[Synapsen/Programmiersprachen/Java/Build Tools/Gradle/Tasks/Allgemein#Outcome Labels|Outcome Labels]]
 
 Die Limitierungen dieser Phase der Builds sind klar:
 - Clean Build
