@@ -1,4 +1,4 @@
-![[Synapsen/Software Design/SOLID/Allgemein#S - Single Responsiblity Principle]]
+![[Synapsen/Software Design/Prinzipien/SOLID/Allgemein#S - Single Responsiblity Principle]]
 
 Beim Befolgen dieses Prinzips entstehen sehr viele Klassen, mit ihrem eigenen Zweck. Das hat aber einige Vorteile:
 

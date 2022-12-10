@@ -1,4 +1,4 @@
-![[Synapsen/Software Design/SOLID/Allgemein#O - Open Closed Principle]]
+![[Synapsen/Software Design/Prinzipien/SOLID/Allgemein#O - Open Closed Principle]]
 
 Beim Befolgen dieses Prinzips ergeben sich folgende Vorteile:
 
