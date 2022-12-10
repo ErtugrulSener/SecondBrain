@@ -1,4 +1,4 @@
-![[Synapsen/Software Development/Design Patterns/SOLID/Allgemein#D - Dependency Inversion Principle]]
+![[Synapsen/Software Design/SOLID/Allgemein#D - Dependency Inversion Principle]]
 
 Beim Befolgen dieses Prinzips ergeben sich folgende Vorteile:
 

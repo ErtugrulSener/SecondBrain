@@ -1,4 +1,4 @@
-![[Synapsen/Software Development/Design Patterns/SOLID/Allgemein#I - Interface Seggregation Principle]]
+![[Synapsen/Software Design/SOLID/Allgemein#I - Interface Seggregation Principle]]
 
 Dieses Prinzip hat viele Ähnlichkeiten zum [[Single Responsiblity Principle]], nur das es sich auf Interfaces fokussiert.
 
