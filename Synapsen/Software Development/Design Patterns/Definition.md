@@ -1,0 +1,1 @@
+> A software design pattern is a blueprint or general solution for solving a programming problem. Patterns offer a tried and tested method to solve programming problems.
