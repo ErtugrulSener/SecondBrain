@@ -14,7 +14,7 @@ Nicht-Funktionale Anforderungen:
 ## Standards wie z.B: IEEE, ISO oder GDPR
 Beim Designen von Software sollte spezifiziert sein, welche Standards die Software zu erfüllen hat.
 
-## Design Strategie wie z.B: Wasserfall vs. Agil
+## Design Strategie wie z.B: Waterfall vs. Agile
 Die Design Phase sollte die Design Strategie festlegen.
 
 ## Dokumentation

@@ -1,8 +1,8 @@
-Das Wasserfall-Modell ist quasi der Großvater aller SDLC-Modelle bzw. Methodologien. Es war der Erste Ansatz Software Development in Phasen zu gliedern und sequenziell eine Software zu implementieren.
+Das Waterfall-Modell ist quasi der Großvater aller SDLC-Modelle bzw. Methodologien. Es war der Erste Ansatz Software Development in Phasen zu gliedern und sequenziell eine Software zu implementieren.
 
 Man geht von einer Development Phase in die Nächste, die vorherige Phase muss dafür abgeschlossen sein.
 
-![[wasserfall-modell.png]]
+![[waterfall-model.png]]
 
 *Merkmale:*
 - Linear und sequenziell

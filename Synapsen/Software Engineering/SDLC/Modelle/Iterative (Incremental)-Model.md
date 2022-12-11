@@ -1,6 +1,6 @@
 auch *incremental* genannt. Man entwickelt Software durch repetitive Zyklen. Developer können in die nächste Phase die 'Lessons Learned' einbeziehen.
 
-![[incremental-modell.png]]
+![[incremental-model.png]]
 
 *Merkmale:*
 - Kleine bis mittelgroße Projekte
@@ -16,7 +16,7 @@ z.B: Beim Nutzen von Technologien die man nicht so gut kennt, eignet sich das Mo
 
 *Vorteile*
 - Der erste Auslieferungsgegenstand wird schnell produziert
-- Endnutzer können schneller Feedback geben als beim [[Wasserfall]]-Model
+- Endnutzer können schneller Feedback geben als beim [[Waterfall-Model]]-Model
 - Kosten können gespart werden
 - Kunden sehen den Fortschritt und sind zufriedener
 
