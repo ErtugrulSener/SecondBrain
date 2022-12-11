@@ -3,7 +3,7 @@
 - Bedarf für das Projekt wird diskutiert
 	- Starten wir von 0?
 - Kosten und Zeit einschätzen und definieren
-- Anforderungen spezifizieren
+- Anforderungen des Klienten spezifizieren
 	- Brauchen wir eine Datenbank?
 	- Brauchen wir Daten von einem anderen Projekt?
 	- Benötigen wir ein Frontend?
@@ -11,7 +11,7 @@
 ## Vorteile
 - Produktkomplexität bleibt im Fokus und wird monitored
 - Produktivität durch Priorisierung und klare Anforderungen
-- Risiken vermeiden
+- Risiken vermeiden (z.B: durch unbekannte Anforderungen)
 
 ## Ergebnis
 - Scope document
