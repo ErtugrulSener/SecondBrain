@@ -1,3 +1,5 @@
+#@ Was sind Creational Design Patterns?
+
 ![[Die 3 Basistypen#Creational Patterns Creational]]
 
 ## Singleton
@@ -7,7 +9,7 @@ Merkmale:
 - Single Instance
 	- Es gibt nur eine Instanz des Objektes
 - Global Access
-	- Das Objekt kann vom gesamten Programm referenziert werden (über statische public Methoden0)
+	- Das Objekt kann vom gesamten Programm referenziert werden (über statische public Methoden)
 - Lazy Loading
 	- Objekte werden erst instanziiert, wenn sie gebraucht werden
 
@@ -21,8 +23,13 @@ Merkmale:
 - Genau eine "clone" Methode
 - Private Felder können im Klonprozess mitkopiert werden
 
-## Factory
+## Factory Method
+#@ Erklären sie das Factory Method Pattern
+
+#@ Geben sie ein Code Beispiel dafür
+
 Merkmale:
-- Interface um Objekte zu erstellen
 - Logik zum Erstellen der Objekte wird versteckt
 - Aufruf einer speziellen Factory-Methode
+
+#@ Welche 2 weiteren Patterns fehlen hier?
