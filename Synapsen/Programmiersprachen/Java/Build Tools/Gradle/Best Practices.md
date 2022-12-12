@@ -28,12 +28,14 @@ plugins {
 	id "application"
 	id('application')
 	id("application")
-	
-	apply 'application'
-	apply "application"
-	apply('application')
-	apply("application")
 }
+
+// (Deprecated) Alte Variante build dependencies + apply
+// ...
+apply 'application'
+apply "application"
+apply('application')
+apply("application")
 ```
 
 9) Für die Entwicklung empfehle ich den Flag "org.gradle.console" auf "verbose" zu setzen in der gradle.properties für mehr Konsolenoutput.
