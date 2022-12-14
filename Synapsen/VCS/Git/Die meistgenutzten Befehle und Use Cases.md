@@ -35,12 +35,12 @@ git branch -a
 
 ## Branch wechseln
 ```shell
-git checkout <branch_name>
+git switch <existing_branch>
 ```
 
-## Aktuellen Branch zu neuem Branch kopieren
+## Neuen branch erstellen und zu ihm wechseln
 ```shell
-git checkout -b <new_branch_name>
+git switch -c <non_existing_branch>
 ```
 
 # Die meistgenutzten Befehle
