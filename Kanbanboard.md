@@ -15,7 +15,7 @@ kanban-plugin: basic
 
 ## In Arbeit (2)
 
-- [ ] ##### PRIVAT | Koran bis zum Ende lesen<br><br>Fortschritt:<br>-  Koran Seite: 208<br><br>Ziele:<br>- [ ] Anwenden der Tajweed Regeln fällt leichter<br>- [x] Bessere Lesegeschwindigkeit erreichen
+- [ ] ##### PRIVAT | Koran bis zum Ende lesen<br><br>Fortschritt:<br>-  Koran Seite: 212<br><br>Ziele:<br>- [x] Anwenden der Tajweed Regeln fällt leichter<br>- [x] Bessere Lesegeschwindigkeit erreichen<br>- [ ] Koran ein Mal gelesen haben (eine der fünf Säulen)
 
 
 ## Abgeschlossen
