@@ -1,0 +1,1 @@
+Ein wichtiger Fakt zu den Tajweed-Regeln ist, dass sie die Bedeutung des Satzes nicht ändern. Man sollte sie natürlich dennoch ausführen können, es ist kein Ziel jedes Muslims jede Regel auch benennen und erklären zu können.
