@@ -14,6 +14,8 @@ Siehe folgendes Bild:
 
 ![[arten-des-tanwin.png]]
 
+## Die korrekte Aussprache wenn es um kurze und lange Vokale geht, ist unglaublich wichtig. Es ändert die Bedeutung des gelesenen Wortes / Satzes.
+
 # Referenzen
 [Video](https://youtu.be/IOXzx2H5cT8)
 
