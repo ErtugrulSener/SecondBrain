@@ -1,0 +1,1 @@
+SPQR steht für "GraphQL Schema Publisher & Query Resolver" und wird ausgesprochen "Speaker".

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md",
+                "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md",
+            "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md",
+            "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md"
+            "file": "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md"
           }
         }
       },
@@ -131,6 +131,7 @@
   },
   "active": "eb16f2ec3fcea492",
   "lastOpenFiles": [
+    "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ithar - verdeutlichung.md",
     "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/regeln-zum-anhalten.md",
     "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md",
@@ -139,7 +140,6 @@
     "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
     "Templates/arabischer_text.md",
     "Templates/ab.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
-    "Synapsen/Sprachen/Arabisch/regeln-zur-besonderen-aussprache/al-qalqalah.md"
+    "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md"
   ]
 }
