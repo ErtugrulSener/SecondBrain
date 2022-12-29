@@ -59,3 +59,30 @@ public class PrayerTimesAPI {
 		fileWriter.close();
 	}
 ```
+
+## Resolver für einen bestimmten Kontext schreiben
+```Java
+public class ProjectService {
+	@GraphQLQuery
+	public List<Project> projects(LocalDate startedAfter) {
+		return db.query(...);
+	}
+
+	@GraphQLQuery
+	public Long currentFunding(@GraphQLKontext Project project) {
+		return kickStartetClient.makeWebCall(project.getCode());
+	}
+}
+```
+
+In diesem Codeschnipsel wird ein Resolver für das Feld "currentFunding" (wird aus dem Funktionsnamen ermittelt) im Kontext "Project" erstellt. Damit macht GraphQL mehrere Requests, die alle parallel ablaufen. Bei einem Aufruf wie:
+
+```GraphQL
+query {
+	projects(startedAfter: "...") {
+		id
+		name
+		currentFunding
+	}
+}
+```
