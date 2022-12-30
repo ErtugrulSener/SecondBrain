@@ -1,0 +1,8 @@
+- Langsame Datenbank Queries
+- Ineffizienter Code
+- Zu viele Datenbank Queries
+- Concurrency Probleme
+- Memory Leaks
+- Konfigurationsfehler (Requestlimitierung z.B)
+- Langsame Datenbanken
+- GC Pausen
