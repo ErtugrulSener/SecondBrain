@@ -24,6 +24,9 @@ kann beim GraphQL Request nicht aufgelöst werden und erzeugt folgende Fehlermel
 Exception while fetching data (/findPrayerTimesForCity/place/city) : class io.leangen.graphql.metadata.execution.MethodInvoker cannot access a member of class com.ertu.prayertimes.dtos.PlaceDTO with modifiers \"public\"
 ```
 
+## Statische Felder werden nicht ignoriert
+Aktuell werden statische Felder beim Serialisieren der Java Objekte durch das Framework mit beachtet, es gibt aber schon einen Pull Request dazu (zum Ignorieren von statischen Feldern).
+
 ## Spring Boot Version 2
 Das Framework ist aktuell mit der Spring Boot Version 2 erstellt und damit kompatibel. Obwohl bei meinen Tests auch unter Spring Boot 3 das Ganze funktionierte, kann man es nicht guten Gewissens in Produktion empfehlen.
 
