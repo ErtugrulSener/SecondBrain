@@ -24,10 +24,11 @@ Auch genannt: "Qalqalah Kubra" (auf Deutsch: Wesentliche Störung)
 
 Zwischen...
 
-"Ab" und "Ad"
-"Äg" und "at"
+"Ad" und "At"
+"Äg" und "ab"
 
 ist bei der Aussprache kein großer Unterschied zu erkennen.
 
 # Referenzen
 [Video](https://youtu.be/pTc77N87HuU)
+[Video_2](https://www.youtube.com/watch?v=l9QKad5bnc0)
