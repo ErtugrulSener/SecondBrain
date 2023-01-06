@@ -11,11 +11,9 @@
             "id": "eb16f2ec3fcea492",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Synapsen/Secrets/Common Software Links.md",
-                "mode": "source",
-                "source": true
+                "file": "Kanbanboard.md"
               }
             }
           }
@@ -85,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Synapsen/Secrets/Common Software Links.md",
+            "file": "Kanbanboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Synapsen/Secrets/Common Software Links.md",
+            "file": "Kanbanboard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Synapsen/Secrets/Common Software Links.md"
+            "file": "Kanbanboard.md"
           }
         }
       },
@@ -129,8 +127,9 @@
     ],
     "currentTab": 0
   },
-  "active": "eb16f2ec3fcea492",
+  "active": "9b273cc9209fac13",
   "lastOpenFiles": [
+    "Synapsen/Secrets/Common Software Links.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ithar - verdeutlichung.md",
     "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/regeln-zum-anhalten.md",
@@ -139,7 +138,6 @@
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md",
     "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
     "Templates/arabischer_text.md",
-    "Templates/ab.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md"
+    "Templates/ab.md"
   ]
 }
