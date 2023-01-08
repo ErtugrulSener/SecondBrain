@@ -1,7 +1,9 @@
 Ein wichtiger Fakt zu den Tajweed-Regeln ist, dass sie die Bedeutung des Satzes nicht ändern. Man sollte sie natürlich dennoch ausführen können, es ist kein Ziel jedes Muslims jede Regel auch benennen und erklären zu können.
 
 ## Konsistenz
-Man muss sich bei der Auswahl von Regeln, z.B: beim optionalen ([[madd-munfasil]]) darauf einigen ob man es für 2 oder 4 Harakat liest und sich für die Dauer der Rezitation festlegen, man sollte nicht zwischen ihnen willkürlich Wechseln.
+Man muss sich bei der Auswahl von Regeln, z.B: beim optionalen ([[madd-munfasil]]) darauf einigen:
+
+- Ob man es für 2 oder 4 Harakat liest und sich für die Dauer der Rezitation festlegen, man sollte nicht willkürlich wechseln.
 
 Das Selbe gillt für das [[madd-al-lin]] und [[madd-al-aared-lil-sukun - temporäres-madd]].
 
