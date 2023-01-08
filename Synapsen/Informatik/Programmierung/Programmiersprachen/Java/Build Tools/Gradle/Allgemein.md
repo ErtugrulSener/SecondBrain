@@ -21,5 +21,5 @@ Das bedeutet:
 # Konzepte
 - [[build.gradle]] - Die Gradle Build Skript Datei, equivalent der pom.xml von Maven
 - [[settings.gradle]] - Die Gradle Settings Datei, diese gibt es nur 1x auf Top-Level Ebene eines Projektes, in ihr steht z.B: der Projektnname oder Repositories für das Repository Management. Alle Subprojekte übernehmen diese Einstellungen.
-- [[Synapsen/Informatik/Programmiersprachen/Java/Build Tools/Gradle/Tasks/Allgemein]] - Definiert eine Unit, kann von der Kommandozeile aufgerufen werden über den Namen
+- [[Synapsen/Informatik/Programmierung/Programmiersprachen/Java/Build Tools/Gradle/Tasks/Allgemein]] - Definiert eine Unit, kann von der Kommandozeile aufgerufen werden über den Namen
 - [[gradlew]] - Ein Skript, dass man aufrufen kann um Gradle Builds auszuführen. Es lädt Gradle in der benötigten Version runter, falls es nicht schon auf dem System existiert. Es ermöglicht auch Environment Variablen für den Build zu setzen. Oder auch JVM Variablen.

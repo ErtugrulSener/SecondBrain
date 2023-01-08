@@ -19,7 +19,7 @@ aber dennoch klassenlose Sprache.
 - funktional
 
 ## Mittlerweile browserunabhängig
-Heutzutage wird Javascript aber auch immer häufiger außerhalb von Browsern verwendet, z.B: auf Servern oder sogar Microcontrollern. Siehe auch [[Use Cases]]
+Heutzutage wird Javascript aber auch immer häufiger außerhalb von Browsern verwendet, z.B: auf Servern oder sogar Microcontrollern. Siehe auch [[Synapsen/Informatik/Programmierung/Programmiersprachen/Javascript/Use Cases]]
 
 ## Trivia
 1) Die Marke "Javascript" ist geschützt und gehört Oracle.

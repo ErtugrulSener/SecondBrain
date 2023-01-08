@@ -5,4 +5,4 @@
 ![[Besonderheiten]]
 
 ## Was sind häufige Use Cases?
-![[Synapsen/Informatik/Programmiersprachen/Java/Spring Boot/GraphQL/SPQR/Use Cases]]
+![[Synapsen/Informatik/Programmierung/Programmiersprachen/Java/Spring Boot/GraphQL/SPQR/Use Cases]]
