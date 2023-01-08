@@ -8,7 +8,6 @@
 
 ## Verhaltenspsychologie
 - Ein Mensch ist seine Gedanken, seine Gefühle und sein Verhalten. Die Gefühle kann man schwierig ändern, besser ist es sich eine neue Identität zu erschaffen und dann zu versuchen sich entsprechend dieser neuen Identität zu verhalten. Man verändert sich durch neue Erfahrungen, neue Gewohnheiten erschaffen eine neue Identität.
-        
 
 ## Depressionen
 - Es gibt verschiedene Arten wie Wochenenddepressionen, saisonale Depressionen und verschiedene Ausprägungen.
