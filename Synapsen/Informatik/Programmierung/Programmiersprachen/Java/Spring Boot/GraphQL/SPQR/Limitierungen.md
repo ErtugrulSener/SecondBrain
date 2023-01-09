@@ -40,5 +40,35 @@ graphql.spqr.gui.target-ws-endpoint = /graphql-ws
 
 müssen aus irgendeinem Grund beim Startup gesetzt werden, sonst gibt es eine NPE. Ich gehe zwar davon aus, dass dies in einer Zukunftsversion gefixt wird, aber bisher ist dies zu beachten.
 
+## Prüfung aller Querys / Mutations auf einer Seite, statt nur der des aktuellen Requests
+Auch wenn nur ein bestimmter Request gesendet wird, wird jede Mutation / Query auf dieser Seite auf "Vollständigkeit" bzw. "formale Korrektheit" geprüft, leider ist die Fehlermeldung hier recht schwierig zu verstehen.
+
+Daher sollte man einfach Wissen, dass eine Seite mit folgendem Inhalt:
+
+```GraphQL
+mutation createA {
+  createA(dto: {
+      uuid: "1d460da2-571a-4b36-97a0-b7f4ddf184e9"
+  }) {
+    uuid
+  }
+}
+
+mutation createB {
+  createB(dto: {
+    a: {
+      uuid: ""
+    }
+  }) {
+    uuid
+  }
+}
+```
+
+und dem Ausführen der Mutation ```createA``` einen Fehler gibt, dass:
+```java.lang.UUID.fromString("")``` nicht erfolgreich war, ein leerer String ist kein gültiger UUID.
+
+Auffällig ist, dass der leere String bei der Mutation ```createB``` drin ist, die ja überhaupt nicht ausgeführt wurde.
+
 ## Fehlende offizielle Dokumentation
 Es gibt keine wirkliche Dokumentation zum Framework, zumindestens finde ich keine offizielle und die Github README zeigt nur die simpelsten Use Cases.
