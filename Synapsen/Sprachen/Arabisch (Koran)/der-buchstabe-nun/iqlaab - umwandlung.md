@@ -1,6 +1,6 @@
 # Regel des Iqlaab (Umwandlung)
 
-# Kommt nach einem Nun mit Sukun ein Ba, so spricht man ein Mim stattdessen und hält es etwas.
+## Regel Nr. 1) Kommt nach einem Nun mit Sukun ein Ba, so spricht man ein Mim stattdessen und hält es etwas.
 
 <span style="font-size: 22pt">هُنْ بَا</span>
 gesprochen "hummbaa"
