@@ -15,7 +15,6 @@ Dies spart enorm Performance.
 
 ## Tiefe limitieren
 Github macht dies zum Beispiel, sie limitieren die Tiefe auf 10.
-
 In GraphQL Java geht das folgendermaßen:
 
 ```Java
