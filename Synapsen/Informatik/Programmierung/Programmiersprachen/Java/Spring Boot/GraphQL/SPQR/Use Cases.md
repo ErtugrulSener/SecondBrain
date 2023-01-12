@@ -86,3 +86,11 @@ query {
 	}
 }
 ```
+
+## Informationen aus dem GraphQLEnvironment erhalten
+
+```Java
+@GraphQLQuery
+List<Project> projects(@GraphQLEnvironment ResolutionEnvironment env) {
+}
+```
