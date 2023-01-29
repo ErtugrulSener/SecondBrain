@@ -10,6 +10,6 @@ So sind Erinnerungen aus sehr vielen Synapsen gemacht, die sich im Gehirn geknü
 Während des Tages bilden sich zwischen unseren Hirnzellen metabolische Toxine, das lässt unseren Kopf manchmal so "schwer" wirken. Wir können uns nicht mehr gut konzentrieren und sind erschöpft.
 
 Während des Schlafs, schaltet sich der präfontale Kontext aus und das Gehirn säubert sich selbst.
-- Die Hirnzellen rutschen leicht voneinander weg, es entsteht etwas Platz durch das ein Fluid fließt und diese Toxine abträgt.
+- Die Hirnzellen werden kleiner (schrumpfen), es entsteht etwas Platz durch das ein Fluid fließt und diese Toxine abträgt.
 
 Wenn man kurz nach einer Lernsession einen kleinen Nap macht, dann manifestiert das Gehirn das Gelernte besser, es bleibt besser im Gedächtnis. Irrelevante Dinge werden gleichzeitig vom Hirn abgetragen, so wie Relevante Verbindungen bestärkt werden.
