@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dd552c9f19fd7361",
+        "id": "8778abb90d4dffb4",
         "type": "tabs",
         "children": [
           {
-            "id": "eb16f2ec3fcea492",
+            "id": "bfff3e132780e767",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanbanboard.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Kanbanboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Kanbanboard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -111,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Kanbanboard.md"
-          }
+          "state": {}
         }
       },
       {
@@ -127,7 +121,7 @@
     ],
     "currentTab": 0
   },
-  "active": "eb16f2ec3fcea492",
+  "active": "bfff3e132780e767",
   "lastOpenFiles": [
     "Synapsen/Secrets/Common Software Links.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md",
