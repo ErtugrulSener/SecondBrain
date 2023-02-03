@@ -1,6 +1,6 @@
 # Madd-Munfasil (Das getrennte Madd in verschiedenen Wörtern)
 
-## Das Madd-Munfasil erkennt man daran, dass ein Wort mit einem Madd endet und das nächste Wort mit einem Hamza beginnt. Beim Halten liest man nur 2 Harakat, beim Weiterlesen (verbinden der Worte) liest man 4 Harakat.
+## Regel Nr. 1) Das Madd-Munfasil erkennt man daran, dass ein Wort mit einem Madd endet und das nächste Wort mit einem Hamza beginnt. Beim Halten liest man nur 2 Harakat, beim Weiterlesen (verbinden der Worte) liest man 4 Harakat. 
 
 z.B: bei den beiden Worten "Kalla inahä"
 
