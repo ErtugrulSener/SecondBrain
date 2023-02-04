@@ -1,4 +1,5 @@
 # Madd-Silah (Das verbindende Madd)
+auch "Ishbaa" genannt
 
 ## Das Madd-Silah kann nur aus den zwei kleinen Madd-Symbolen für Waw und Ya bestehen. Außerdem steht es immer zwischen zwei Worten, niemals in einem. Es verbindet die Worte.
 
