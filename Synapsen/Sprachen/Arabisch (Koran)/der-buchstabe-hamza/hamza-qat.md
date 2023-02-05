@@ -15,6 +15,13 @@ Qat heißt soviel wie "schneiden". Es schneidet durch das Wort, man unterbricht 
 <span style="font-size: 22pt">بَكِأٍ</span>
 gesprochen "baki i"
 
+## Regel Nr. 2) Trifft ein Hamza-Qat' auf ein Hamza mit Sukun, dann wird der Laut für 2 Harakat gelesen.
+
+![[hamza-qat-auf-hamza-mit-sukun.png]]
+
+wird gesprochen als "Aamanuu"
+
 # Referenzen
 [Video](https://youtu.be/iS31xI9JF2k)
 
+[Video](https://youtu.be/fJBDeF30U6s)

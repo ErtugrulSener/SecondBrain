@@ -25,6 +25,14 @@ gesprochen "Ushumdu"
 <span style="font-size: 22pt">آصْفِمْدُ</span>
 gesprochen "Isfimdu"
 
+## Regel Nr. 5) Wenn auf ein Hamzatul-Wasl ein Hamza mit Sukun folgt, dann gibt es zwei Fallunterscheidungen.
+### Wenn ich weiterlese: Wie immer, Hamzatul-Wasl wird nicht gelesen.
+### Wenn ich starte: Verlängerung des Lautes für 2 Harakat
+
+![[hamzatul-wasl-auf-hamza-mit-sukun.png]]
+
+Das Beispiel wird gelesen als "Uutimina"
+
 # Referenzen
 [Video](https://www.youtube.com/watch?v=apQ4OpzDTzU)
 
