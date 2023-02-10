@@ -6,12 +6,6 @@ gesprochen "A'ahcamiyu..."
 
 Man spricht dieses Zeichen also so, als wäre eine Hamza über dem ausgefüllten Kreis, es wird zu einem "a".
 
-# Regel von Ishmaam
-![[rule-of-ishmaah.png]]
-gesprochen "tamaamnaa"
-
-Man verrundet seine beiden Lippen während man dieses Wort liest.
-
 # Regel von Imalah
 Das Imalah ist ein Buchstabe der zwischen "Elif" und "Ya" liegt.
 Also zwischen dem "a" und dem "i". Je nach Mushaf bzw. Kiraat an der sich das Mushaf orientiert, wird dieser Buchstabe anders ausgesprochen.
