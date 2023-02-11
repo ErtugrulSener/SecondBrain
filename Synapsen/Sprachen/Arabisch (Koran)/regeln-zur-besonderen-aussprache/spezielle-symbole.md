@@ -6,6 +6,10 @@ gesprochen "A'ahcamiyu..."
 
 Man spricht dieses Zeichen also so, als wäre eine Hamza über dem ausgefüllten Kreis, es wird zu einem "a".
 
+Es darf aber kein Madd Ton entstehen, es ist ein "halber Hamza"ton, man unterbricht aber auch nicht. Man sagt nicht:
+
+"A a hcamiyu", eher: "A'ahcamiyu"
+
 # Regel von Imalah
 Das Imalah ist ein Buchstabe der zwischen "Elif" und "Ya" liegt.
 Also zwischen dem "a" und dem "i". Je nach Mushaf bzw. Kiraat an der sich das Mushaf orientiert, wird dieser Buchstabe anders ausgesprochen.
@@ -26,3 +30,6 @@ Beim *Imalah Kubra* kommt ein "e" Sound zustande, beim *Imalah Sugra* ein 'ö' S
 gesprochen "gadinaa haasaa"
 
 Man stoppt kurz das Gelesene und liest weiter, ohne einen weiteren Atemzug zu nehmen. Wenn man an der Stelle sowieso stoppt, dann wird diese Regel nicht angewandt, nur beim Weiterlesen.
+
+# Referenzen
+[Video](https://youtu.be/ARkjnw7BnMU)
