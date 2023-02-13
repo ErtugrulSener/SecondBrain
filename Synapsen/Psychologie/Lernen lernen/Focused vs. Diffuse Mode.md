@@ -1,4 +1,6 @@
-Wissenschaftler haben herausgefunden, dass Menschen dazu tendieren entweder im *Fokus* Modus oder im *Diffuse* Modus zu sein. Außerdem helfen Analogien und Metaphern beim Verständnis eines Problems, daher erklären sie diese beiden Modus folgendermaßen:
+Laut *Barbara Oakley* ...
+
+tendieren Menschen dazu entweder im *Fokus* Modus oder im *Diffuse* Modus zu sein. Außerdem helfen Analogien und Metaphern beim Verständnis eines Problems, daher erklären sie diese beiden Modus folgendermaßen:
 
 ## Focused Mode
 Beim "Focused Mode" kann man sich eine Pin Ball Maschine im Kopf vorstellen, bei der die der Weg des Pinballs die Gedanken des Menschen sind. Der Ball kann nicht breitflächig wandern, er stößt sehr oft auf Bumper, die ihm im Weg liegen.
