@@ -1,0 +1,1 @@
+Das ist eine Form der Übung, bei der man sich besonders auf die schweren Dinge eines Konzepts konzentriert und versucht, erst diese zu begreifen um ein Verstädnis für das große Problem zu bekommen.
