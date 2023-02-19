@@ -3,7 +3,7 @@ Ein Chunk ist wie bereits hier erwähnt [[Gedächtnis#Kurzzeitgedächtnis]] eine
 
 Ein Chunk ist also eine Verknüpfung einzelner Informationen zu einem Gesamtbild, während man diesem Chunk außerdem einen Namen geben kann. So kann man sich in Zukunft an diesen Namen erinnern, anstatt sich an jedes kleine Detail eines Konzeptes erinnern zu müssen. Die Verknüpfung auf diese Details folgt dann automatisch.
 
-Eine schöne Metapher, die laut Barbera Oaekley beim Lernen hilft, sind Pusselteile. Ein einzelnes Teil alleine ergibt kein schönes Gesamtbild, zusammengefügt stehen diese Pusselteile allerdings für eine Information!
+Eine schöne Metapher, die laut Barbera Oaekley beim Lernen hilft, sind Puzzelteile. Ein einzelnes Teil alleine ergibt kein schönes Gesamtbild, zusammengefügt stehen diese Puzzelteile allerdings für eine Information!
 
 ## Chunking
 Chunking hilft dem Gehirn, sich Dinge zu merken und längerfristig im Kopf zu behalten. Dabei ist stumpfes "Wiederholen" aber nicht die Lösung, es muss auch Ruhepausen geben indem der [[Focused vs. Diffuse Mode#Diffuse Mode]] aktiv ist, um Gelerntes zu speichern.
@@ -26,7 +26,7 @@ Nur das Konzentrieren alleine reicht nicht. Auch ein "Aha"-Effekt ist nicht genu
 - Zuhören
 - Nachlesen
 
-Vor allem in der Schule merkt man, dass dies noch nicht reicht, um wirklich etwas ztu lernen. Daher..
+Vor allem in der Schule merkt man, dass dies noch nicht reicht, um wirklich etwas zu lernen. Daher..
 - Learning by doing
 
 3) *Übung*
