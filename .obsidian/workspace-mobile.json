@@ -11,8 +11,10 @@
             "id": "bfff3e132780e767",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "Kanbanboard.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Kanbanboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Kanbanboard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +111,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Kanbanboard.md"
+          }
         }
       },
       {
@@ -123,6 +129,7 @@
   },
   "active": "bfff3e132780e767",
   "lastOpenFiles": [
+    "Synapsen/Spiritualität/Islam/Kamet (Iqlama).md",
     "Synapsen/Secrets/Common Software Links.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ithar - verdeutlichung.md",
@@ -131,7 +138,6 @@
     "Kanbanboard.md",
     "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md",
     "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
-    "Templates/arabischer_text.md",
-    "Templates/ab.md"
+    "Templates/arabischer_text.md"
   ]
 }
