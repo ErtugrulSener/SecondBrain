@@ -43,6 +43,13 @@ git switch <existing_branch>
 git switch -c <non_existing_branch>
 ```
 
+## Änderungen von einem Remote Branch in den aktuellen Branch holen und bei Konflikten das vom Remote akzeptieren
+```shell
+git pull -s recursive -X theirs origin ccsync
+```
+
+Dieser Befehl holt alle Änderungen vom *origin/ccsync* Branch und "mergt" (pullt) es in den aktuellen Branch.
+
 # Die meistgenutzten Befehle
 ## git clone
 ```git clone:``` Dieser Befehl erstellt eine lokale Kopie eines Git-Repositories auf dem Computer des Benutzers.
