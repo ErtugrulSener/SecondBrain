@@ -22,4 +22,4 @@ Das Gesetz lautet: "Lady Luck favors the one who tries."
 
 Das Gesetz von Serendipity besagt, dass es immer leichter fällt, desto mehr man etwas macht. Wenn man neu in einen Themenbereich einsteigt, fällt das Bilden des ersten Chunks recht schwer.
 
-Beim zweiten Mal hat man eine Basis und kann an bestimmten Punkten anknüpfen. Die Verbindungen im Kopf werden "dunkler" bzw. gefestiger.
+Beim zweiten Mal hat man eine Basis und kann an bestimmten Punkten anknüpfen. Die Verbindungen im Kopf werden "dunkler" bzw. gefestigter.
