@@ -1,1 +1,3 @@
-## Was bedeutet das Wort *idempotent* und was bedeutet es in diesem Kontext?
+## Was bedeutet das Wort *idempotent* ganz allgemein?
+
+## Was ist eine *idempotente API*?
