@@ -1,12 +1,6 @@
 [
-  "better-word-count",
   "simple-embeds",
-  "obsidian-spaced-repetition",
-  "table-editor-obsidian",
-  "obsidian-git",
   "obsidian-admonition",
   "obsidian-kanban",
-  "obsidian-better-codeblock",
-  "obsidian-dynamic-toc",
-  "obsidian-sortable"
+  "table-editor-obsidian"
 ]
