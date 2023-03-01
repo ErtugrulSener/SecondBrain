@@ -50,6 +50,15 @@ git pull -s recursive -X theirs origin ccsync
 
 Dieser Befehl holt alle Änderungen vom *origin/ccsync* Branch und "mergt" (pullt) es in den aktuellen Branch.
 
+## Git Push inklusive set upstream
+```shell
+git push -u <url_to_repository> <branch_on_remote>
+
+also zum Beispiel:
+
+git push -u http://github.com/ErtugrulSener/repo.git main
+```
+
 # Die meistgenutzten Befehle
 ## git clone
 ```git clone:``` Dieser Befehl erstellt eine lokale Kopie eines Git-Repositories auf dem Computer des Benutzers.
