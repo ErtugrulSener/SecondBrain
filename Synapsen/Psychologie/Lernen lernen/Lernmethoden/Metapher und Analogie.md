@@ -3,5 +3,5 @@ Metaphern und Analogien helfen uns Menschen ein Konzept zu lernen, da wir ein "B
 ## Sich selbst vorstellen
 Manchmal kann es hilfreich sein, sich selbst in dem Konzept vorzustellen, dass man erlernen möchte. Es gibt keine perfekten Metaphern, je skurriler, desto besser!
 
-## Einstellung
+## Einstellungw
 Metaphern helfen aus der [[Einstellung]] rauszukommen und Gedanken-Blockaden zu lösen.

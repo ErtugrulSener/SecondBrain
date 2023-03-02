@@ -11,11 +11,9 @@
             "id": "bfff3e132780e767",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Synapsen/Spiritualität/Islam/Ersatzwaschung (Tayammum).md",
-                "mode": "source",
-                "source": true
+                "file": "Kanbanboard.md"
               }
             }
           }
@@ -85,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Synapsen/Spiritualität/Islam/Ersatzwaschung (Tayammum).md",
+            "file": "Kanbanboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Synapsen/Spiritualität/Islam/Ersatzwaschung (Tayammum).md",
+            "file": "Kanbanboard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Synapsen/Spiritualität/Islam/Ersatzwaschung (Tayammum).md"
+            "file": "Kanbanboard.md"
           }
         }
       }
@@ -135,38 +133,41 @@
   },
   "active": "bfff3e132780e767",
   "lastOpenFiles": [
-    "Kanbanboard.md",
-    "Bilder/Informatik/Gradle/gradle-wrapper-properties.png",
-    "Bilder/Informatik/Spring Boot/stereotype-annotations.png",
-    "Bilder/Informatik/Software Engineering/testing-in-an-agile-environment.png",
-    "Bilder/Informatik/Software Engineering/waterfall-model.png",
-    "Bilder/Informatik/Software Engineering/software-development-life-cycle.png",
-    "Bilder/Arabisch (Koran)/ar-raom.png",
-    "Bilder/Informatik/Software Engineering/comparison-of-models-2.png",
-    "Bilder/Informatik/Software Engineering/spiral-model.png",
-    "Bilder/Arabisch (Koran)/nabr-of-specific-words.png",
-    "Bilder/Informatik/Software Engineering/comparison-of-models-1.png",
-    "Synapsen/Spiritualität/Islam/Ersatzwaschung (Tayammum).md",
+    "Bilder/Informatik/Design Patterns/builder-and-director-pattern.png",
+    "Bilder/Arabisch (Koran)/rule-of-ishmaah.png",
+    "Bilder/Arabisch (Koran)/madd-tabee-langes-vokal.png",
     "Synapsen/Informatik/Software Design/Design Patterns/Creational Patterns.md",
+    "Bilder/Arabisch (Koran)/arten-des-tanwin.png",
+    "Bilder/Arabisch (Koran)/nun-sakina-rules.png",
+    "Bilder/Arabisch (Koran)/madd-tabee-wort-mit-taskeel.png",
     "Synapsen/Informatik/Versionskontrolle/Git/History Rewrite.md",
+    "Bilder/Arabisch (Koran)/rule-of-imalah.png",
+    "Bilder/Arabisch (Koran)/rule-of-tashed.png",
+    "Bilder/Arabisch (Koran)/rules-of-idghaam-of-same-mahraj.png",
+    "Bilder/Arabisch (Koran)/rules-of-idghaam-with-a-similar-mahraj.png",
+    "Synapsen/Psychologie/Lernen lernen/Lernmethoden/Metapher und Analogie.md",
+    "Bilder/Informatik/Gradle/gradle-wrapper-properties.png",
+    "Synapsen/Informatik/Programmierung/Programmiersprachen/Java/Build Tools/Gradle/Tasks/Built-In Tasks.md",
+    "Synapsen/Psychologie/Lernen lernen/Allgemein/Der Präfrontale Kortex.md",
+    "Synapsen/Informatik/Programmierung/Formatting/editorconfig.md",
+    "Synapsen/Informatik/Programmierung/Programmiersprachen/Java/Build Tools/Gradle/Build Cache.md",
+    "Synapsen/Informatik/Versionskontrolle/Git/Die meistgenutzten Befehle und Use Cases.md",
+    "Synapsen/Spiritualität/Islam/Ersatzwaschung (Tayammum).md",
+    "Synapsen/Psychologie/Lernen lernen/Lernmethoden/Physisches Training.md",
+    "Kanbanboard.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
     "Synapsen/Psychologie/Lernen lernen/Lernmethoden/Visuelles Lernen.md",
     "Synapsen/Psychologie/Lernen lernen/Allgemein/Der Hippocampus.md",
-    "Synapsen/Informatik/Programmierung/Programmiersprachen/Java/Build Tools/Gradle/Tasks/Built-In Tasks.md",
-    "Synapsen/Informatik/Programmierung/Formatting/editorconfig.md",
     "Synapsen/Psychologie/Lernen lernen/Lernmethoden/Gedächtnispalast.md",
-    "Synapsen/Informatik/Programmierung/Programmiersprachen/Java/Build Tools/Gradle/Build Cache.md",
     "Synapsen/Psychologie/Lernen lernen/Prokastionation/Tagesplan.md",
     "Synapsen/Psychologie/Lernen lernen/Prokastionation/Angewohnheiten.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
-    "Synapsen/Informatik/Versionskontrolle/Git/Die meistgenutzten Befehle und Use Cases.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
     "Templates/arabischer-text.md",
     "Synapsen/Spiritualität/Islam/Kamet (Iqlama).md",
     "Synapsen/Secrets/Common Software Links.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ikhfa - versteckung.md",
     "Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/ithar - verdeutlichung.md",
     "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/regeln-zum-anhalten.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-lazim.md"
+    "Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/arten-des-tanwin.md"
   ]
 }
