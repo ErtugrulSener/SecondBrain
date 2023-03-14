@@ -21,7 +21,7 @@ kanban-plugin: basic
 ## Abgeschlossen
 
 **Complete**
-- [x] ##### PRIVAT | Koran lesen lernen<br><br>Fortschritt:<br>-  Koran Seite: 166<br><br>Ziele:<br>- [x] 30 Tage Tajweed Kurs beenden<br>- [x] In gemäßigtem Tempo den Koran lesen<br><br>Motivation:<br>1) Spiriuelle Weiterentwicklung<br>2) Beweis für Disziplin<br>3) Mehr Sprachverständnis für zukünftige arabische Projekte ^g27i5a
+- [x] ##### PRIVAT | Koran lesen lernen<br><br>Fortschritt:<br>-  Koran Seite: 166<br><br>Ziele:<br>- [x] 30 Tage Tajweed Kurs beenden<br>- [ ] In gemäßigtem Tempo den Koran lesen<br><br>Motivation:<br>1) Spiriuelle Weiterentwicklung<br>2) Beweis für Disziplin<br>3) Mehr Sprachverständnis für zukünftige arabische Projekte ^g27i5a
 - [x] @{2022-11-16}<br><br>##### PRIVAT | Seite 134-136 lesen und die Regeln von [[ithar - verdeutlichung]] besonders beachten<br><br>Ziel: Besonders auf die [[arten-des-tanwin#Nr. 1: Das volle Tanwin]] und das "explizite" Nun Sakinah achten
 - [x] @{2022-11-08}<br><br>##### PRIVAT | Regeln zu [[madd-silah|Madd Silah]] lernen und eine Note erstellen
 - [x] @{2022-11-06}<br><br>##### PRIVAT | Regeln der Aussprache des Buchstaben Ra üben<br><br>Ziel: Seite 113-115 lesen und Regeln beachten + Benennen können
