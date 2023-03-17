@@ -11,9 +11,11 @@
             "id": "bfff3e132780e767",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanbanboard.md"
+                "file": "Synapsen/Psychologie/Kontrolle.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Kanbanboard.md",
+            "file": "Synapsen/Psychologie/Kontrolle.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Kanbanboard.md",
+            "file": "Synapsen/Psychologie/Kontrolle.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Kanbanboard.md"
+            "file": "Synapsen/Psychologie/Kontrolle.md"
           }
         }
       }
@@ -133,26 +135,28 @@
   },
   "active": "bfff3e132780e767",
   "lastOpenFiles": [
-    "Templates/arabischer-text.md",
-    "Kanbanboard.md",
+    "Bilder/Informatik/Design Patterns/builder-and-director-pattern.png",
+    "Bilder/Arabisch (Koran)/madd-tabee-langes-vokal.png",
     "Bilder/Arabisch (Koran)/rule-of-ishmaah.png",
     "Synapsen/Informatik/Software Design/Design Patterns/Creational Patterns.md",
     "Bilder/Arabisch (Koran)/arten-des-tanwin.png",
+    "Bilder/Informatik/Git/extended-rebase-1.png",
     "Bilder/Arabisch (Koran)/nun-sakina-rules.png",
     "Synapsen/Informatik/Versionskontrolle/Git/History Rewrite.md",
+    "Bilder/Arabisch (Koran)/madd-tabee-wort-mit-taskeel.png",
+    "Bilder/Arabisch (Koran)/rule-of-imalah.png",
     "Bilder/Arabisch (Koran)/rule-of-tashed.png",
     "Bilder/Arabisch (Koran)/rules-of-idghaam-of-same-mahraj.png",
-    "Bilder/Arabisch (Koran)/rule-of-imalah.png",
-    "Bilder/Arabisch (Koran)/rules-of-idghaam-with-a-similar-mahraj.png",
+    "Bilder/Informatik/Git/versionsbaum.png",
     "Synapsen/Informatik/Programmierung/Programmiersprachen/Java/Build Tools/Gradle/Tasks/Built-In Tasks.md",
-    "Bilder/Arabisch (Koran)/dunkles_ra_1.png",
-    "Bilder/Arabisch (Koran)/satz-mit-wort-gaalu.png",
+    "Synapsen/Psychologie/Depressionen.md",
     "Synapsen/Informatik/Programmierung/Formatting/editorconfig.md",
-    "Synapsen/Informatik/Programmierung/Programmiersprachen/Java/Build Tools/Gradle/Build Cache.md",
     "Synapsen/Informatik/Versionskontrolle/Git/Die meistgenutzten Befehle und Use Cases.md",
-    "Bilder/Arabisch (Koran)/dunkles_ra_2.png",
+    "Synapsen/Informatik/Programmierung/Programmiersprachen/Java/Build Tools/Gradle/Build Cache.md",
     "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
     "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
+    "Kanbanboard.md",
+    "Templates/arabischer-text.md",
     "Synapsen/Schlungen/Building a REST API with Spring Boot/1. Spring und Spring Boot.md",
     "Untitled",
     "Synapsen/Schlungen/Untitled",
@@ -168,8 +172,6 @@
     "Synapsen/Gesundheit/Zucker/Versteckter Zucker.md",
     "Synapsen/Informatik/Markup-Sprachen/YAML/Konzepte/Key-Value-Paare.md",
     "Synapsen/Informatik/Markup-Sprachen/YAML/Konzepte/Kommentare.md",
-    "Synapsen/Psychologie/Lernen lernen/Allgemein/Impostersyndrom.md",
-    "Synapsen/Psychologie/Lernen lernen/Lernmethoden/Metapher und Analogie.md",
-    "Synapsen/Psychologie/Lernen lernen/Allgemein/Der Präfrontale Kortex.md"
+    "Synapsen/Psychologie/Lernen lernen/Allgemein/Impostersyndrom.md"
   ]
 }
