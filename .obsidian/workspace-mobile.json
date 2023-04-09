@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synapsen/Psychologie/Kontrolle.md",
+                "file": "Synapsen/Secrets/Common Software Links.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Synapsen/Psychologie/Kontrolle.md",
+            "file": "Synapsen/Secrets/Common Software Links.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Synapsen/Psychologie/Kontrolle.md",
+            "file": "Synapsen/Secrets/Common Software Links.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Synapsen/Psychologie/Kontrolle.md"
+            "file": "Synapsen/Secrets/Common Software Links.md"
           }
         }
       }
@@ -135,27 +135,36 @@
   },
   "active": "bfff3e132780e767",
   "lastOpenFiles": [
-    "Bilder/Informatik/Design Patterns/builder-and-director-pattern.png",
-    "Bilder/Arabisch (Koran)/madd-tabee-langes-vokal.png",
+    "Synapsen/Schlungen/Building a REST API with Spring Boot/8. Simple Spring Security.md",
+    "Synapsen/Schlungen/Building a REST API with Spring Boot/5. Implementing GET.md",
     "Bilder/Arabisch (Koran)/rule-of-ishmaah.png",
     "Synapsen/Informatik/Software Design/Design Patterns/Creational Patterns.md",
     "Bilder/Arabisch (Koran)/arten-des-tanwin.png",
-    "Bilder/Informatik/Git/extended-rebase-1.png",
     "Bilder/Arabisch (Koran)/nun-sakina-rules.png",
     "Synapsen/Informatik/Versionskontrolle/Git/History Rewrite.md",
-    "Bilder/Arabisch (Koran)/madd-tabee-wort-mit-taskeel.png",
     "Bilder/Arabisch (Koran)/rule-of-imalah.png",
     "Bilder/Arabisch (Koran)/rule-of-tashed.png",
     "Bilder/Arabisch (Koran)/rules-of-idghaam-of-same-mahraj.png",
-    "Bilder/Informatik/Git/versionsbaum.png",
+    "Bilder/Arabisch (Koran)/rules-of-idghaam-with-a-similar-mahraj.png",
+    "Synapsen/Informatik/Build Tools/Gradle/Tasks/Built-In Tasks.md",
+    "Bilder/Arabisch (Koran)/dunkles_ra_1.png",
+    "Bilder/Arabisch (Koran)/satz-mit-wort-gaalu.png",
+    "Synapsen/Psychologie/Kontrolle.md",
+    "Synapsen/Informatik/Versionskontrolle/Git/Die meistgenutzten Befehle und Use Cases.md",
+    "Synapsen/Informatik/Programmierung/Formatting/editorconfig.md",
+    "Bilder/Arabisch (Koran)/dunkles_ra_2.png",
+    "Synapsen/Informatik/Build Tools/Gradle/Build Cache.md",
+    "Synapsen/Schlungen/Building a REST API with Spring Boot/6. Implementing POST.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
+    "Synapsen/Schlungen/Building a REST API with Spring Boot/7. Returning a list with GET.md",
+    "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
+    "Synapsen/Schlungen/Building a REST API with Spring Boot/4. Lab Testing First.md",
+    "Synapsen/Schlungen/Building a REST API with Spring Boot/3. Testing First.md",
+    "Synapsen/Informatik/Build Tools/Gradle/Neues aus Gradle 8.md",
+    "Kanbanboard.md",
     "Synapsen/Informatik/Programmierung/Programmiersprachen/Java/Build Tools/Gradle/Tasks/Built-In Tasks.md",
     "Synapsen/Psychologie/Depressionen.md",
-    "Synapsen/Informatik/Programmierung/Formatting/editorconfig.md",
-    "Synapsen/Informatik/Versionskontrolle/Git/Die meistgenutzten Befehle und Use Cases.md",
     "Synapsen/Informatik/Programmierung/Programmiersprachen/Java/Build Tools/Gradle/Build Cache.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
-    "Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
-    "Kanbanboard.md",
     "Templates/arabischer-text.md",
     "Synapsen/Schlungen/Building a REST API with Spring Boot/1. Spring und Spring Boot.md",
     "Untitled",
@@ -163,15 +172,6 @@
     "Synapsen/Gesundheit/Zucker/Sucht.md",
     "Synapsen/Gesundheit/Zucker/Ohne Zucker.md",
     "Synapsen/Gesundheit/Zucker/Geschwächtes Immunsystem.md",
-    "Synapsen/Informatik/Markup-Sprachen/YAML/Use Cases.md",
-    "Synapsen/Informatik/Markup-Sprachen/YAML/Allgemein.md",
-    "Synapsen/Informatik/Markup-Sprachen/YAML/Tools.md",
-    "Synapsen/Gesundheit/Zucker/Verzehrempfehlung.md",
-    "Synapsen/Informatik/Markup-Sprachen/YAML/Konzepte/Block Scalar.md",
-    "Synapsen/Informatik/Markup-Sprachen/YAML/Konzepte/Start und Ende.md",
-    "Synapsen/Gesundheit/Zucker/Versteckter Zucker.md",
-    "Synapsen/Informatik/Markup-Sprachen/YAML/Konzepte/Key-Value-Paare.md",
-    "Synapsen/Informatik/Markup-Sprachen/YAML/Konzepte/Kommentare.md",
-    "Synapsen/Psychologie/Lernen lernen/Allgemein/Impostersyndrom.md"
+    "Synapsen/Informatik/Markup-Sprachen/YAML/Use Cases.md"
   ]
 }
