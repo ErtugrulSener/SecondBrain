@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## Motivation und Ziele
 
-- [ ] ##### PRIVAT | Kaputten Fernseher im Wohnzimmer ersetzen<br><br>Ziele:<br>- [x] Fernseher vermessen<br>- [ ] Reviews ansehen<br>- [ ] Passende Marke raussuchen
 
 
 ## Warteschlange (2)
@@ -15,7 +14,7 @@ kanban-plugin: basic
 
 ## In Arbeit (2)
 
-- [ ] ##### PRIVAT | Koran bis zum Ende lesen<br><br>Fortschritt:<br>-  Koran Seite: 404<br><br>Ziele:<br>- [x] Anwenden der Tajweed Regeln fällt leichter<br>- [x] Bessere Lesegeschwindigkeit erreichen<br>- [ ] Koran ein Mal gelesen haben
+- [ ] ##### PRIVAT | Koran bis zum Ende lesen<br><br>Fortschritt:<br>-  Koran Seite: 494<br><br>Ziele:<br>- [x] Anwenden der Tajweed Regeln fällt leichter<br>- [x] Bessere Lesegeschwindigkeit erreichen<br>- [ ] Koran ein Mal gelesen haben
 
 
 ## Abgeschlossen
