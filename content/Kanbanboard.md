@@ -1,7 +1,7 @@
 ---
 
 kanban-plugin: basic
-isDraft: t
+isDraft: true
 
 ---
 
