@@ -33,6 +33,11 @@ git status
 git branch -a
 ```
 
+## Branch erstellen ohne zu ihm zu wechseln
+```shell
+git branch <new_branch_name>
+```
+
 ## Branch wechseln
 ```shell
 git switch <existing_branch>
@@ -57,6 +62,23 @@ git push -u <url_to_repository> <branch_on_remote>
 also zum Beispiel:
 
 git push -u http://github.com/ErtugrulSener/repo.git main
+```
+
+## Commits rückgängig machen (noch nicht auf Remote gepusht)
+```shell
+git reset (Standard ist --mixed, also er fügt den Changeset zum Arbeitsbereich hinzu)
+git reset --soft (Fügt den Changeset zur Staging Area hinzu)
+git reset --hard (Macht die Änderungen unwiederbringbar rückgängig)
+```
+
+## Commits rückgängig machen (schon auf Remote gepusht)
+```shell
+git revert <commit_id_to_revert>
+```
+
+## Lokalen Branch löschen
+```shell
+git branch -d <existing_branch_name>
 ```
 
 # Die meistgenutzten Befehle
