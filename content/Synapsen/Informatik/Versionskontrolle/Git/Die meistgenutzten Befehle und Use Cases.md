@@ -81,6 +81,12 @@ git revert <commit_id_to_revert>
 git branch -d <existing_branch_name>
 ```
 
+## Hauptbranch in main umbenennen
+```shell
+git branch -M main
+git push -u origin main
+```
+
 # Die meistgenutzten Befehle
 ## git clone
 ```git clone:``` Dieser Befehl erstellt eine lokale Kopie eines Git-Repositories auf dem Computer des Benutzers.
