@@ -6,6 +6,20 @@ git commit -m "Message xy"
 git push
 ```
 
+## Interaktiver Rebase (zum Historie neuschreiben)
+```shell
+git rebase -i
+```
+
+## Änderungen vom Remote erhalten
+```shell
+git fetch --all
+
+ODER
+
+git remote update
+```
+
 ## Remote Repository klonen
 ```shell
 git clone https://github.com/gitrepo/myrepo.git

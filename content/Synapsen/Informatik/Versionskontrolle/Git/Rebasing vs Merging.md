@@ -1,3 +1,16 @@
+```ad-note
+title: Hinweis
+Ob man nun per Merge oder Rebase vom Feature-Branch in den Master Branch geht, ist debatierbar und eine Entscheidung des jeweiligen Teams.
+
+Wichtig zu verstehen bei einem Rebase sind aber folgende Vor und Nachteile:
+Vorteil:
+- Gradliniger Versionsverlauf, keine Merge Commits
+
+Nachteile:
+- Potenziell mehrere Merge-Konflikte, dauern länger zum Fixen (Durch Switch Konsole <-> IDE / Tools)
+- Ältere Commits tauchen ganz oben auf, ergo die Zeit wann ein Commit erstellt wurde (So kann ein Commit von vor 5 Tagen dennoch vor dem Commit von heute erscheinen)
+```
+
 In Git gibt es grundsätzlich zwei Wege um Änderungen von einem Branch in einen Anderen zu integrieren, diese sind:
 - merge
 - rebase
