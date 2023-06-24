@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "4f66891cccc4e1fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "8778abb90d4dffb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfff3e132780e767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/GTD/Projekte/Kurs 1877 - Dokumenten und Wissensmanagement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f29311978b8ba8b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9b273cc9209fac13",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "85aa17095bc25d54",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "33644f8b34fd6782",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "0ac10434e9b202a3",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "8ed0196d10b9e103",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a5ba4e2debc7f73d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ef5d57affc324c3c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "content/GTD/Projekte/Kurs 1877 - Dokumenten und Wissensmanagement.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8187f81c675a6fe5",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "content/GTD/Projekte/Kurs 1877 - Dokumenten und Wissensmanagement.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "19e908da5aeb9292",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "content/GTD/Projekte/Kurs 1877 - Dokumenten und Wissensmanagement.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bfff3e132780e767",
+  "lastOpenFiles": [
+    "content/GTD/Projekte/Kurs 1833 - IT-Forensik.md",
+    "content/GTD/Projekte/JPA Fundamentals.md",
+    "content/GTD/Aufgabenkorb.md",
+    "content/Bilder/Informatik/Software Engineering/comparison-of-models-1.png",
+    "content/Bilder/Arabisch (Koran)/nabr-of-ya-and-vaw.png",
+    "content/Bilder/Arabisch (Koran)/word-with-schaddah-and-qalqalah-at-the-end.png",
+    "content/Bilder/Arabisch (Koran)/das-wort-yuchyii.png",
+    "content/Bilder/Arabisch (Koran)/word-with-schaddah-and-nun-or-mim-at-the-end.png",
+    "content/Bilder/Informatik/Gradle/java-plugin-task-graph.png",
+    "content/Bilder/Arabisch (Koran)/sukun-methode.png",
+    "content/Bilder/Arabisch (Koran)/nabr-of-specific-words.png",
+    "content/Bilder/Hilla/logo.png",
+    "content/Bilder/Arabisch (Koran)/hamzatul-wasl-auf-hamza-mit-sukun.png",
+    "content/Synapsen/Informatik/IDE/IntelliJ IDEA/Nützliche Hotkeys.md",
+    "content/Synapsen/Psychologie/Lernen lernen/Allgemein/Illusion von Kompetenz.md",
+    "content/Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/iqlaab - umwandlung.md",
+    "content/Synapsen/Schlungen/Building a REST API with Spring Boot/9. Implement PUT.md",
+    "content/Synapsen/Informatik/Software Design/Design Patterns/Die 3 Basistypen.md",
+    "content/Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/lin-buchstaben.md",
+    "content/Synapsen/Psychologie/Lernen lernen/Allgemein/Der Präfrontale Kortex.md",
+    "content/Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-mutasil.md",
+    "content/Synapsen/Informatik/Markup-Sprachen/YAML/Konzepte/Start und Ende.md",
+    "content/Synapsen/Informatik/Markup-Sprachen/YAML/Use Cases.md",
+    "content/Synapsen/Informatik/Build Tools/Gradle/Gradle Build Lifecycles.md",
+    "content/Synapsen/Informatik/Markup-Sprachen/YAML/Tools.md",
+    "content/Synapsen/Informatik/Software Design/Prinzipien/KISS.md",
+    "content/Synapsen/Informatik/Software Design/Design Patterns/Gründe für Nutzung.md",
+    "content/Synapsen/Gesundheit/Zucker/Geschwächtes Immunsystem.md",
+    "content/Synapsen/Informatik/Versionskontrolle/Git/Allgemein.md",
+    "content/Synapsen/Gesundheit/Zucker/Sucht.md",
+    "content/Synapsen/Psychologie/Lernen lernen/Allgemein/Der Hippocampus.md",
+    "content/Synapsen/Informatik/Build Tools/Gradle/Konzepte/settings.gradle.md",
+    "content/Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/übersichtsbild.md",
+    "content/Synapsen/Sprachen/Arabisch (Koran)/regeln-zum-enden/ta-maftuha.md",
+    "content/Synapsen/Informatik/Software Engineering/SDLC/Best Practices.md",
+    "content/Synapsen/Informatik/Programmierung/Programmiersprachen/Java/Performance/Häufige Fehler.md",
+    "content/config.mjs",
+    "Untitled",
+    "Synapsen/Schlungen/Untitled"
+  ]
+}

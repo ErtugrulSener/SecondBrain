@@ -1,3 +1,2 @@
 - Betriebspraktikum Bericht schreiben
 - Spring Fundamentals Kurs beenden
-- God of War Ragnarök spielen
