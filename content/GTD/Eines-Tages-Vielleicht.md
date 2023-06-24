@@ -1,0 +1,1 @@
+- GitHelper, um bestimmte Operationen mit Git zu automatisieren z.B: beim Startup von Windows, oder das einfache suchen nach Commits in Git
