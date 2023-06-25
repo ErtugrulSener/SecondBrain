@@ -1,7 +1,7 @@
 Link: https://www.youtube.com/watch?v=KbmWN0gQ5ag&t=4s
 
 - [x] Lektion 9: Using maps as field types
-- [ ] Lektion 10: MappedSuperclass + Inheritance strategies
+- [x] Lektion 10: MappedSuperclass + Inheritance strategies
 - [ ] Lektion 11: EntityManager
 - [ ] Lektion 12: JPQL + Using Queries
 - [ ] Lektion 13: JPA in a layeres architecture
