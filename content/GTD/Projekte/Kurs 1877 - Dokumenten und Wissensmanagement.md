@@ -1,5 +1,5 @@
-- [ ] KE 7 durchlesen und Konzepte niederschreiben
+- [x] KE 7 durchlesen und Konzepte niederschreiben
 	- [x] Seite 1-14
-	- [ ] Seite 14-26
+	- [x] Seite 14-26
 - [ ] Praktische Themen für Kurs 1877 auf Wochen aufteilen und durchplanen
 	- XML, DTD, XSL, XSLT, XPath, XQuery, RDF, RDFS und OWL ansehen
