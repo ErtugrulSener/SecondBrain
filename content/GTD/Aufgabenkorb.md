@@ -1,3 +1,2 @@
 - Betriebspraktikum Bericht schreiben
-- Sp
-- Spring Fundamentals Kurs beenden
+- JPA Fundamentals Tutorials
