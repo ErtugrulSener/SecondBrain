@@ -1,11 +1,13 @@
 ## Spring Academy Tutorials
 Learning Path: https://spring.academy/paths/spring-certified-professional-2023
 
-### Build a REST API with Spring Boot
-Link: https://spring.academy/courses/building-a-rest-api-with-spring-boot
+- [x] 1 - Build a REST API with Spring Boot
+	https://spring.academy/courses/building-a-rest-api-with-spring-boot
 
-### Spring Framework Essentials
-Link: https://spring.academy/courses/spring-framework-essentials
+- [ ] 2 - Spring Framework Essentials
+	https://spring.academy/courses/spring-framework-essentials
 
-### Spring Boot
-Link: https://spring.academy/courses/spring-boot
+- [ ] 3 - Spring Boot
+	https://spring.academy/courses/spring-boot
+
+## Spring Boot 3 & Spring Framework 6 Buch
