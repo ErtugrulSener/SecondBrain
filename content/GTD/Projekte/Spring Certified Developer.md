@@ -1,10 +1,11 @@
 ## Spring Academy Tutorials
 Learning Path: https://spring.academy/paths/spring-certified-professional-2023
+Current: https://spring.academy/courses/spring-framework-essentials/lessons/spring-essentials-java-config-quickstart
 
 - [x] 1 - Build a REST API with Spring Boot
 
 - [ ] 2 - Spring Framework Essentials
-	- [ ] Modul 1: Spring Essentials Overview
+	- [x] Modul 1: Spring Essentials Overview
 	- [ ] Modul 2: Java Configuration
 	- [ ] Modul 3: More on Java Configuration
 	- [ ] Modul 4: Component Scanning
