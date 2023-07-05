@@ -1,5 +1,5 @@
 # Spring Bean
-Eine Bean in Spring ist eine Komponente, die von Spring im Application Context gemaneged wird.
+Eine Bean in Spring ist eine Komponente, die von Spring im Application Context gemanaged wird.
 
 Beispiel um eine Bean aus dem Kontekt zu bekommen:
 
