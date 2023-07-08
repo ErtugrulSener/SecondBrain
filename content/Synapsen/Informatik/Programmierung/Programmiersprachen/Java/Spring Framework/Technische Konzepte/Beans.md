@@ -13,5 +13,14 @@
 Man kann Abhängigkeiten auf diesen zwei angegebenen Wegen festlegen.
 Siehe auch [[Spring Bean]] und [[Stereotypes]]
 
+## @Qualifier
+- Um dem Bean einen expliziten Namen zu geben
+
+![[qualifier.png]]
+
+## @Lazy
+- Um das Bean erst zu erstellen, wenn es das erste Mal genutzt wird
+- Aber beim Hochfahren der Anwendung nicht verfügbar ist
+
 ## Loose Coupling
 - Man sollte Interfaces anstelle von Klassen nutzen, muss es aber nicht
