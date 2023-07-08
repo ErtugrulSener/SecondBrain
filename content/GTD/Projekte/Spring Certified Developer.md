@@ -7,7 +7,7 @@ Current: https://spring.academy/courses/spring-framework-essentials/lessons/spri
 - [ ] 2 - Spring Framework Essentials
 	- [x] Modul 1: Spring Essentials Overview
 	- [x] Modul 2: Java Configuration
-	- [ ] Modul 3: More on Java Configuration
+	- [x] Modul 3: More on Java Configuration
 	- [ ] Modul 4: Component Scanning
 	- [ ] Modul 5: Inside the Spring Container
 	- [ ] Modul 6: Introduction to Aspect Oriented Programming
