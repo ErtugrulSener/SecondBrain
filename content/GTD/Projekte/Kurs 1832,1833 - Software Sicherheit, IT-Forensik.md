@@ -1,2 +1,2 @@
 - [ ] KE 2, Software-Sicherheit durcharbeiten
-- [ ] KE 2, Einsendeaufgaben beantworten
+- [ ] KE 2, Software-Sicherheit, Einsendeaufgaben beantworten
