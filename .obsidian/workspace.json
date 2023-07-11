@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "db84f388d73ec08f",
+        "id": "14d7dc46d5cd5dcb",
         "type": "tabs",
         "children": [
           {
-            "id": "dd6b9d5a85ec11cc",
+            "id": "4529d76cb5660637",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,6 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd6b9d5a85ec11cc",
-  "lastOpenFiles": []
+  "active": "4529d76cb5660637",
+  "lastOpenFiles": [
+    "content/GTD/Aufgabenkorb.md",
+    "content/GTD/Warten-Auf.md",
+    "content/GTD/Eines-Tages-Vielleicht.md"
+  ]
 }
