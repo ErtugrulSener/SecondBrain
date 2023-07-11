@@ -1,1 +1,4 @@
 - Betriebspraktikum Bericht schreiben
+- Amazon, nicht angekommene Bestellung für Ahmet Dayi, Bestellung kündigen und Geld zurückfordern
+	- In 48h erneut anfragen
+- Um Cagla ablas Internet Anschluss kümmern
