@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/GTD/Projekte/Kurs 1877 - Dokumenten und Wissensmanagement.md",
+                "file": "content/GTD/Aufgabenkorb.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/GTD/Projekte/Kurs 1877 - Dokumenten und Wissensmanagement.md",
+            "file": "content/GTD/Aufgabenkorb.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/GTD/Projekte/Kurs 1877 - Dokumenten und Wissensmanagement.md",
+            "file": "content/GTD/Aufgabenkorb.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/GTD/Projekte/Kurs 1877 - Dokumenten und Wissensmanagement.md"
+            "file": "content/GTD/Aufgabenkorb.md"
           }
         }
       }
@@ -141,6 +141,8 @@
   },
   "active": "bfff3e132780e767",
   "lastOpenFiles": [
+    "content/GTD/Projekte/Spring Certified Professional.md",
+    "content/GTD/Projekte/Kurs 1877 - Dokumenten und Wissensmanagement.md",
     "content/GTD/Projekte/Kurs 1833 - IT-Forensik.md",
     "content/GTD/Projekte/JPA Fundamentals.md",
     "content/GTD/Aufgabenkorb.md",
@@ -175,8 +177,6 @@
     "content/Synapsen/Informatik/Build Tools/Gradle/Konzepte/settings.gradle.md",
     "content/Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/übersichtsbild.md",
     "content/Synapsen/Sprachen/Arabisch (Koran)/regeln-zum-enden/ta-maftuha.md",
-    "content/Synapsen/Informatik/Software Engineering/SDLC/Best Practices.md",
-    "content/Synapsen/Informatik/Programmierung/Programmiersprachen/Java/Performance/Häufige Fehler.md",
     "content/config.mjs",
     "Untitled",
     "Synapsen/Schlungen/Untitled"
