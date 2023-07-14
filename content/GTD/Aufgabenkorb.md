@@ -1,5 +1,10 @@
+## Home
 - [ ] Betriebspraktikum Bericht schreiben
 - [ ] Bot erstellen, der alle jeden Monat eine Mail an Heimaterde schickt
 - [ ] Hotel suchen für Urlaub im Oktober
 - [ ] Handy reparieren lassen (vermutlich was mit den Lausprechern kaputt, Vibration ist zu laut)
 - [ ] Hautarzt: hingehen
+
+## Uni
+
+## Work
