@@ -3,8 +3,9 @@
 - [ ] Hotel suchen für Urlaub im Oktober
 - [ ] Handy reparieren lassen (vermutlich was mit den Lausprechern kaputt, Vibration ist zu laut)
 - [ ] Hautarzt: hingehen
-  - [x] Fragen, wann ich hin kann (Fraitag, 8-12 anrufen)
-- [ ] Vollmacht schreiben, um Mamas Paket anzunehmen + Mama unterzeichnen lassen
+- [x] Vollmacht schreiben, um Mamas Paket anzunehmen
+	- [ ] Mama unterzeichnen lassen
+	- [x] Auf den Tisch legen
 
 ## Erledigt
 - [x] Amazon, nicht angekommene Bestellung für Ahmet Dayi, Bestellung kündigen und Geld zurückfordern
