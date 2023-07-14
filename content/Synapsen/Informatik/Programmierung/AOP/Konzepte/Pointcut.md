@@ -1,1 +1,1 @@
-Eine Expression das eine oder mehrere [[Join Point]]'s auswählt
+Eine Expression das eine oder mehrere [[Join Point]]'s auswählt.

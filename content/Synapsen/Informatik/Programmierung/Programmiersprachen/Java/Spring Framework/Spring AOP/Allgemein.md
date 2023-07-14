@@ -1,0 +1,1 @@
+Spring AOP ist ein Subset von AspectJ
