@@ -1,4 +1,6 @@
 - [x] KE 2, Software-Sicherheit durcharbeiten
 - [x] KE 2, Software-Sicherheit, Einsendeaufgaben beantworten
+- [ ] KE 3, Software-Sicherheit durcharbeiten
+- [ ] KE 3, Software-Sicherheit, Einsendeaufgaben beantworten
 - [ ] KE 2, IT-Forensik überfliegen
 - [ ] KE 2, IT-Forensik, Fragen durchlesen, Antworten überlegen und Musterlösung mit Gedanken vergleichen
