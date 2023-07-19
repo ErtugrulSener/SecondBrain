@@ -1,0 +1,3 @@
+- Nur nicht private Methoden können per Advice behandelt werden
+- Aspekte kann man nur auf [[Spring Bean]]'s anwenden (weil man Proxys nutzt)
+- Advice wird nicht innerhalb der Klasse aufgerufen, z.B: wenn in einer Klasse, Methode a() Methode b() aufruft

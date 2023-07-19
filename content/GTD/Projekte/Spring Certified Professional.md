@@ -12,7 +12,8 @@ Current: https://spring.academy/courses/spring-framework-essentials/lessons/spri
 	- [x] Modul 5: Inside the Spring Container
 	- [ ] Modul 6: Introduction to Aspect Oriented Programming
 		- [x] Part 1
-		- [ ] Part 2 + Übung
+		- [x] Part 2
+		- [ ] Übung
 	- [ ] Modul 7: Testing Spring Applications
 	- [ ] Modul 8: JDBC Simplification with Jdbc Template
 	- [ ] Modul 9: Transaction Management with Spring
