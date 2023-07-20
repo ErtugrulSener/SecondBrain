@@ -1,4 +1,4 @@
-- Conteinerisierung, Cloud, Microservices
+- Containerisierung, Cloud, Microservices
 - JDBC, Transaktionen, ORM, JPA, NoSQL
 - Events, Streaming, Reactive, Messaging, RabbitMQ, JMS, AMQP, Tasks, Scheduling
 - Security, OAuth2, OpenID Connect
