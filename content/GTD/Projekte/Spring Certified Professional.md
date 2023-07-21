@@ -15,7 +15,7 @@ Current: https://spring.academy/courses/spring-framework-essentials/lessons/spri
 		- [x] Part 2
 		- [x] Übung
 	- [x] Modul 7: Testing Spring Applications
-	- [ ] Modul 8: JDBC Simplification with Jdbc Template
+	- [x] Modul 8: JDBC Simplification with Jdbc Template
 	- [ ] Modul 9: Transaction Management with Spring
 
 - [ ] 3 - Spring Boot
