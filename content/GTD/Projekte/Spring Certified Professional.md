@@ -4,7 +4,7 @@ Current: https://spring.academy/courses/spring-framework-essentials/lessons/spri
 
 - [x] 1 - Build a REST API with Spring Boot
 
-- [ ] 2 - Spring Framework Essentials
+- [x] 2 - Spring Framework Essentials
 	- [x] Modul 1: Spring Essentials Overview
 	- [x] Modul 2: Java Configuration
 	- [x] Modul 3: More on Java Configuration
@@ -16,7 +16,7 @@ Current: https://spring.academy/courses/spring-framework-essentials/lessons/spri
 		- [x] Übung
 	- [x] Modul 7: Testing Spring Applications
 	- [x] Modul 8: JDBC Simplification with Jdbc Template
-	- [ ] Modul 9: Transaction Management with Spring
+	- [x] Modul 9: Transaction Management with Spring
 
 - [ ] 3 - Spring Boot
 	- [ ] Modul 1: Spring Boot Feature Introduction
