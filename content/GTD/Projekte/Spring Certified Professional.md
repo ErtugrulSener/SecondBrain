@@ -19,7 +19,7 @@ Current: https://spring.academy/courses/spring-framework-essentials/lessons/spri
 	- [x] Modul 9: Transaction Management with Spring
 
 - [ ] 3 - Spring Boot
-	- [ ] Modul 1: Spring Boot Feature Introduction
+	- [x] Modul 1: Spring Boot Feature Introduction
 	- [ ] Modul 2: Spring Boot - A Closer Look
 	- [ ] Modul 3: Spring Boot - Spring Data JPA
 	- [ ] Modul 4: Web Application with Spring Boot
