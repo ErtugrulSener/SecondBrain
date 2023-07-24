@@ -1,0 +1,1 @@
+Ein Modul das [[Pointcut]]'s und [[Join Point]]'s enthält

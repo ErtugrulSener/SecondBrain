@@ -1,0 +1,2 @@
+- um gleichzeitigen Zugriff auf eine geteilte Ressource zu ermöglich
+- Siehe dazu auch das [[ACID]]-Prinzip

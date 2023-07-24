@@ -10,16 +10,31 @@
           {
             "id": "bfff3e132780e767",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/GTD/Aufgabenkorb.md",
+                "file": "content/GTD/Abgeschlossene Aufgaben/18.07.2023.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "b335b21887fe62ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/GTD/Abgeschlossene Aufgaben/18.07.2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/GTD/Aufgabenkorb.md",
+            "file": "content/GTD/Abgeschlossene Aufgaben/18.07.2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/GTD/Aufgabenkorb.md",
+            "file": "content/GTD/Abgeschlossene Aufgaben/18.07.2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/GTD/Aufgabenkorb.md"
+            "file": "content/GTD/Abgeschlossene Aufgaben/18.07.2023.md"
           }
         }
       }
@@ -139,44 +154,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bfff3e132780e767",
+  "active": "b335b21887fe62ad",
   "lastOpenFiles": [
+    "content/GTD/Aufgabenkorb.md",
+    "content/GTD/Abgeschlossene Aufgaben/18.07.2023.md",
+    "content/GTD/Abgeschlossene Aufgaben/14.07.2023.md",
     "content/Bilder/Informatik/Design Patterns/builder-and-director-pattern.png",
     "content/Bilder/Arabisch (Koran)/rule-of-ishmaah.png",
     "content/Bilder/Arabisch (Koran)/madd-tabee-langes-vokal.png",
     "content/Bilder/Arabisch (Koran)/arten-des-tanwin.png",
-    "content/Bilder/Arabisch (Koran)/nun-sakina-rules.png",
     "content/Bilder/Informatik/Git/extended-rebase-1.png",
-    "content/Bilder/Arabisch (Koran)/madd-tabee-wort-mit-taskeel.png",
-    "content/Bilder/Arabisch (Koran)/rule-of-imalah.png",
     "content/Bilder/Arabisch (Koran)/rule-of-tashed.png",
+    "content/Bilder/Arabisch (Koran)/rule-of-imalah.png",
     "content/Bilder/Arabisch (Koran)/rules-of-idghaam-of-same-mahraj.png",
     "content/Bilder/Arabisch (Koran)/rules-of-idghaam-with-a-similar-mahraj.png",
-    "content/GTD/Projekte/Spring Certified Professional.md",
-    "content/GTD/Projekte/Kurs 1877 - Dokumenten und Wissensmanagement.md",
-    "content/GTD/Eines-Tages-Vielleicht.md",
-    "content/GTD/Aufgabenkorb.md",
+    "content/Bilder/Informatik/Git/versionsbaum.png",
     "content/Kanbanboard.md",
+    "content/Synapsen/Informatik/Programmierung/AOP/Konzepte/Pointcut.md",
+    "content/Synapsen/Informatik/Programmierung/Programmiersprachen/Java/Spring Framework/Spring AOP/Allgemein.md",
+    "content/Synapsen/Informatik/Programmierung/AOP/Technologien.md",
     "content/Synapsen/Informatik/Programmierung/Formatting/editorconfig.md",
-    "content/Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
+    "content/Synapsen/Informatik/Programmierung/AOP/Konzepte/Aspect.md",
     "content/Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
+    "content/Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
+    "content/Synapsen/Informatik/Programmierung/AOP/Cross-Cutting-Concerns.md",
+    "content/Synapsen/Informatik/Programmierung/Programmiersprachen/Java/Spring Framework/Spring AOP/Aspect.md",
+    "content/Synapsen/Informatik/Programmierung/AOP/Konzepte/Proxy.md",
+    "content/Synapsen/Informatik/Programmierung/AOP/Konzepte/Weaving.md",
+    "content/GTD/Abgeschlossene Aufgaben/13.07.2023.md",
+    "content/Synapsen/Informatik/Programmierung/Programmiersprachen/Java/Spring Framework/Spring AOP/JoinPoint.md",
+    "content/Synapsen/Informatik/Versionskontrolle/Git/History Rewrite.md",
+    "content/Synapsen/Informatik/Build Tools/Gradle/Tasks/Built-In Tasks.md",
+    "content/Synapsen/Informatik/Build Tools/Gradle/Build Cache.md",
     "content/Synapsen/Informatik/Versionskontrolle/Git/Die meistgenutzten Befehle und Use Cases.md",
     "content/Synapsen/Informatik/Software Design/Design Patterns/Creational Patterns.md",
-    "content/Synapsen/Informatik/Build Tools/Gradle/Build Cache.md",
-    "content/Synapsen/Informatik/Build Tools/Gradle/Tasks/Built-In Tasks.md",
-    "content/Synapsen/Informatik/Versionskontrolle/Git/History Rewrite.md",
-    "content/GTD/Projekte/Kurs 1833 - IT-Forensik.md",
-    "content/GTD/Projekte/JPA Fundamentals.md",
-    "content/Synapsen/Informatik/IDE/IntelliJ IDEA/Nützliche Hotkeys.md",
-    "content/Synapsen/Psychologie/Lernen lernen/Allgemein/Illusion von Kompetenz.md",
-    "content/Synapsen/Sprachen/Arabisch (Koran)/der-buchstabe-nun/iqlaab - umwandlung.md",
-    "content/Synapsen/Schlungen/Building a REST API with Spring Boot/9. Implement PUT.md",
-    "content/Synapsen/Informatik/Software Design/Design Patterns/Die 3 Basistypen.md",
-    "content/Synapsen/Sprachen/Arabisch (Koran)/regeln-zur-besonderen-aussprache/lin-buchstaben.md",
-    "content/Synapsen/Psychologie/Lernen lernen/Allgemein/Der Präfrontale Kortex.md",
-    "content/Synapsen/Sprachen/Arabisch (Koran)/madd-buchstaben/madd-mutasil.md",
-    "content/Synapsen/Informatik/Markup-Sprachen/YAML/Konzepte/Start und Ende.md",
-    "content/Synapsen/Informatik/Markup-Sprachen/YAML/Use Cases.md",
+    "content/Synapsen/Informatik/Programmierung/Programmiersprachen/Java/Spring Framework/Spring AOP/Configuration.md",
+    "content/Templates/daily.md",
+    "content/Synapsen/Informatik/Programmierung/AOP/Allgemein.md",
     "content/config.mjs",
     "Untitled",
     "Synapsen/Schlungen/Untitled"
