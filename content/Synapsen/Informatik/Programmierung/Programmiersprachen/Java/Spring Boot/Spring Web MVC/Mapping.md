@@ -29,3 +29,27 @@ class UserController {
 
 }
 ```
+
+## @RequestParam
+Query Parameter im GET-Request
+Mit *required=false* könnte man auch nicht benötigte Felder angeben, die dann null sind, falls nicht im Request angegeben.
+
+```java
+@RestController
+class UserController {
+  // Aufgerufen mit: /users?userId=1234
+  @GetMapping("/users")
+  String getSomething(@RequestParam("userId") Integer userId) {
+	return "default";
+  }
+}
+```
+
+## @RequestHeader
+Einen Header im Request als Argument in Controller-Methode injezieren
+
+```java
+String getSomething(@RequestHeader("user-agent") String agent) {
+
+}
+```
