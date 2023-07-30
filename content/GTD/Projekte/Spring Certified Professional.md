@@ -21,8 +21,8 @@ Current: https://spring.academy/courses/spring-framework-essentials/lessons/spri
 - [ ] 3 - Spring Boot
 	- [x] Modul 1: Spring Boot Feature Introduction
 	- [x] Modul 2: Spring Boot - A Closer Look
-	- [ ] Modul 3: Spring Boot - Spring Data JPA
-	- [ ] Modul 4: Web Application with Spring Boot
+	- [x] Modul 3: Spring Boot - Spring Data JPA
+	- [x] Modul 4: Web Application with Spring Boot
 	- [ ] Modul 5: RESTful Application with Spring Boot
 	- [ ] Modul 6: Spring Boot Testing
 	- [ ] Modul 7: Securing REST Application with Spring Security
