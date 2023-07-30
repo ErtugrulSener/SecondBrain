@@ -41,3 +41,37 @@ Module: 8
 	- Constructor Injection
 	- Setter Injection
 	- Interface Injection
+
+#### Was ist ein Pattern? Was ist ein Anti-Pattern? Ist Dependency Injection ein Pattern?
+- Ein Pattern ist eine wiederverwendbare Lösung (ein Template) welches angewandt wird, um sich die Art der Lösungen nicht neu ausdenken zu müssen
+- Es hilft Zeit zu sparen und hilft der Produktivität des Entwicklers
+<br>
+- *Beispiele für Patterns*
+	- Factory Method
+	- Template Method
+	- Observer
+	- Builder
+	- Command
+	- Facade
+	- Visitor
+<br>
+- *Beispiele für Anti-Patterns:*
+	- God Object
+	- Sequential Coupling
+	- Cyclic Dependency
+	- Constant Interface
+<br>
+- Dependency Injection ist ein Pattern. Es löst das Problem, Abhängigkeiten zu erstellen
+- Beispiel: Command-Pattern hat zwei Methoden *canExecute* und *execute*
+
+#### Was ist ein Interface und was sind die Vorteile in der Nutzung davon in Java? Warum sind sie für Java Beans empfohlen?
+Ein Interface definiert die Schnittstelle (die öffentlichen Methoden) einer Klasse, der Nutzer dieser Klasse (intern oder extern) kann sich auf die im Interface deklarierten Methoden verlassen.
+
+Außerdem können sich einige Klassen das Interface teilen, wobei ihre Implementierung sich unterscheidet. Genau diese Implementierung kann dann zur Laufzeit ausgetauscht werden, auch Mocking wird durch Interfaces (bzw. die interfacebasierte Programmierung) ermöglicht für Tests.
+
+Außerdem hilft es dem "Loose Coupling", also der losen Kupplung zwischen Klassen.
+
+- Für Spring:
+	- Implementation Hiding
+	- Beans zur Laufzeit austauschen
+	- Dynamic JDK Proxy (Achtung, in Spring Boot wird immer CG Lib verwendet)
