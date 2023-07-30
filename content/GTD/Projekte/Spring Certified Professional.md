@@ -18,14 +18,26 @@ Current: https://spring.academy/courses/spring-framework-essentials/lessons/spri
 	- [x] Modul 8: JDBC Simplification with Jdbc Template
 	- [x] Modul 9: Transaction Management with Spring
 
-- [ ] 3 - Spring Boot
+- [x] 3 - Spring Boot
 	- [x] Modul 1: Spring Boot Feature Introduction
 	- [x] Modul 2: Spring Boot - A Closer Look
 	- [x] Modul 3: Spring Boot - Spring Data JPA
 	- [x] Modul 4: Web Application with Spring Boot
-	- [ ] Modul 5: RESTful Application with Spring Boot
-	- [ ] Modul 6: Spring Boot Testing
-	- [ ] Modul 7: Securing REST Application with Spring Security
-	- [ ] Modul 8: Actuator
+	- [x] Modul 5: RESTful Application with Spring Boot
+	- [x] Modul 6: Spring Boot Testing
+	- [x] Modul 7: Securing REST Application with Spring Security
+	- [x] Modul 8: Actuator
 
-## Spring Boot 3 & Spring Framework 6 Buch
+## Kurs zum Spring Professional Certification Exam auf Udemy machen
+Link: https://www.udemy.com/course/spring-certified-tutorial/
+Module: 8
+
+### Modul 1
+#### Was ist Dependency Injection und was sind die Vorteile?
+- Eine Technik, bei der die Abhängigkeiten für ein Objekt durch extern erstellt werden und nicht mehr von ihr selbst.
+- Das Objekt spezifiziert seine Dependencies und ein Externes Objekt oder ein Framework gibt die konkreten Implementationen an.
+<br>
+- 3 mögliche Wege:
+	- Constructor Injection
+	- Setter Injection
+	- Interface Injection
