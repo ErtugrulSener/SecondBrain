@@ -1,0 +1,1 @@
+Ein User, ein Gerät oder System, das eine Aktion durchführt

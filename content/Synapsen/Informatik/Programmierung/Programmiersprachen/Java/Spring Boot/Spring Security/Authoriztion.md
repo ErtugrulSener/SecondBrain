@@ -1,0 +1,1 @@
+Entscheiden, ob der [[Principal]] Berechtigungen hat, um die Resource zu erreichen
