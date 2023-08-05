@@ -4,9 +4,7 @@
   "alwaysUpdateLinks": true,
   "rightToLeft": false,
   "spellcheck": true,
-  "spellcheckLanguages": [
-    "de"
-  ],
+  "spellcheckLanguages": null,
   "attachmentFolderPath": "Bilder",
   "showUnsupportedFiles": true,
   "userIgnoreFilters": [
