@@ -2,9 +2,9 @@
 - [x] KE 2, Software-Sicherheit, Einsendeaufgaben beantworten
 - [x] KE 3, Software-Sicherheit durcharbeiten
 - [x] KE 3, Software-Sicherheit, Einsendeaufgaben beantworten
-- [ ] KE 4, Software-Sicherheit durcharbeiten
-- [ ] KE 4, Software-Sicherheit, Einsendeaufgaben beantworten
-- [ ] KE 2, IT-Forensik überfliegen
+- [x] KE 4, Software-Sicherheit durcharbeiten
+- [x] KE 4, Software-Sicherheit, Einsendeaufgaben beantworten
+- [x] KE 2, IT-Forensik überfliegen
 - [ ] KE 2, IT-Forensik, Einsendeaufgaben beantworten
 - [ ] KE 3, IT-Forensik überfliegen
 - [ ] KE 3, IT-Forensik, Einsendeaufgaben beantworten
