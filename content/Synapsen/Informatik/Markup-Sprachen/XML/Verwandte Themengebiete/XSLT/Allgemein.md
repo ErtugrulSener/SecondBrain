@@ -1,5 +1,5 @@
 - steht für *eXtensible Stylesheet Language Transformations*
-- nutzt [[XPath]] um Informationen in einem XML Dokument zu finden
+- nutzt [[Synapsen/Informatik/Markup-Sprachen/XML/Verwandte Themengebiete/XPath/Allgemein]] um Informationen in einem XML Dokument zu finden
 
 ## Beispiel XSL Stylesheet
 ```xml

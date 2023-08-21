@@ -1,11 +1,11 @@
-- Element des [[XSLT]]-Standards
+- Element des [[Synapsen/Informatik/Markup-Sprachen/XML/Verwandte Themengebiete/XSLT/Allgemein]]-Standards
 - Kann benutzt werden, um durch XML Dokumente zu navigieren (speziell durch die XML Elemente und ihre Attribute)
 
 ## Allgemein
 - ist eine Syntax um Zeile von einem XML Dokument zu definieren
 - nutzt Path Ausdrücke um durch XML Dokumente zu navigieren
 - hat eine Bibliothek aus Standardfunktionen
-- ist eines der Hauptelemente von [[XQuery]] und [[XSLT]]
+- ist eines der Hauptelemente von [[Synapsen/Informatik/Markup-Sprachen/XML/Verwandte Themengebiete/XQuery/Allgemein]] und [[Synapsen/Informatik/Markup-Sprachen/XML/Verwandte Themengebiete/XSLT/Allgemein]]
 - ist eine *W3c* Empfehlung
 
 ## Einige Ausdrücke

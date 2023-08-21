@@ -1,4 +1,4 @@
-- Beschreibt, so wie ein [[DTD]] die Struktur eines XML-Dokumentes
+- Beschreibt, so wie ein [[Synapsen/Informatik/Markup-Sprachen/XML/Verwandte Themengebiete/DTD/Allgemein]] die Struktur eines XML-Dokumentes
 - ist eine Alternative dazu
 - sind mächtiger als DTD's
 - unterstützen Datentypen und Namespaces
@@ -22,4 +22,4 @@
 ## Gründe zur Nutzung
 Die selben Gründe wie für DTD's:
 
-![[DTD#Nutzung von DTD's]]
+![[Synapsen/Informatik/Markup-Sprachen/XML/Verwandte Themengebiete/DTD/Allgemein#Nutzung von DTD's]]

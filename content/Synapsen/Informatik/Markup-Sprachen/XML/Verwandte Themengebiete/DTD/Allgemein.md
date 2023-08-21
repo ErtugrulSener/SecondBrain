@@ -1,5 +1,5 @@
 - steht für *Document Type Definition*
-- beschreibt die Struktur und die validaten Elemente sowie Attribute eines XML Dokumentes
+- beschreibt die Struktur und die validen Elemente sowie Attribute eines XML Dokumentes
 
 ## Beispiel 1: Simples DTD zur Validierung
 ```xml
