@@ -4,7 +4,7 @@
 - [ ] Praktische Themen für Kurs 1877 auf Wochen aufteilen und durchplanen
 	- [x] XML
 	- [x] DTD
-	- [ ] XPath
+	- [x] XPath
 	- [ ] XQuery
 	- [ ] RDF
 	- [ ] RDFS
