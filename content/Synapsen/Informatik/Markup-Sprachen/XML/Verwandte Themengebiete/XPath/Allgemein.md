@@ -1,5 +1,7 @@
-- Element des [[Synapsen/Informatik/Markup-Sprachen/XML/Verwandte Themengebiete/XSLT/Allgemein]]-Standards
+- steht für die *XML Path Language*
+- Element des [[Synapsen/Informatik/Markup-Sprachen/XML/Verwandte Themengebiete/XSLT/Allgemein|XSLT]]-Standards
 - Kann benutzt werden, um durch XML Dokumente zu navigieren (speziell durch die XML Elemente und ihre Attribute)
+- XPath ist eine W3C Empfehlung
 
 ## Allgemein
 - ist eine Syntax um Zeile von einem XML Dokument zu definieren
