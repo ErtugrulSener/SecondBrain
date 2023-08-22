@@ -1,0 +1,16 @@
+| Operator       | Description                  | Example                   |                |
+| -------------- | ---------------------------- | ------------------------- | -------------- |
+|                |                              | Computes two node-sets    | //book \| //cd |
+| +              | Addition                     | 6 + 4                     |                |
+| -              | Subtraction                  | 6 - 4                     |                |
+| Multiplication | 6 * 4                        |                           |                |
+| div            | Division                     | 8 div 4                   |                |
+| =              | Equal                        | price=9.80                |                |
+| !=             | Not equal                    | price!=9.80               |                |
+| <              | Less than                    | price<9.80                |                |
+| <=             | Less than or equal to        | price<=9.80               |                |
+| >              | Greater than                 | price>9.80                |                |
+| >=             | Greater than or equal to     | price>=9.80               |                |
+| or             | or                           | price=9.80 or price=9.70  |                |
+| and            | and                          | price>9.00 and price<9.90 |                |
+| mod            | Modulus (division remainder) | 5 mod 2                   |                |

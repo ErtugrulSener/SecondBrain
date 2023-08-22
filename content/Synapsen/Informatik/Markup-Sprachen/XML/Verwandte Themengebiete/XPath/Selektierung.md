@@ -7,6 +7,13 @@
 | ..         | Selects the parent of the current node                                                                |
 | @          | Selects attributes                                                                                    | 
 
+## Mehrere Pfade selektieren
+| Path Expression                  | Result                                                        |
+| -------------------------------- | ------------------------------------------------------------- |
+| //book/title \| //book/price     | Selects all the title AND price elements of all book elements | 
+| //title \| //price               | Selects all the title AND price elements in the document      |
+| /bookstore/book/title \| //price | Selects all the title elements of t                           |
+
 ## Beispiel Ausdrücke
 | Path Expression | Result                                                                                                                                         |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |

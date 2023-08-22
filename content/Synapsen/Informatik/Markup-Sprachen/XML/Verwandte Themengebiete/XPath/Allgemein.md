@@ -10,6 +10,12 @@
 - ist eines der Hauptelemente von [[Synapsen/Informatik/Markup-Sprachen/XML/Verwandte Themengebiete/XQuery/Allgemein]] und [[Synapsen/Informatik/Markup-Sprachen/XML/Verwandte Themengebiete/XSLT/Allgemein]]
 - ist eine *W3c* Empfehlung
 
+## Mögliche Rückgabewerte für Ausdrücke
+- node-set
+- string
+- Boolean
+- number
+
 ## Einige Ausdrücke
 | Ausdruck                           | Beschreibung                                                                                                                           | 
 | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
