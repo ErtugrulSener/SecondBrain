@@ -4,10 +4,8 @@
 - [ ] Praktische Themen für Kurs 1877 auf Wochen aufteilen und durchplanen
 	- [x] XML
 	- [x] DTD
-	- [ ] XSL
-	- [ ] XSLT
-	- [x] XPath
-	- [x] XQuery
+	- [ ] XPath
+	- [ ] XQuery
 	- [ ] RDF
 	- [ ] RDFS
 	- [ ] OWL
