@@ -8,3 +8,4 @@
 - [x] KE 2, IT-Forensik, Einsendeaufgaben beantworten
 - [x] KE 3, IT-Forensik überfliegen
 - [x] KE 3, IT-Forensik, Einsendeaufgaben beantworten
+- [ ] Prüfung bestehen
