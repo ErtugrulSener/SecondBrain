@@ -5,4 +5,4 @@
 	- [x] XML
 	- [x] DTD
 	- [x] XPath
-- [ ] Prüfung bestehen
+- [x] Prüfung bestehen
