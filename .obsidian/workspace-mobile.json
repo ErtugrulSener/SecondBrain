@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/GTD/Abgeschlossene Aufgaben/18.07.2023.md",
+                "file": "content/GTD/Aufgabenkorb.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/GTD/Abgeschlossene Aufgaben/18.07.2023.md",
+            "file": "content/GTD/Aufgabenkorb.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/GTD/Abgeschlossene Aufgaben/18.07.2023.md",
+            "file": "content/GTD/Aufgabenkorb.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/GTD/Abgeschlossene Aufgaben/18.07.2023.md"
+            "file": "content/GTD/Aufgabenkorb.md"
           }
         }
       }
@@ -156,41 +156,42 @@
   },
   "active": "b335b21887fe62ad",
   "lastOpenFiles": [
-    "content/GTD/Aufgabenkorb.md",
+    "content/Bilder/Informatik/Spring Framework/bean-factory.png",
+    "content/Bilder/Arabisch (Koran)/dunkles_ra_1.png",
+    "content/Bilder/Informatik/Software Engineering/comparison-of-models-2.png",
+    "content/Bilder/Arabisch (Koran)/satz-mit-wort-gaalu.png",
+    "content/Bilder/Informatik/AOP/solution-to-cross-cutting-concerns.png",
+    "content/Bilder/Arabisch (Koran)/ar-raom.png",
+    "content/Synapsen/Informatik/Programmierung/Formatting/editorconfig.md",
+    "content/Bilder/Informatik/Software Engineering/spiral-model.png",
+    "content/Bilder/Informatik/Software Engineering/incremental-model.png",
+    "content/Bilder/Informatik/Spring Framework/qualifier.png",
+    "content/Bilder/Informatik/Software Engineering/comparison-of-models-1.png",
+    "content/Bilder/Informatik/Spring Framework/tramp-data.png",
+    "content/Synapsen/Informatik/Programmierung/Programmiersprachen/Java/Spring Framework/Spring AOP/Aspect Types.md",
+    "content/Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
+    "content/Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
     "content/GTD/Abgeschlossene Aufgaben/18.07.2023.md",
-    "content/GTD/Abgeschlossene Aufgaben/14.07.2023.md",
-    "content/Bilder/Informatik/Design Patterns/builder-and-director-pattern.png",
-    "content/Bilder/Arabisch (Koran)/rule-of-ishmaah.png",
-    "content/Bilder/Arabisch (Koran)/madd-tabee-langes-vokal.png",
-    "content/Bilder/Arabisch (Koran)/arten-des-tanwin.png",
-    "content/Bilder/Informatik/Git/extended-rebase-1.png",
-    "content/Bilder/Arabisch (Koran)/rule-of-tashed.png",
-    "content/Bilder/Arabisch (Koran)/rule-of-imalah.png",
-    "content/Bilder/Arabisch (Koran)/rules-of-idghaam-of-same-mahraj.png",
-    "content/Bilder/Arabisch (Koran)/rules-of-idghaam-with-a-similar-mahraj.png",
-    "content/Bilder/Informatik/Git/versionsbaum.png",
+    "content/Synapsen/Informatik/Software Design/Design Patterns/Creational Patterns.md",
+    "content/Synapsen/Informatik/Versionskontrolle/Git/Die meistgenutzten Befehle und Use Cases.md",
+    "content/Synapsen/Informatik/Versionskontrolle/Git/History Rewrite.md",
+    "content/Synapsen/Informatik/Build Tools/Gradle/Tasks/Built-In Tasks.md",
+    "content/Synapsen/Informatik/Build Tools/Gradle/Build Cache.md",
     "content/Kanbanboard.md",
+    "content/GTD/Aufgabenkorb.md",
+    "content/GTD/Abgeschlossene Aufgaben/14.07.2023.md",
     "content/Synapsen/Informatik/Programmierung/AOP/Konzepte/Pointcut.md",
     "content/Synapsen/Informatik/Programmierung/Programmiersprachen/Java/Spring Framework/Spring AOP/Allgemein.md",
     "content/Synapsen/Informatik/Programmierung/AOP/Technologien.md",
-    "content/Synapsen/Informatik/Programmierung/Formatting/editorconfig.md",
     "content/Synapsen/Informatik/Programmierung/AOP/Konzepte/Aspect.md",
-    "content/Synapsen/Sprachen/Arabisch (Koran)/anhalteregeln/pausenzeichen.md",
-    "content/Synapsen/Sprachen/Arabisch (Koran)/allgemein/terminologie.md",
     "content/Synapsen/Informatik/Programmierung/AOP/Cross-Cutting-Concerns.md",
     "content/Synapsen/Informatik/Programmierung/Programmiersprachen/Java/Spring Framework/Spring AOP/Aspect.md",
     "content/Synapsen/Informatik/Programmierung/AOP/Konzepte/Proxy.md",
     "content/Synapsen/Informatik/Programmierung/AOP/Konzepte/Weaving.md",
     "content/GTD/Abgeschlossene Aufgaben/13.07.2023.md",
     "content/Synapsen/Informatik/Programmierung/Programmiersprachen/Java/Spring Framework/Spring AOP/JoinPoint.md",
-    "content/Synapsen/Informatik/Versionskontrolle/Git/History Rewrite.md",
-    "content/Synapsen/Informatik/Build Tools/Gradle/Tasks/Built-In Tasks.md",
-    "content/Synapsen/Informatik/Build Tools/Gradle/Build Cache.md",
-    "content/Synapsen/Informatik/Versionskontrolle/Git/Die meistgenutzten Befehle und Use Cases.md",
-    "content/Synapsen/Informatik/Software Design/Design Patterns/Creational Patterns.md",
     "content/Synapsen/Informatik/Programmierung/Programmiersprachen/Java/Spring Framework/Spring AOP/Configuration.md",
     "content/Templates/daily.md",
-    "content/Synapsen/Informatik/Programmierung/AOP/Allgemein.md",
     "content/config.mjs",
     "Untitled",
     "Synapsen/Schlungen/Untitled"
