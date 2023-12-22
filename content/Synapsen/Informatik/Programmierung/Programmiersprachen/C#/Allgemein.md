@@ -15,3 +15,18 @@ Die Begrifflichkeiten in der .NET / C# Welt sind leider etwas verwirrend, wir ve
 
 ## .NET Standard
 Das ist die Spezifikation für die .NET - Sprachen (.NET Core, .NET Standard)
+
+## Implementationen für den Standard
+- Microsoft .NET
+	- nur unter Windows funktional
+
+- .NET Core
+	- Cross Plattform
+
+- Xamarin
+	- Mobile Plattformen (Android, IOS)
+
+- XBOX
+
+- Blazer
+	- WebAssemblies auf Basis von .NET und C#
