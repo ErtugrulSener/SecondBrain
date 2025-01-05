@@ -9,6 +9,12 @@
 - Delegierung
 - Effektive Kommunikation
 
+## Skills
+- Entscheidungsfindung ermöglichen
+- Kommunizieren und Eskalieren
+- Flexibilität
+- Starke organisatorische Fähigkeiten
+
 ## "Manager"
 Meist eher im Sinne von jemandem, der die Aufgaben in einem Projekt managed und nicht die Menschen.  Er führt die Menschen in dem Sinne, dass er ihnen hilft, die Ziele zu erreichen. Er kontrolliert allerdings keinesfalls ihre täglichen Aufgaben.
 
