@@ -9,6 +9,9 @@
 - Delegierung
 - Effektive Kommunikation
 
+## "Manager"
+Meist eher im Sinne von jemandem, der die Aufgaben in einem Projekt managed und nicht die Menschen.  Er führt die Menschen in dem Sinne, dass er ihnen hilft, die Ziele zu erreichen. Er kontrolliert allerdings keinesfalls ihre täglichen Aufgaben.
+
 ## 1) Planen und organisieren
 - Nutzen von Produktivitäts-Werkzeugen und erstellen von Prozessen
 - Erstellen von Plänen, Timelines, Schedules und andere Formen der Dokumentation um den Stand der Projektbeendigung zu messen
