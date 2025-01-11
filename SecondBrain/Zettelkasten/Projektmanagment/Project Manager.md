@@ -15,6 +15,13 @@
 - Flexibilität
 - Starke organisatorische Fähigkeiten
 
+## Interpersonal Skills
+- Kommunikation
+- Verhandlung
+- Konfliktmediation
+- Verstehen von Motivationen
+- Priorisierung
+
 ## "Manager"
 Meist eher im Sinne von jemandem, der die Aufgaben in einem Projekt managed und nicht die Menschen.  Er führt die Menschen in dem Sinne, dass er ihnen hilft, die Ziele zu erreichen. Er kontrolliert allerdings keinesfalls ihre täglichen Aufgaben.
 
