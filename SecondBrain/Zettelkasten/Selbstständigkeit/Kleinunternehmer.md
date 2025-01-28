@@ -1,0 +1,2 @@
+- Umsatzsteuer
+- Jahresumsatz < 22.000€
