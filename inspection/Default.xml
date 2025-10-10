@@ -1,3 +1,17 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
+  <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoredIdentifiers">
+      <list>
+        <option value="SCREEN_WIDTH" />
+        <option value="SCREEN_HEIGHT" />
+        <option value="X_SCALE" />
+        <option value="Y_SCALE" />
+        <option value="old_open" />
+        <option value="old_len" />
+        <option value="localeinfo.*" />
+        <option value="CHRACTER_NAME_MAX_LEN" />
+      </list>
+    </option>
+  </inspection_tool>
 </profile>

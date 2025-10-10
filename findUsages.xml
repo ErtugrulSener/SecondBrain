@@ -1,0 +1,7 @@
+<application>
+  <component name="FindUsagesSettings">
+    <option name="customScope" value="Project 'Azura'" />
+    <option name="defaultScopeName" value="Project 'Azura'" />
+    <option name="SEARCH_SCOPE" value="Project 'Azura'" />
+  </component>
+</application>
