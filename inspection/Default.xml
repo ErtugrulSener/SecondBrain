@@ -11,6 +11,17 @@
         <option value="old_len" />
         <option value="localeinfo.*" />
         <option value="CHRACTER_NAME_MAX_LEN" />
+        <option value="Abort" />
+        <option value="LogBox" />
+        <option value="AppendChat" />
+        <option value="TraceError" />
+        <option value="NEW_PACK_FILE" />
+        <option value="__USE_EXTRA_CYTHON__" />
+        <option value="__USE_CYTHON__" />
+        <option value="__DEBUG__" />
+        <option value="__COMMAND_LINE__" />
+        <option value="CHARACTER_NAME_MAX_LEN" />
+        <option value="LOCALE_PATH" />
       </list>
     </option>
   </inspection_tool>
