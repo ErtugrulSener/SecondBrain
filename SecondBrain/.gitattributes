@@ -1,0 +1,2 @@
+Synapsen/Secrets/** filter=git-crypt diff=git-crypt
+.obsidian/plugins/flowershow/data.json filter=git-crypt diff=git-crypt

@@ -1,0 +1,1 @@
+Menschen, die an einem [[Projekt]] interessiert sind und von dessen Beendigung und Erfolg abhängen.

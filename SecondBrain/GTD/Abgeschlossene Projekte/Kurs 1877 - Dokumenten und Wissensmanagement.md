@@ -1,0 +1,8 @@
+- [x] KE 7 durchlesen und Konzepte niederschreiben
+	- [x] Seite 1-14
+	- [x] Seite 14-26
+- [x] Praktische Themen für Kurs 1877 auf Wochen aufteilen und durchplanen
+	- [x] XML
+	- [x] DTD
+	- [x] XPath
+- [x] Prüfung bestehen

@@ -1,0 +1,3 @@
+Eine sehr effektive Art sich Dinge zu merken, die sonst keinen Zusammenhang miteinander haben, ist der *Gedächtnispalast*. Man stellt sich einen bekannten Ort vor und platziert dort *gut sichtbare* Gegenstände, die man gerne wiederfinden würde.
+
+Zum Beispiel kann man sein eigenes Zuhause dafür verwenden und für die Einkaufsliste in jedem Raum einen anderen Gegenstand platzieren. Sobald der "Platz" in diesem imaginären Ort nicht mehr reicht, kann man seinen Blick weiten und etwas kreativ werden. z.B: die selbe Wohnung unter einem vorstellen oder die Straße in der man lebt usw.

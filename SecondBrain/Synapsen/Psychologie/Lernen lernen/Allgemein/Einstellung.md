@@ -1,0 +1,3 @@
+Das Prinzip der "Einstellung" besagt, dass wir uns zu sehr auf einen Weg fokussieren, der die Lösungsfindung beschreibt. Unsere Gedanken gehen intuitiv auf einen Chunk, der nicht zur Lösung führt und wir verirren uns.
+
+Einstellung kann frei übersetzt werden in "Mindset" aus dem Englischen, meint hier aber was Anderes. Es meint einen Stolperstein, auf unserem Gedankenweg, der uns davon abhält auf die tatsächliche Lösung zu kommen.

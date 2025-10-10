@@ -1,0 +1,21 @@
+{
+  "promptDelete": false,
+  "livePreview": false,
+  "alwaysUpdateLinks": true,
+  "rightToLeft": false,
+  "spellcheck": true,
+  "spellcheckLanguages": null,
+  "attachmentFolderPath": "Bilder",
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "Templates"
+  ],
+  "showLineNumber": false,
+  "showInlineTitle": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

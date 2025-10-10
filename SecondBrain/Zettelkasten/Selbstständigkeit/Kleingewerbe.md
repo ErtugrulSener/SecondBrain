@@ -1,0 +1,3 @@
+- Muss zum 10. jedes Jahres eine Steuererklärung machen
+- Bis 80.000€ Umsatz und 800.000€ Gewinn im Jahr steuerfrei
+- Gewerbesteuer (Anmeldung eines Nebengewerbe's)

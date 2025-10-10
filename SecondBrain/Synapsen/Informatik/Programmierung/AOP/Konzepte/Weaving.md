@@ -1,0 +1,1 @@
+Die Technik die die [[Synapsen/Informatik/Programmierung/AOP/Konzepte/Aspect]] und den Programmcode zusammenfügt

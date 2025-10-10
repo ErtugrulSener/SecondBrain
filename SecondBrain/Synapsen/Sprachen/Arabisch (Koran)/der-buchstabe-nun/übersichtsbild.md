@@ -1,0 +1,1 @@
+![[nun-sakina-rules.png]]

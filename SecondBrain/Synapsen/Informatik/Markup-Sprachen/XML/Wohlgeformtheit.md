@@ -1,0 +1,1 @@
+Ein XML-Dokument nennt man *wohlgeformt*, wenn es den *syntaktischen Regeln* entspricht.
