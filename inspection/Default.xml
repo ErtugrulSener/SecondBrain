@@ -22,6 +22,7 @@
         <option value="__COMMAND_LINE__" />
         <option value="CHARACTER_NAME_MAX_LEN" />
         <option value="LOCALE_PATH" />
+        <option value="rootlib" />
       </list>
     </option>
   </inspection_tool>
